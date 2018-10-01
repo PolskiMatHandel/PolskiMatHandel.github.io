@@ -1,0 +1,2174 @@
+TradeMaximizer Version 1.4a
+Options: ALLOW-DUMMIES LINEAR-PRIORITIES REQUIRE-COLONS REQUIRE-USERNAMES SHOW-MISSING SMALL-STEP=0 BIG-STEP=1
+
+Input Checksum: 708362ff7cb81fffd7e40499513bf83
+ERRORS:
+**** Item %ABOVE_AND_BELOW for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %ABOVE_AND_BELOW for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %ABOVE_AND_BELOW for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %ALCHEMISTS for user (ANTIDOTUM) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %ALCHEMISTS for user (ANTIDOTUM) is repeated in want list for 880.
+**** Item %ALTIPLANO for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %ALTIPLANO for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %BATTLE_FOR_ROKUGAN for user (WODA) is repeated in want list for 122.
+**** Item %BATTLE_FOR_ROKUGAN for user (WODA) is repeated in want list for 78.
+**** Item %BATTLE_FOR_ROKUGAN for user (WODA) is repeated in want list for 79.
+**** Item %BATTLE_FOR_ROKUGAN for user (WODA) is repeated in want list for 82.
+**** Item %BATTLE_FOR_ROKUGAN for user (WODA) is repeated in want list for 83.
+**** Item %BATTLE_FOR_ROKUGAN for user (WODA) is repeated in want list for 84.
+**** Item %BATTLE_FOR_ROKUGAN for user (WODA) is repeated in want list for 85.
+**** Item %BATTLE_FOR_ROKUGAN for user (WODA) is repeated in want list for 93.
+**** Item %BETWEEN_TWO_CITIES for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %BRASS_BIRMINGHAM for user (CRSUNIK) is repeated in want list for 629.
+**** Item %BRASS_LANCASHIRE for user (CRSUNIK) is repeated in want list for 629.
+**** Item %BRASS__BIRMINGHAM for user (RADZISZZ) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %BRASS__LANCASHIRE for user (RADZISZZ) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %BUBBLEE_POP for user (WODA) contains item 89 sender from the same user ((WODA))
+**** Item %BURANO for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %BURANO for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %BURANO for user (RADZISZZ) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %DUNGEON_PETZ for user (CRSUNIK) is repeated in want list for 629.
+**** Item %EX_LIBRIS for user (RADZISZZ) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %FEUDUM for user (RADZISZZ) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %FOOD_CHAIN_MAGNATE for user (CRSUNIK) is repeated in want list for 629.
+**** Item %GANZ_SCHÖN_CLEVER for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %GANZ_SCHÖN_CLEVER for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %GANZ_SCHÖN_CLEVER for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %GANZ_SCHÖN_CLEVER for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %HEAVEN___ALE for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %HEAVEN___ALE for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %HEAVEN___ALE for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %ISTANBUL_THE_DICE_GAME for user (ROXAS1231) is repeated in want list for 1121.
+**** Item %ISTANBUL__THE_DICE_GAME for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %ISTANBUL__THE_DICE_GAME for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %ISTANBUL__THE_DICE_GAME for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %KANAGAWA for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %KANAGAWA for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %KANAGAWA for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %KANAGAWA for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %KANAGAWA for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %KANAGAWA for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %LASVEGAS for user (ZERO_1627) is repeated in want list for 716.
+**** Item %LASVEGAS for user (ZERO_1627) is repeated in want list for 730.
+**** Item %MOMBASA for user (CRSUNIK) is repeated in want list for 629.
+**** Item %PIONEER_DAYS for user (CRSUNIK) is repeated in want list for 629.
+**** Item %PIONEER_DAYS for user (RADZISZZ) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %POWER_GRID__THE_CARD_GAME for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %POWER_GRID__THE_CARD_GAME for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %QUEENDOMINO for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %QUEENDOMINO for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %QUEENDOMINO for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %QUEENDOMINO for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %RACE_FOR_THE_GALAXY for user (CRSUNIK) is repeated in want list for 629.
+**** Item %RAJAS_OF_THE_GANGES for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %RAJAS_OF_THE_GANGES for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %SAGRADA for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %SAGRADA for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %SAN_JUAN__SECOND_EDITION_ for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %SAN_JUAN__SECOND_EDITION_ for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %SHADOWS_OF_BRIMSTONE_CITY_OF_THE_ANCIENTS for user (CRSUNIK) is repeated in want list for 629.
+**** Item %STEAM_WORKS for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %THE_CASTLES_OF_BURGUNDY for user (RADZISZZ) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %THE_CASTLES_OF_BURGUNDY__THE_CARD_GAME for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %THE_CASTLES_OF_BURGUNDY__THE_CARD_GAME for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %THE_CASTLES_OF_BURGUNDY__THE_CARD_GAME for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %UNLOCK__ESCAPE_ADVENTURES for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %UNLOCK__ESCAPE_ADVENTURES for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %VINHOS_DELUXE_EDITION for user (CRSUNIK) is repeated in want list for 629.
+**** Item %VITICULTURE_ESSENTIAL_EDITION for user (CRSUNIK) is repeated in want list for 629.
+**** Item %WASTELAND_EXPRESS_DELIVERY_SERVICE for user (CRSUNIK) is repeated in want list for 629.
+**** Item %XENOSHYFT_DREADMIRE for user (CRSUNIK) is repeated in want list for 629.
+**** Item %YAMATA for user (CRSUNIK) is repeated in want list for 629.
+**** Item %YAMATAÏ for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %YAMATAÏ for user (MARTENS10) has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Item %YOKOHAMA for user (CRSUNIK) is repeated in want list for 629.
+**** Item 1048 is repeated in want list for 1396.
+**** Item 1048 is repeated in want list for 1397.
+**** Item 1048 is repeated in want list for 434.
+**** Item 1048 is repeated in want list for 438.
+**** Item 1048 is repeated in want list for 439.
+**** Item 1048 is repeated in want list for 642.
+**** Item 1050 is repeated in want list for 1396.
+**** Item 1050 is repeated in want list for 1397.
+**** Item 1050 is repeated in want list for 434.
+**** Item 1050 is repeated in want list for 438.
+**** Item 1050 is repeated in want list for 439.
+**** Item 1050 is repeated in want list for 642.
+**** Item 1096 is repeated in want list for 1396.
+**** Item 1096 is repeated in want list for 1397.
+**** Item 1096 is repeated in want list for 434.
+**** Item 1096 is repeated in want list for 438.
+**** Item 1096 is repeated in want list for 439.
+**** Item 1096 is repeated in want list for 642.
+**** Item 1541 is repeated in want list for 1396.
+**** Item 1541 is repeated in want list for 1397.
+**** Item 1541 is repeated in want list for 434.
+**** Item 1541 is repeated in want list for 438.
+**** Item 1541 is repeated in want list for 439.
+**** Item 1541 is repeated in want list for 642.
+**** Item 1579 is repeated in want list for 234.
+**** Item 229 is repeated in want list for 1076.
+**** Item 436 is repeated in want list for 353.
+**** Item 497 is repeated in want list for 1396.
+**** Item 497 is repeated in want list for 1397.
+**** Item 497 is repeated in want list for 434.
+**** Item 497 is repeated in want list for 438.
+**** Item 497 is repeated in want list for 439.
+**** Item 497 is repeated in want list for 642.
+**** Item 54 is repeated in want list for 277.
+**** Item 54 is repeated in want list for 279.
+**** Item 54 is repeated in want list for 280.
+**** Item 54 is repeated in want list for 498.
+**** Item 557 is repeated in want list for 234.
+**** Item 562 is repeated in want list for 234.
+**** Item 596 is repeated in want list for 234.
+**** Item 842 is repeated in want list for 232.
+**** Item 945 is repeated in want list for 1396.
+**** Item 945 is repeated in want list for 1397.
+**** Item 945 is repeated in want list for 434.
+**** Item 945 is repeated in want list for 438.
+**** Item 945 is repeated in want list for 439.
+**** Item 945 is repeated in want list for 642.
+**** Unknown item %BRASS__LANCASHIRE for user (PRZEMO) (11 occurrences)
+**** Unknown item 1049 (1 occurrence)
+**** Unknown item 1051 (9 occurrences)
+**** Unknown item 1052 (1 occurrence)
+**** Unknown item 1053 (2 occurrences)
+**** Unknown item 1056 (28 occurrences)
+**** Unknown item 1057 (1 occurrence)
+**** Unknown item 1058 (11 occurrences)
+**** Unknown item 1060 (2 occurrences)
+**** Unknown item 1157 (2 occurrences)
+**** Unknown item 1158 (23 occurrences)
+**** Unknown item 1159 (6 occurrences)
+**** Unknown item 1160 (3 occurrences)
+**** Unknown item 1161 (11 occurrences)
+**** Unknown item 1267 (1 occurrence)
+**** Unknown item 1269 (1 occurrence)
+**** Unknown item 1272 (1 occurrence)
+**** Unknown item 1275 (1 occurrence)
+**** Unknown item 1280 (1 occurrence)
+**** Unknown item 1281 (2 occurrences)
+**** Unknown item 1282 (3 occurrences)
+**** Unknown item 1287 (1 occurrence)
+**** Unknown item 1288 (3 occurrences)
+**** Unknown item 1289 (1 occurrence)
+**** Unknown item 1290 (3 occurrences)
+**** Unknown item 1293 (4 occurrences)
+**** Unknown item 1294 (1 occurrence)
+**** Unknown item 1295 (2 occurrences)
+**** Unknown item 1299 (3 occurrences)
+**** Unknown item 1301 (2 occurrences)
+**** Unknown item 1303 (2 occurrences)
+**** Unknown item 1305 (1 occurrence)
+**** Unknown item 1307 (5 occurrences)
+**** Unknown item 1311 (1 occurrence)
+**** Unknown item 1312 (3 occurrences)
+**** Unknown item 1313 (2 occurrences)
+**** Unknown item 1315 (7 occurrences)
+**** Unknown item 1316 (1 occurrence)
+**** Unknown item 1317 (4 occurrences)
+**** Unknown item 1319 (3 occurrences)
+**** Unknown item 1320 (9 occurrences)
+**** Unknown item 1321 (6 occurrences)
+**** Unknown item 1322 (1 occurrence)
+**** Unknown item 1323 (1 occurrence)
+**** Unknown item 1325 (6 occurrences)
+**** Unknown item 1326 (25 occurrences)
+**** Unknown item 1330 (1 occurrence)
+**** Unknown item 1331 (1 occurrence)
+**** Unknown item 1333 (20 occurrences)
+**** Unknown item 1335 (3 occurrences)
+**** Unknown item 1336 (5 occurrences)
+**** Unknown item 1337 (4 occurrences)
+**** Unknown item 1338 (2 occurrences)
+**** Unknown item 1339 (8 occurrences)
+**** Unknown item 1340 (2 occurrences)
+**** Unknown item 1342 (2 occurrences)
+**** Unknown item 1343 (16 occurrences)
+**** Unknown item 1345 (19 occurrences)
+**** Unknown item 1347 (1 occurrence)
+**** Unknown item 1348 (1 occurrence)
+**** Unknown item 1349 (5 occurrences)
+**** Unknown item 1350 (12 occurrences)
+**** Unknown item 1351 (2 occurrences)
+**** Unknown item 1356 (1 occurrence)
+**** Unknown item 1358 (1 occurrence)
+**** Unknown item 1361 (1 occurrence)
+**** Unknown item 1362 (24 occurrences)
+**** Unknown item 1364 (6 occurrences)
+**** Unknown item 1367 (47 occurrences)
+**** Unknown item 1368 (1 occurrence)
+**** Unknown item 1369 (4 occurrences)
+**** Unknown item 1371 (14 occurrences)
+**** Unknown item 1373 (1 occurrence)
+**** Unknown item 1378 (5 occurrences)
+**** Unknown item 1489 (14 occurrences)
+**** Unknown item 1491 (9 occurrences)
+**** Unknown item 1528 (2 occurrences)
+**** Unknown item 1530 (6 occurrences)
+**** Unknown item 1531 (6 occurrences)
+**** Unknown item 1532 (2 occurrences)
+**** Unknown item 1533 (1 occurrence)
+**** Unknown item 1534 (1 occurrence)
+**** Unknown item 1536 (2 occurrences)
+**** Unknown item 1537 (1 occurrence)
+**** Unknown item 1538 (11 occurrences)
+**** Unknown item 1583 (1 occurrence)
+**** Unknown item 1584 (5 occurrences)
+**** Unknown item 1586 (2 occurrences)
+**** Unknown item 1587 (2 occurrences)
+**** Unknown item 1588 (1 occurrence)
+**** Unknown item 1591 (2 occurrences)
+**** Unknown item 237 (23 occurrences)
+**** Unknown item 239 (5 occurrences)
+**** Unknown item 240 (26 occurrences)
+**** Unknown item 243 (10 occurrences)
+**** Unknown item 246 (3 occurrences)
+**** Unknown item 252 (1 occurrence)
+**** Unknown item 392 (1 occurrence)
+**** Unknown item 393 (1 occurrence)
+**** Unknown item 394 (1 occurrence)
+**** Unknown item 396 (109 occurrences)
+**** Unknown item 397 (20 occurrences)
+**** Unknown item 398 (43 occurrences)
+**** Unknown item 399 (109 occurrences)
+**** Unknown item 400 (94 occurrences)
+**** Unknown item 403 (17 occurrences)
+**** Unknown item 406 (4 occurrences)
+**** Unknown item 407 (2 occurrences)
+**** Unknown item 408 (2 occurrences)
+**** Unknown item 512 (2 occurrences)
+**** Unknown item 513 (9 occurrences)
+**** Unknown item 514 (2 occurrences)
+**** Unknown item 515 (1 occurrence)
+**** Unknown item 517 (10 occurrences)
+**** Unknown item 518 (44 occurrences)
+**** Unknown item 519 (5 occurrences)
+**** Unknown item 520 (11 occurrences)
+**** Unknown item 521 (90 occurrences)
+**** Unknown item 522 (46 occurrences)
+**** Unknown item 523 (1 occurrence)
+**** Unknown item 524 (36 occurrences)
+**** Unknown item 525 (15 occurrences)
+**** Unknown item 526 (32 occurrences)
+**** Unknown item 538 (1 occurrence)
+**** Unknown item 912 (8 occurrences)
+**** Unknown item 913 (1 occurrence)
+**** Unknown item 914 (1 occurrence)
+**** Unknown item 915 (48 occurrences)
+
+TRADE LOOPS (474 total trades):
+
+(_AIS_) 1139            receives (YANOO) 22
+(YANOO) 22              receives (PRZEMO) 843
+(PRZEMO) 843            receives (JAKOBIAN87) 649
+(JAKOBIAN87) 649        receives (KLOS_X) 957
+(KLOS_X) 957            receives (JEDIMAVERIC) 888
+(JEDIMAVERIC) 888       receives (TOMZAQ) 480
+(TOMZAQ) 480            receives (MALEKITH_86) 1
+(MALEKITH_86) 1         receives (CIUNIEK) 1096
+(CIUNIEK) 1096          receives (SIEPACZ) 876
+(SIEPACZ) 876           receives (WALTERF) 534
+(WALTERF) 534           receives (RUNMAN) 54
+(RUNMAN) 54             receives (HARUN) 1386
+(HARUN) 1386            receives (SIEPACZ) 878
+(SIEPACZ) 878           receives (8JANEK8) 1579
+(8JANEK8) 1579          receives (KRISSOS) 1389
+(KRISSOS) 1389          receives (GINET1) 166
+(GINET1) 166            receives (B3R53RK3R) 1224
+(B3R53RK3R) 1224        receives (ALEXANDRYTKA) 98
+(ALEXANDRYTKA) 98       receives (KMET) 972
+(KMET) 972              receives (GOLONKO) 1544
+(GOLONKO) 1544          receives (CACTUSSE) 136
+(CACTUSSE) 136          receives (LUBEL) 1324
+(LUBEL) 1324            receives (MARCIN95) 440
+(MARCIN95) 440          receives (PPIECHUU) 962
+(PPIECHUU) 962          receives (CACTUSSE) 115
+(CACTUSSE) 115          receives (FPS_PYZ) 999
+(FPS_PYZ) 999           receives (EMUNOWAK) 1353
+(EMUNOWAK) 1353         receives (LIMPINGMAN) 1201
+(LIMPINGMAN) 1201       receives (RUNMAN) 502
+(RUNMAN) 502            receives (NEKKORU) 48
+(NEKKORU) 48            receives (COIN22) 437
+(COIN22) 437            receives (NEKKORU) 900
+(NEKKORU) 900           receives (GODUNOW) 733
+(GODUNOW) 733           receives (COIN22) 436
+(COIN22) 436            receives (RAZUL) 729
+(RAZUL) 729             receives (ARSAGHAR) 530
+(ARSAGHAR) 530          receives (ZBAJSZEK) 767
+(ZBAJSZEK) 767          receives (SUCHAR) 930
+(SUCHAR) 930            receives (NICPONN) 640
+(NICPONN) 640           receives (ANOPTICHTYS) 785
+(ANOPTICHTYS) 785       receives (FINNAN) 499
+(FINNAN) 499            receives (MONGEA) 1438
+(MONGEA) 1438           receives (RAZUL) 298
+(RAZUL) 298             receives (B3R53RK3R) 1222
+(B3R53RK3R) 1222        receives (KLOS_X) 385
+(KLOS_X) 385            receives (LHAPKA) 1085
+(LHAPKA) 1085           receives (WODA) 77
+(WODA) 77               receives (BARTP) 59
+(BARTP) 59              receives (FINEZIX) 1476
+(FINEZIX) 1476          receives (RAZUL) 333
+(RAZUL) 333             receives (MONGEA) 1425
+(MONGEA) 1425           receives (NICPONN) 1071
+(NICPONN) 1071          receives (EREM) 762
+(EREM) 762              receives (MONGEA) 1456
+(MONGEA) 1456           receives (MEFIUG) 856
+(MEFIUG) 856            receives (HAPPOSAI) 1510
+(HAPPOSAI) 1510         receives (APIEJH) 700
+(APIEJH) 700            receives (BALIS) 1513
+(BALIS) 1513            receives (COMFORT EAGLE) 632
+(COMFORT EAGLE) 632     receives (POKET) 776
+(POKET) 776             receives (BARTP) 69
+(BARTP) 69              receives (_AIS_) 1148
+(_AIS_) 1148            receives (LHAPKA) 991
+(LHAPKA) 991            receives (TIKTUK) 964
+(TIKTUK) 964            receives (PROBBI) 1048
+(PROBBI) 1048           receives (TEHANU) 109
+(TEHANU) 109            receives (RAZUL) 318
+(RAZUL) 318             receives (JAX7) 1563
+(JAX7) 1563             receives (TIKTUK) 593
+(TIKTUK) 593            receives (NAHAR) 1066
+(NAHAR) 1066            receives (MAZUR84) 1265
+(MAZUR84) 1265          receives (FINNAN) 1068
+(FINNAN) 1068           receives (PROBBI) 1050
+(PROBBI) 1050           receives (KRIONAH) 619
+(KRIONAH) 619           receives (TIKTUK) 588
+(TIKTUK) 588            receives (MAJKOS) 235
+(MAJKOS) 235            receives (SIEPACZ) 875
+(SIEPACZ) 875           receives (GAMBIT_GGK) 833
+(GAMBIT_GGK) 833        receives (MIRAS23) 635
+(MIRAS23) 635           receives (GRUNWALD) 230
+(GRUNWALD) 230          receives (CACTUSSE) 112
+(CACTUSSE) 112          receives (TOMZAQ) 478
+(TOMZAQ) 478            receives (RAZUL) 303
+(RAZUL) 303             receives (MISHIRE) 1210
+(MISHIRE) 1210          receives (KMET) 970
+(KMET) 970              receives (WODA) 129
+(WODA) 129              receives (IMPERIAL STOUT) 597
+(IMPERIAL STOUT) 597    receives (NICPONN) 961
+(NICPONN) 961           receives (AAXXEE) 127
+(AAXXEE) 127            receives (EREM) 761
+(EREM) 761              receives (PERO PAMBARASCO) 689
+(PERO PAMBARASCO) 689   receives (GEKOPL) 979
+(GEKOPL) 979            receives (PIODAG) 270
+(PIODAG) 270            receives (JAJKOS) 391
+(JAJKOS) 391            receives (WUJEK2114) 1167
+(WUJEK2114) 1167        receives (MONGEA) 1460
+(MONGEA) 1460           receives (STOICKOV) 228
+(STOICKOV) 228          receives (_AIS_) 1141
+(_AIS_) 1141            receives (WALTERF) 535
+(WALTERF) 535           receives (RAZUL) 290
+(RAZUL) 290             receives (KROMKA) 432
+(KROMKA) 432            receives (_AIS_) 1150
+(_AIS_) 1150            receives (BOBULE) 267
+(BOBULE) 267            receives (JAJKOS) 483
+(JAJKOS) 483            receives (FINEZIX) 1479
+(FINEZIX) 1479          receives (KRIONAH) 624
+(KRIONAH) 624           receives (LYSYPK) 357
+(LYSYPK) 357            receives (WODA) 92
+(WODA) 92               receives (CACTUSSE) 207
+(CACTUSSE) 207          receives (WODA) 99
+(WODA) 99               receives (NEKKORU) 908
+(NEKKORU) 908           receives (CACTUSSE) 132
+(CACTUSSE) 132          receives (SYDONIAA) 1187
+(SYDONIAA) 1187         receives (MASZTALSKI) 559
+(MASZTALSKI) 559        receives (CACTUSSE) 168
+(CACTUSSE) 168          receives (_AIS_) 1180
+(_AIS_) 1180            receives (SCHLESSIER) 820
+(SCHLESSIER) 820        receives (WODA) 97
+(WODA) 97               receives (KASZKIET) 421
+(KASZKIET) 421          receives (PROBBI) 1067
+(PROBBI) 1067           receives (ROBOI250) 1244
+(ROBOI250) 1244         receives (WUJEK2114) 1169
+(WUJEK2114) 1169        receives (ALEXANDRYTKA) 94
+(ALEXANDRYTKA) 94       receives (FINEZIX) 1418
+(FINEZIX) 1418          receives (AHRIAN) 1038
+(AHRIAN) 1038           receives (MONGEA) 1436
+(MONGEA) 1436           receives (EREM) 756
+(EREM) 756              receives (MONGEA) 1454
+(MONGEA) 1454           receives (GINET1) 153
+(GINET1) 153            receives (JAX7) 1560
+(JAX7) 1560             receives (MARTENS10) 465
+(MARTENS10) 465         receives (LYSYPK) 356
+(LYSYPK) 356            receives (FANTAZYN) 231
+(FANTAZYN) 231          receives (CRSUNIK) 548
+(CRSUNIK) 548           receives (KASZKIET) 416
+(KASZKIET) 416          receives (CHAABER) 1263
+(CHAABER) 1263          receives (APIEJH) 696
+(APIEJH) 696            receives (MAT_EYO) 564
+(MAT_EYO) 564           receives (CACTUSSE) 125
+(CACTUSSE) 125          receives (TEHANU) 113
+(TEHANU) 113            receives (BARDOK) 280
+(BARDOK) 280            receives (CACTUSSE) 199
+(CACTUSSE) 199          receives (KDSZ) 268
+(KDSZ) 268              receives (MEFIUG) 871
+(MEFIUG) 871            receives (BARDOK) 279
+(BARDOK) 279            receives (LHAPKA) 1088
+(LHAPKA) 1088           receives (FINEZIX) 1470
+(FINEZIX) 1470          receives (RAZUL) 292
+(RAZUL) 292             receives (YANOO) 20
+(YANOO) 20              receives (PIECHU) 1570
+(PIECHU) 1570           receives (MEFIUG) 862
+(MEFIUG) 862            receives (PIECHU) 1572
+(PIECHU) 1572           receives (WAMPIK) 668
+(WAMPIK) 668            receives (FINEZIX) 1477
+(FINEZIX) 1477          receives (REEVS) 1545
+(REEVS) 1545            receives (MORKRET) 940
+(MORKRET) 940           receives (ANOPTICHTYS) 791
+(ANOPTICHTYS) 791       receives (VDER) 1132
+(VDER) 1132             receives (FPS_PYZ) 995
+(FPS_PYZ) 995           receives (MISHIRE) 1217
+(MISHIRE) 1217          receives (RAZUL) 330
+(RAZUL) 330             receives (DONKICHOTE87) 1007
+(DONKICHOTE87) 1007     receives (SPIOSEK) 1363
+(SPIOSEK) 1363          receives (PAWELACB) 981
+(PAWELACB) 981          receives (OMAM1234) 352
+(OMAM1234) 352          receives (CHAABER) 1260
+(CHAABER) 1260          receives (RAZUL) 311
+(RAZUL) 311             receives (LIMPINGMAN) 1189
+(LIMPINGMAN) 1189       receives (RUNMAN) 49
+(RUNMAN) 49             receives (RAZUL) 288
+(RAZUL) 288             receives (8JANEK8) 1582
+(8JANEK8) 1582          receives (LYSYPK) 501
+(LYSYPK) 501            receives (B3R53RK3R) 1188
+(B3R53RK3R) 1188        receives (FPS_PYZ) 1000
+(FPS_PYZ) 1000          receives (KMET) 977
+(KMET) 977              receives (FIZOLOF) 1086
+(FIZOLOF) 1086          receives (ZERO_1627) 730
+(ZERO_1627) 730         receives (WODA) 79
+(WODA) 79               receives (BARTP) 64
+(BARTP) 64              receives (WODA) 78
+(WODA) 78               receives (EMUNOWAK) 1366
+(EMUNOWAK) 1366         receives (KERUKR) 1402
+(KERUKR) 1402           receives (TANTAR) 458
+(TANTAR) 458            receives (KDSZ) 264
+(KDSZ) 264              receives (CORQAN) 883
+(CORQAN) 883            receives (WODA) 76
+(WODA) 76               receives (JACEK_PL) 493
+(JACEK_PL) 493          receives (WAPNIAK) 724
+(WAPNIAK) 724           receives (CACTUSSE) 187
+(CACTUSSE) 187          receives (BARTP) 73
+(BARTP) 73              receives (CACTUSSE) 151
+(CACTUSSE) 151          receives (VCRPROSZEK) 750
+(VCRPROSZEK) 750        receives (CACTUSSE) 189
+(CACTUSSE) 189          receives (CHAABER) 1262
+(CHAABER) 1262          receives (EREM) 758
+(EREM) 758              receives (COIN22) 1397
+(COIN22) 1397           receives (WAPNIAK) 719
+(WAPNIAK) 719           receives (APIEJH) 695
+(APIEJH) 695            receives (CORABB) 924
+(CORABB) 924            receives (MAT_EYO) 566
+(MAT_EYO) 566           receives (LUBEL) 450
+(LUBEL) 450             receives (MONGEA) 1505
+(MONGEA) 1505           receives (MARTENS10) 464
+(MARTENS10) 464         receives (NEKKORU) 1028
+(NEKKORU) 1028          receives (SANDY86) 683
+(SANDY86) 683           receives (KLOS_X) 954
+(KLOS_X) 954            receives (BARTP) 71
+(BARTP) 71              receives (SIPIO) 575
+(SIPIO) 575             receives (WUJEK2114) 1173
+(WUJEK2114) 1173        receives (CACTUSSE) 155
+(CACTUSSE) 155          receives (ROBOI250) 1525
+(ROBOI250) 1525         receives (WODA) 91
+(WODA) 91               receives (JOOZEK) 1372
+(JOOZEK) 1372           receives (CACTUSSE) 175
+(CACTUSSE) 175          receives (BOBULE) 242
+(BOBULE) 242            receives (COIN22) 1396
+(COIN22) 1396           receives (QRZY88) 282
+(QRZY88) 282            receives (IMPERIAL STOUT) 596
+(IMPERIAL STOUT) 596    receives (AFGNCAAP) 1520
+(AFGNCAAP) 1520         receives (NEKKORU) 31
+(NEKKORU) 31            receives (JAJKOS) 471
+(JAJKOS) 471            receives (ROBOI250) 1245
+(ROBOI250) 1245         receives (WUJEK2114) 1179
+(WUJEK2114) 1179        receives (MEFIUG) 899
+(MEFIUG) 899            receives (JOANNAS) 1254
+(JOANNAS) 1254          receives (MEFIUG) 863
+(MEFIUG) 863            receives (KERUKR) 1401
+(KERUKR) 1401           receives (MORKRET) 939
+(MORKRET) 939           receives (PIOTREKBIER) 1041
+(PIOTREKBIER) 1041      receives (ALEXANDRYTKA) 96
+(ALEXANDRYTKA) 96       receives (RAZUL) 342
+(RAZUL) 342             receives (MILEV) 709
+(MILEV) 709             receives (PROBBI) 1064
+(PROBBI) 1064           receives (CACTUSSE) 131
+(CACTUSSE) 131          receives (KMET) 1249
+(KMET) 1249             receives (SANDY86) 681
+(SANDY86) 681           receives (DONKICHOTE87) 1018
+(DONKICHOTE87) 1018     receives (NEKKORU) 37
+(NEKKORU) 37            receives (CACTUSSE) 163
+(CACTUSSE) 163          receives (PROBBI) 1062
+(PROBBI) 1062           receives (ANIAW89) 628
+(ANIAW89) 628           receives (_AIS_) 1142
+(_AIS_) 1142            receives (NEKKORU) 27
+(NEKKORU) 27            receives (TOMZAQ) 472
+(TOMZAQ) 472            receives (REEVS) 1553
+(REEVS) 1553            receives (GOLONKO) 1543
+(GOLONKO) 1543          receives (PROBBI) 1065
+(PROBBI) 1065           receives (KASZKIET) 418
+(KASZKIET) 418          receives (HAPPOSAI) 484
+(HAPPOSAI) 484          receives (KROMKA) 431
+(KROMKA) 431            receives (LIMPINGMAN) 1195
+(LIMPINGMAN) 1195       receives (8JANEK8) 1581
+(8JANEK8) 1581          receives (TANTAR) 455
+(TANTAR) 455            receives (ANOPTICHTYS) 793
+(ANOPTICHTYS) 793       receives (JEDIMAVERIC) 886
+(JEDIMAVERIC) 886       receives (ANOPTICHTYS) 787
+(ANOPTICHTYS) 787       receives (WAPNIAK) 721
+(WAPNIAK) 721           receives (LHAPKA) 1087
+(LHAPKA) 1087           receives (WODA) 75
+(WODA) 75               receives (COMFORT EAGLE) 633
+(COMFORT EAGLE) 633     receives (WAMPIK) 672
+(WAMPIK) 672            receives (KROMKA) 423
+(KROMKA) 423            receives (BAN4Y) 291
+(BAN4Y) 291             receives (ZERO_1627) 717
+(ZERO_1627) 717         receives (EREM) 754
+(EREM) 754              receives (CORABB) 927
+(CORABB) 927            receives (MONGEA) 1585
+(MONGEA) 1585           receives (SANDY86) 675
+(SANDY86) 675           receives (ZERO_1627) 715
+(ZERO_1627) 715         receives (LHAPKA) 1084
+(LHAPKA) 1084           receives (MEFIUG) 858
+(MEFIUG) 858            receives (ADMI99) 200
+(ADMI99) 200            receives (GIGI) 1032
+(GIGI) 1032             receives (MARTENS10) 469
+(MARTENS10) 469         receives (TUMINURE) 932
+(TUMINURE) 932          receives (KRIONAH) 625
+(KRIONAH) 625           receives (IMPERIAL STOUT) 874
+(IMPERIAL STOUT) 874    receives (ANOPTICHTYS) 783
+(ANOPTICHTYS) 783       receives (MAT_EYO) 563
+(MAT_EYO) 563           receives (NEKKORU) 904
+(NEKKORU) 904           receives (LUBEL) 449
+(LUBEL) 449             receives (CORQAN) 815
+(CORQAN) 815            receives (CHAABER) 1255
+(CHAABER) 1255          receives (SIPIO) 576
+(SIPIO) 576             receives (GINET1) 1497
+(GINET1) 1497           receives (CRSUNIK) 989
+(CRSUNIK) 989           receives (RAZUL) 323
+(RAZUL) 323             receives (COIN22) 1399
+(COIN22) 1399           receives (KRIONAH) 620
+(KRIONAH) 620           receives (BADYL) 971
+(BADYL) 971             receives (SYDONIAA) 1181
+(SYDONIAA) 1181         receives (DONKICHOTE87) 1017
+(DONKICHOTE87) 1017     receives (JINGOWAWA) 1128
+(JINGOWAWA) 1128        receives (KRIONAH) 622
+(KRIONAH) 622           receives (POKET) 780
+(POKET) 780             receives (ZERO_1627) 718
+(ZERO_1627) 718         receives (MARTENS10) 466
+(MARTENS10) 466         receives (MILEV) 710
+(MILEV) 710             receives (SHADOWA) 1304
+(SHADOWA) 1304          receives (DONKICHOTE87) 1006
+(DONKICHOTE87) 1006     receives (CHAABER) 1257
+(CHAABER) 1257          receives (EREM) 760
+(EREM) 760              receives (KASZKIET) 537
+(KASZKIET) 537          receives (LSKA) 1234
+(LSKA) 1234             receives (KDSZ) 260
+(KDSZ) 260              receives (RUNMAN) 51
+(RUNMAN) 51             receives (MARTENS10) 462
+(MARTENS10) 462         receives (WODA) 87
+(WODA) 87               receives (SCHLESSIER) 819
+(SCHLESSIER) 819        receives (WAPNIAK) 722
+(WAPNIAK) 722           receives (RAZUL) 329
+(RAZUL) 329             receives (CACTUSSE) 174
+(CACTUSSE) 174          receives (KDSZ) 261
+(KDSZ) 261              receives (PAWELACB) 983
+(PAWELACB) 983          receives (NEKKORU) 38
+(NEKKORU) 38            receives (GRUNWALD) 57
+(GRUNWALD) 57           receives (MNOWACZY) 1154
+(MNOWACZY) 1154         receives (RUNMAN) 53
+(RUNMAN) 53             receives (JAX7) 1555
+(JAX7) 1555             receives (MASZTALSKI) 558
+(MASZTALSKI) 558        receives (CACTUSSE) 213
+(CACTUSSE) 213          receives (GINET1) 154
+(GINET1) 154            receives (BARTP) 1040
+(BARTP) 1040            receives (MIRAS23) 636
+(MIRAS23) 636           receives (CORQAN) 884
+(CORQAN) 884            receives (CACTUSSE) 120
+(CACTUSSE) 120          receives (ARSAGHAR) 528
+(ARSAGHAR) 528          receives (NEKKORU) 35
+(NEKKORU) 35            receives (WODA) 102
+(WODA) 102              receives (TANTAR) 453
+(TANTAR) 453            receives (CACTUSSE) 176
+(CACTUSSE) 176          receives (CORQAN) 881
+(CORQAN) 881            receives (JINGOWAWA) 1127
+(JINGOWAWA) 1127        receives (SIPIO) 580
+(SIPIO) 580             receives (BALIS) 1521
+(BALIS) 1521            receives (PIECHU) 1569
+(PIECHU) 1569           receives (FINEZIX) 1414
+(FINEZIX) 1414          receives (JOANNAS) 1261
+(JOANNAS) 1261          receives (QBALDUS1) 506
+(QBALDUS1) 506          receives (NEKKORU) 26
+(NEKKORU) 26            receives (PRZEMO) 839
+(PRZEMO) 839            receives (TEHANU) 654
+(TEHANU) 654            receives (BADYL) 975
+(BADYL) 975             receives (LYSYPK) 990
+(LYSYPK) 990            receives (FANTAZYN) 233
+(FANTAZYN) 233          receives (BARTP) 70
+(BARTP) 70              receives (CACTUSSE) 158
+(CACTUSSE) 158          receives (MAT_EYO) 569
+(MAT_EYO) 569           receives (TIKTUK) 965
+(TIKTUK) 965            receives (SPIOSEK) 1355
+(SPIOSEK) 1355          receives (GRUNWALD) 45
+(GRUNWALD) 45           receives (DONKICHOTE87) 1011
+(DONKICHOTE87) 1011     receives (KRISSOS) 1381
+(KRISSOS) 1381          receives (LIMPINGMAN) 1207
+(LIMPINGMAN) 1207       receives (ARDEL_PL) 1246
+(ARDEL_PL) 1246         receives (MAJKOS) 236
+(MAJKOS) 236            receives (GAMBIT_GGK) 826
+(GAMBIT_GGK) 826        receives (JAKOBIAN87) 644
+(JAKOBIAN87) 644        receives (RAZUL) 312
+(RAZUL) 312             receives (MONGEA) 1478
+(MONGEA) 1478           receives (FIZOLOF) 1089
+(FIZOLOF) 1089          receives (SPIOSEK) 1357
+(SPIOSEK) 1357          receives (GRZES19) 258
+(GRZES19) 258           receives (NEKKORU) 28
+(NEKKORU) 28            receives (CACTUSSE) 500
+(CACTUSSE) 500          receives (BARTP) 65
+(BARTP) 65              receives (MARIOOSH) 855
+(MARIOOSH) 855          receives (GIGI) 1031
+(GIGI) 1031             receives (TANTAR) 456
+(TANTAR) 456            receives (BARDOK) 277
+(BARDOK) 277            receives (LHAPKA) 1483
+(LHAPKA) 1483           receives (WODA) 89
+(WODA) 89               receives (CHAABER) 1252
+(CHAABER) 1252          receives (BAN4Y) 349
+(BAN4Y) 349             receives (WALTERF) 533
+(WALTERF) 533           receives (MILEV) 708
+(MILEV) 708             receives (TIKTUK) 592
+(TIKTUK) 592            receives (GURTH) 1374
+(GURTH) 1374            receives (TUMINURE) 934
+(TUMINURE) 934          receives (MARIOOSH) 859
+(MARIOOSH) 859          receives (THINSPOON) 1352
+(THINSPOON) 1352        receives (NEKKORU) 17
+(NEKKORU) 17            receives (RAZUL) 810
+(RAZUL) 810             receives (OMAM1234) 355
+(OMAM1234) 355          receives (VDER) 1136
+(VDER) 1136             receives (FINNAN) 1063
+(FINNAN) 1063           receives (WOTHAN) 269
+(WOTHAN) 269            receives (GAMBIT_GGK) 825
+(GAMBIT_GGK) 825        receives (WODA) 86
+(WODA) 86               receives (MARTENS10) 463
+(MARTENS10) 463         receives (KERUKR) 1398
+(KERUKR) 1398           receives (CACTUSSE) 123
+(CACTUSSE) 123          receives (TANTAR) 451
+(TANTAR) 451            receives (OMAM1234) 354
+(OMAM1234) 354          receives (ROXAS1231) 1115
+(ROXAS1231) 1115        receives (PRZEMO) 836
+(PRZEMO) 836            receives (NEKKORU) 25
+(NEKKORU) 25            receives (LUBEL) 1178
+(LUBEL) 1178            receives (EREM) 757
+(EREM) 757              receives (_AIS_) 1143
+(_AIS_) 1143            receives (8JANEK8) 1580
+(8JANEK8) 1580          receives (PRZEMO) 852
+(PRZEMO) 852            receives (JEDIMAVERIC) 890
+(JEDIMAVERIC) 890       receives (_AIS_) 1144
+(_AIS_) 1144            receives (MALEKITH_86) 2
+(MALEKITH_86) 2         receives (PAWELACB) 985
+(PAWELACB) 985          receives (CACTUSSE) 188
+(CACTUSSE) 188          receives (GRUNWALD) 42
+(GRUNWALD) 42           receives (ADALBERT) 1405
+(ADALBERT) 1405         receives (PAWELACB) 982
+(PAWELACB) 982          receives (GRUNWALD) 47
+(GRUNWALD) 47           receives (KRISSOS) 1387
+(KRISSOS) 1387          receives (LSKA) 1229
+(LSKA) 1229             receives (ANOPTICHTYS) 792
+(ANOPTICHTYS) 792       receives (MONGEA) 1499
+(MONGEA) 1499           receives (BADYL) 973
+(BADYL) 973             receives (JACEKBARBER) 1100
+(JACEKBARBER) 1100      receives (RAZUL) 295
+(RAZUL) 295             receives (NAHAR) 496
+(NAHAR) 496             receives (MARIOOSH) 1233
+(MARIOOSH) 1233         receives (SHADOWA) 1300
+(SHADOWA) 1300          receives (ROXAS1231) 1120
+(ROXAS1231) 1120        receives (THINSPOON) 1341
+(THINSPOON) 1341        receives (SUCHAR) 929
+(SUCHAR) 929            receives (TRNKS_) 412
+(TRNKS_) 412            receives (YANOO) 32
+(YANOO) 32              receives (LYSYPK) 358
+(LYSYPK) 358            receives (NEKKORU) 55
+(NEKKORU) 55            receives (SANDY86) 678
+(SANDY86) 678           receives (ALEXANDRYTKA) 88
+(ALEXANDRYTKA) 88       receives (LSKA) 1231
+(LSKA) 1231             receives (MARTENS10) 468
+(MARTENS10) 468         receives (BADYL) 1196
+(BADYL) 1196            receives (SIPIO) 872
+(SIPIO) 872             receives (GINET1) 152
+(GINET1) 152            receives (PITONOWIE) 1240
+(PITONOWIE) 1240        receives (ARDEL_PL) 1247
+(ARDEL_PL) 1247         receives (PIOKS) 946
+(PIOKS) 946             receives (NEKKORU) 19
+(NEKKORU) 19            receives (ZBAJSZEK) 766
+(ZBAJSZEK) 766          receives (GAMBIT_GGK) 832
+(GAMBIT_GGK) 832        receives (MALEKITH_86) 7
+(MALEKITH_86) 7         receives (CRSUNIK) 541
+(CRSUNIK) 541           receives (REEVS) 1552
+(REEVS) 1552            receives (FIZOLOF) 1076
+(FIZOLOF) 1076          receives (APIEJH) 701
+(APIEJH) 701            receives (WILCZELYKO) 680
+(WILCZELYKO) 680        receives (GOODGUY) 594
+(GOODGUY) 594           receives (BOGUSZO) 107
+(BOGUSZO) 107           receives (TUREK) 510
+(TUREK) 510             receives (POKET) 772
+(POKET) 772             receives (_AIS_) 1139
+
+(_AIS_) 1153            receives (WODA) 81
+(WODA) 81               receives (KDSZ) 265
+(KDSZ) 265              receives (_AIS_) 1153
+
+(CACTUSSE) 183          receives (OMAM1234) 353
+(OMAM1234) 353          receives (NAHAR) 595
+(NAHAR) 595             receives (MEFIUG) 864
+(MEFIUG) 864            receives (JAKOBIAN87) 645
+(JAKOBIAN87) 645        receives (MIRAS23) 637
+(MIRAS23) 637           receives (RAZUL) 301
+(RAZUL) 301             receives (PIOKS) 947
+(PIOKS) 947             receives (GRZES19) 244
+(GRZES19) 244           receives (HIPPIE93) 1107
+(HIPPIE93) 1107         receives (WAPNIAK) 723
+(WAPNIAK) 723           receives (SANDY86) 677
+(SANDY86) 677           receives (GAMBIT_GGK) 834
+(GAMBIT_GGK) 834        receives (MAT_EYO) 568
+(MAT_EYO) 568           receives (RAZUL) 300
+(RAZUL) 300             receives (MARIOOSH) 861
+(MARIOOSH) 861          receives (GRUNWALD) 56
+(GRUNWALD) 56           receives (CACTUSSE) 183
+
+(CIUNIEK) 1101          receives (FINNAN) 1069
+(FINNAN) 1069           receives (CIUNIEK) 1101
+
+ITEM SUMMARY (474 total trades):
+
+(8JANEK8) 1579          receives (KRISSOS) 1389          and sends to (SIEPACZ) 878
+(8JANEK8) 1580          receives (PRZEMO) 852            and sends to (_AIS_) 1143
+(8JANEK8) 1581          receives (TANTAR) 455            and sends to (LIMPINGMAN) 1195
+(8JANEK8) 1582          receives (LYSYPK) 501            and sends to (RAZUL) 288
+(AAXXEE) 1114                       does not trade
+(AAXXEE) 127            receives (EREM) 761              and sends to (NICPONN) 961
+(AAXXEE) 663                        does not trade
+(ADALBERT) 1405         receives (PAWELACB) 982          and sends to (GRUNWALD) 42
+(ADALBERT) 1406                     does not trade
+(ADALBERT) 1410                     does not trade
+(ADALBERT) 598                      does not trade
+(ADALBERT) 599                      does not trade
+(ADALBERT) 600                      does not trade
+(ADALBERT) 601                      does not trade
+(ADALBERT) 602                      does not trade
+(ADALBERT) 603                      does not trade
+(ADAQ30) 390                        does not trade
+(ADAQ30) 405                        does not trade
+(ADMI99) 193                        does not trade
+(ADMI99) 194                        does not trade
+(ADMI99) 195                        does not trade
+(ADMI99) 197                        does not trade
+(ADMI99) 198                        does not trade
+(ADMI99) 200            receives (GIGI) 1032             and sends to (MEFIUG) 858
+(ADMI99) 359                        does not trade
+(ADMI99) 671                        does not trade
+(ADMI99) 821                        does not trade
+(AFGNCAAP) 1520         receives (NEKKORU) 31            and sends to (IMPERIAL STOUT) 596
+(AHRIAN) 1035                       does not trade
+(AHRIAN) 1036                       does not trade
+(AHRIAN) 1037                       does not trade
+(AHRIAN) 1038           receives (MONGEA) 1436           and sends to (FINEZIX) 1418
+(AHRIAN) 1039                       does not trade
+(ALEXANDRYTKA) 100                  does not trade
+(ALEXANDRYTKA) 101                  does not trade
+(ALEXANDRYTKA) 103                  does not trade
+(ALEXANDRYTKA) 104                  does not trade
+(ALEXANDRYTKA) 105                  does not trade
+(ALEXANDRYTKA) 80                   does not trade
+(ALEXANDRYTKA) 88       receives (LSKA) 1231             and sends to (SANDY86) 678
+(ALEXANDRYTKA) 94       receives (FINEZIX) 1418          and sends to (WUJEK2114) 1169
+(ALEXANDRYTKA) 96       receives (RAZUL) 342             and sends to (PIOTREKBIER) 1041
+(ALEXANDRYTKA) 98       receives (KMET) 972              and sends to (B3R53RK3R) 1224
+(ANIAW89) 628           receives (_AIS_) 1142            and sends to (PROBBI) 1062
+(ANOPTICHTYS) 1027                  does not trade
+(ANOPTICHTYS) 783       receives (MAT_EYO) 563           and sends to (IMPERIAL STOUT) 874
+(ANOPTICHTYS) 784                   does not trade
+(ANOPTICHTYS) 785       receives (FINNAN) 499            and sends to (NICPONN) 640
+(ANOPTICHTYS) 786                   does not trade
+(ANOPTICHTYS) 787       receives (WAPNIAK) 721           and sends to (JEDIMAVERIC) 886
+(ANOPTICHTYS) 788                   does not trade
+(ANOPTICHTYS) 789                   does not trade
+(ANOPTICHTYS) 790                   does not trade
+(ANOPTICHTYS) 791       receives (VDER) 1132             and sends to (MORKRET) 940
+(ANOPTICHTYS) 792       receives (MONGEA) 1499           and sends to (LSKA) 1229
+(ANOPTICHTYS) 793       receives (JEDIMAVERIC) 886       and sends to (TANTAR) 455
+(ANOPTICHTYS) 794                   does not trade
+(ANOPTICHTYS) 795                   does not trade
+(ANOPTICHTYS) 796                   does not trade
+(ANOPTICHTYS) 797                   does not trade
+(ANOPTICHTYS) 798                   does not trade
+(ANTIDOTUM) 879                     does not trade
+(ANTIDOTUM) 880                     does not trade
+(APIEJH) 694                        does not trade
+(APIEJH) 695            receives (CORABB) 924            and sends to (WAPNIAK) 719
+(APIEJH) 696            receives (MAT_EYO) 564           and sends to (CHAABER) 1263
+(APIEJH) 697                        does not trade
+(APIEJH) 698                        does not trade
+(APIEJH) 700            receives (BALIS) 1513            and sends to (HAPPOSAI) 1510
+(APIEJH) 701            receives (WILCZELYKO) 680        and sends to (FIZOLOF) 1076
+(APIEJH) 702                        does not trade
+(APIEJH) 703                        does not trade
+(ARDEL_PL) 1246         receives (MAJKOS) 236            and sends to (LIMPINGMAN) 1207
+(ARDEL_PL) 1247         receives (PIOKS) 946             and sends to (PITONOWIE) 1240
+(ARSAGHAR) 527                      does not trade
+(ARSAGHAR) 528          receives (NEKKORU) 35            and sends to (CACTUSSE) 120
+(ARSAGHAR) 529                      does not trade
+(ARSAGHAR) 530          receives (ZBAJSZEK) 767          and sends to (RAZUL) 729
+(B3R53RK3R) 1188        receives (FPS_PYZ) 1000          and sends to (LYSYPK) 501
+(B3R53RK3R) 1216                    does not trade
+(B3R53RK3R) 1218                    does not trade
+(B3R53RK3R) 1219                    does not trade
+(B3R53RK3R) 1222        receives (KLOS_X) 385            and sends to (RAZUL) 298
+(B3R53RK3R) 1224        receives (ALEXANDRYTKA) 98       and sends to (GINET1) 166
+(BADYL) 1196            receives (SIPIO) 872             and sends to (MARTENS10) 468
+(BADYL) 1197                        does not trade
+(BADYL) 1199                        does not trade
+(BADYL) 1236                        does not trade
+(BADYL) 1237                        does not trade
+(BADYL) 1238                        does not trade
+(BADYL) 1239                        does not trade
+(BADYL) 971             receives (SYDONIAA) 1181         and sends to (KRIONAH) 620
+(BADYL) 973             receives (JACEKBARBER) 1100      and sends to (MONGEA) 1499
+(BADYL) 975             receives (LYSYPK) 990            and sends to (TEHANU) 654
+(BALINT77) 1025                     does not trade
+(BALINT77) 1026                     does not trade
+(BALINT77) 1029                     does not trade
+(BALINT77) 1227                     does not trade
+(BALINT77) 604                      does not trade
+(BALINT77) 605                      does not trade
+(BALINT77) 606                      does not trade
+(BALINT77) 607                      does not trade
+(BALINT77) 608                      does not trade
+(BALINT77) 609                      does not trade
+(BALINT77) 610                      does not trade
+(BALINT77) 611                      does not trade
+(BALINT77) 612                      does not trade
+(BALINT77) 613                      does not trade
+(BALINT77) 614                      does not trade
+(BALINT77) 615                      does not trade
+(BALINT77) 616                      does not trade
+(BALINT77) 617                      does not trade
+(BALINT77) 618                      does not trade
+(BALIS) 1506                        does not trade
+(BALIS) 1507                        does not trade
+(BALIS) 1508                        does not trade
+(BALIS) 1509                        does not trade
+(BALIS) 1511                        does not trade
+(BALIS) 1513            receives (COMFORT EAGLE) 632     and sends to (APIEJH) 700
+(BALIS) 1515                        does not trade
+(BALIS) 1516                        does not trade
+(BALIS) 1517                        does not trade
+(BALIS) 1518                        does not trade
+(BALIS) 1519                        does not trade
+(BALIS) 1521            receives (PIECHU) 1569           and sends to (SIPIO) 580
+(BALIS) 1522                        does not trade
+(BALIS) 1523                        does not trade
+(BALIS) 1524                        does not trade
+(BAN4Y) 291             receives (ZERO_1627) 717         and sends to (KROMKA) 423
+(BAN4Y) 349             receives (WALTERF) 533           and sends to (CHAABER) 1252
+(BAN4Y) 351                         does not trade
+(BARDOK) 274                        does not trade
+(BARDOK) 275                        does not trade
+(BARDOK) 276                        does not trade
+(BARDOK) 277            receives (LHAPKA) 1483           and sends to (TANTAR) 456
+(BARDOK) 278                        does not trade
+(BARDOK) 279            receives (LHAPKA) 1088           and sends to (MEFIUG) 871
+(BARDOK) 280            receives (CACTUSSE) 199          and sends to (TEHANU) 113
+(BARDOK) 498                        does not trade
+(BARTP) 1040            receives (MIRAS23) 636           and sends to (GINET1) 154
+(BARTP) 1124                        does not trade
+(BARTP) 1125                        does not trade
+(BARTP) 59              receives (FINEZIX) 1476          and sends to (WODA) 77
+(BARTP) 60                          does not trade
+(BARTP) 61                          does not trade
+(BARTP) 62                          does not trade
+(BARTP) 63                          does not trade
+(BARTP) 64              receives (WODA) 78               and sends to (WODA) 79
+(BARTP) 65              receives (MARIOOSH) 855          and sends to (CACTUSSE) 500
+(BARTP) 66                          does not trade
+(BARTP) 67                          does not trade
+(BARTP) 68                          does not trade
+(BARTP) 69              receives (_AIS_) 1148            and sends to (POKET) 776
+(BARTP) 70              receives (CACTUSSE) 158          and sends to (FANTAZYN) 233
+(BARTP) 71              receives (SIPIO) 575             and sends to (KLOS_X) 954
+(BARTP) 72                          does not trade
+(BARTP) 73              receives (CACTUSSE) 151          and sends to (CACTUSSE) 187
+(BARTP) 74                          does not trade
+(BOBULE) 242            receives (COIN22) 1396           and sends to (CACTUSSE) 175
+(BOBULE) 250                        does not trade
+(BOBULE) 259                        does not trade
+(BOBULE) 267            receives (JAJKOS) 483            and sends to (_AIS_) 1150
+(BOGUSZO) 106                       does not trade
+(BOGUSZO) 107           receives (TUREK) 510             and sends to (GOODGUY) 594
+(BOGUSZO) 1248                      does not trade
+(BOGUSZO) 699                       does not trade
+(BOGUSZO) 90                        does not trade
+(BOGUSZO) 95                        does not trade
+(CACTUSSE) 108                      does not trade
+(CACTUSSE) 112          receives (TOMZAQ) 478            and sends to (GRUNWALD) 230
+(CACTUSSE) 115          receives (FPS_PYZ) 999           and sends to (PPIECHUU) 962
+(CACTUSSE) 118                      does not trade
+(CACTUSSE) 119                      does not trade
+(CACTUSSE) 120          receives (ARSAGHAR) 528          and sends to (CORQAN) 884
+(CACTUSSE) 121                      does not trade
+(CACTUSSE) 123          receives (TANTAR) 451            and sends to (KERUKR) 1398
+(CACTUSSE) 124                      does not trade
+(CACTUSSE) 125          receives (TEHANU) 113            and sends to (MAT_EYO) 564
+(CACTUSSE) 126                      does not trade
+(CACTUSSE) 128                      does not trade
+(CACTUSSE) 130                      does not trade
+(CACTUSSE) 131          receives (KMET) 1249             and sends to (PROBBI) 1064
+(CACTUSSE) 132          receives (SYDONIAA) 1187         and sends to (NEKKORU) 908
+(CACTUSSE) 133                      does not trade
+(CACTUSSE) 134                      does not trade
+(CACTUSSE) 135                      does not trade
+(CACTUSSE) 136          receives (LUBEL) 1324            and sends to (GOLONKO) 1544
+(CACTUSSE) 137                      does not trade
+(CACTUSSE) 138                      does not trade
+(CACTUSSE) 139                      does not trade
+(CACTUSSE) 140                      does not trade
+(CACTUSSE) 141                      does not trade
+(CACTUSSE) 142                      does not trade
+(CACTUSSE) 143                      does not trade
+(CACTUSSE) 144                      does not trade
+(CACTUSSE) 145                      does not trade
+(CACTUSSE) 146                      does not trade
+(CACTUSSE) 147                      does not trade
+(CACTUSSE) 148                      does not trade
+(CACTUSSE) 149                      does not trade
+(CACTUSSE) 151          receives (VCRPROSZEK) 750        and sends to (BARTP) 73
+(CACTUSSE) 155          receives (ROBOI250) 1525         and sends to (WUJEK2114) 1173
+(CACTUSSE) 157                      does not trade
+(CACTUSSE) 158          receives (MAT_EYO) 569           and sends to (BARTP) 70
+(CACTUSSE) 159                      does not trade
+(CACTUSSE) 160                      does not trade
+(CACTUSSE) 163          receives (PROBBI) 1062           and sends to (NEKKORU) 37
+(CACTUSSE) 165                      does not trade
+(CACTUSSE) 167                      does not trade
+(CACTUSSE) 168          receives (_AIS_) 1180            and sends to (MASZTALSKI) 559
+(CACTUSSE) 170                      does not trade
+(CACTUSSE) 172                      does not trade
+(CACTUSSE) 174          receives (KDSZ) 261              and sends to (RAZUL) 329
+(CACTUSSE) 175          receives (BOBULE) 242            and sends to (JOOZEK) 1372
+(CACTUSSE) 176          receives (CORQAN) 881            and sends to (TANTAR) 453
+(CACTUSSE) 177                      does not trade
+(CACTUSSE) 178                      does not trade
+(CACTUSSE) 179                      does not trade
+(CACTUSSE) 180                      does not trade
+(CACTUSSE) 181                      does not trade
+(CACTUSSE) 182                      does not trade
+(CACTUSSE) 183          receives (OMAM1234) 353          and sends to (GRUNWALD) 56
+(CACTUSSE) 184                      does not trade
+(CACTUSSE) 185                      does not trade
+(CACTUSSE) 186                      does not trade
+(CACTUSSE) 187          receives (BARTP) 73              and sends to (WAPNIAK) 724
+(CACTUSSE) 188          receives (GRUNWALD) 42           and sends to (PAWELACB) 985
+(CACTUSSE) 189          receives (CHAABER) 1262          and sends to (VCRPROSZEK) 750
+(CACTUSSE) 190                      does not trade
+(CACTUSSE) 191                      does not trade
+(CACTUSSE) 192                      does not trade
+(CACTUSSE) 196                      does not trade
+(CACTUSSE) 199          receives (KDSZ) 268              and sends to (BARDOK) 280
+(CACTUSSE) 201                      does not trade
+(CACTUSSE) 202                      does not trade
+(CACTUSSE) 203                      does not trade
+(CACTUSSE) 204                      does not trade
+(CACTUSSE) 205                      does not trade
+(CACTUSSE) 206                      does not trade
+(CACTUSSE) 207          receives (WODA) 99               and sends to (WODA) 92
+(CACTUSSE) 208                      does not trade
+(CACTUSSE) 209                      does not trade
+(CACTUSSE) 210                      does not trade
+(CACTUSSE) 211                      does not trade
+(CACTUSSE) 212                      does not trade
+(CACTUSSE) 213          receives (GINET1) 154            and sends to (MASZTALSKI) 558
+(CACTUSSE) 214                      does not trade
+(CACTUSSE) 215                      does not trade
+(CACTUSSE) 216                      does not trade
+(CACTUSSE) 217                      does not trade
+(CACTUSSE) 218                      does not trade
+(CACTUSSE) 219                      does not trade
+(CACTUSSE) 220                      does not trade
+(CACTUSSE) 221                      does not trade
+(CACTUSSE) 222                      does not trade
+(CACTUSSE) 223                      does not trade
+(CACTUSSE) 224                      does not trade
+(CACTUSSE) 225                      does not trade
+(CACTUSSE) 226                      does not trade
+(CACTUSSE) 227                      does not trade
+(CACTUSSE) 401                      does not trade
+(CACTUSSE) 402                      does not trade
+(CACTUSSE) 500          receives (BARTP) 65              and sends to (NEKKORU) 28
+(CAMEROON) 360                      does not trade
+(CAMEROON) 361                      does not trade
+(CAMEROON) 362                      does not trade
+(CHAABER) 1252          receives (BAN4Y) 349             and sends to (WODA) 89
+(CHAABER) 1253                      does not trade
+(CHAABER) 1255          receives (SIPIO) 576             and sends to (CORQAN) 815
+(CHAABER) 1256                      does not trade
+(CHAABER) 1257          receives (EREM) 760              and sends to (DONKICHOTE87) 1006
+(CHAABER) 1258                      does not trade
+(CHAABER) 1260          receives (RAZUL) 311             and sends to (OMAM1234) 352
+(CHAABER) 1262          receives (EREM) 758              and sends to (CACTUSSE) 189
+(CHAABER) 1263          receives (APIEJH) 696            and sends to (KASZKIET) 416
+(CHRUSZCZOW) 281                    does not trade
+(CHRUSZCZOW) 339                    does not trade
+(CIUNIEK) 1091                      does not trade
+(CIUNIEK) 1092                      does not trade
+(CIUNIEK) 1093                      does not trade
+(CIUNIEK) 1094                      does not trade
+(CIUNIEK) 1095                      does not trade
+(CIUNIEK) 1096          receives (SIEPACZ) 876           and sends to (MALEKITH_86) 1
+(CIUNIEK) 1097                      does not trade
+(CIUNIEK) 1098                      does not trade
+(CIUNIEK) 1099                      does not trade
+(CIUNIEK) 1101          receives (FINNAN) 1069           and sends to (FINNAN) 1069
+(CIUNIEK) 1102                      does not trade
+(CIUNIEK) 1103                      does not trade
+(CIUNIEK) 1104                      does not trade
+(CIUNIEK) 1105                      does not trade
+(CIUNIEK) 1111                      does not trade
+(CLAVISH) 799                       does not trade
+(CLAVISH) 800                       does not trade
+(CLAVISH) 801                       does not trade
+(CLAVISH) 802                       does not trade
+(CLAVISH) 803                       does not trade
+(COIN22) 1396           receives (QRZY88) 282            and sends to (BOBULE) 242
+(COIN22) 1397           receives (WAPNIAK) 719           and sends to (EREM) 758
+(COIN22) 1399           receives (KRIONAH) 620           and sends to (RAZUL) 323
+(COIN22) 434                        does not trade
+(COIN22) 435                        does not trade
+(COIN22) 436            receives (RAZUL) 729             and sends to (GODUNOW) 733
+(COIN22) 437            receives (NEKKORU) 900           and sends to (NEKKORU) 48
+(COIN22) 438                        does not trade
+(COIN22) 439                        does not trade
+(COIN22) 642                        does not trade
+(COMFORT EAGLE) 631                 does not trade
+(COMFORT EAGLE) 632     receives (POKET) 776             and sends to (BALIS) 1513
+(COMFORT EAGLE) 633     receives (WAMPIK) 672            and sends to (WODA) 75
+(COMFORT EAGLE) 634                 does not trade
+(CORABB) 916                        does not trade
+(CORABB) 917                        does not trade
+(CORABB) 918                        does not trade
+(CORABB) 919                        does not trade
+(CORABB) 920                        does not trade
+(CORABB) 921                        does not trade
+(CORABB) 922                        does not trade
+(CORABB) 923                        does not trade
+(CORABB) 924            receives (MAT_EYO) 566           and sends to (APIEJH) 695
+(CORABB) 925                        does not trade
+(CORABB) 926                        does not trade
+(CORABB) 927            receives (MONGEA) 1585           and sends to (EREM) 754
+(CORABB) 928                        does not trade
+(CORQAN) 815            receives (CHAABER) 1255          and sends to (LUBEL) 449
+(CORQAN) 881            receives (JINGOWAWA) 1127        and sends to (CACTUSSE) 176
+(CORQAN) 883            receives (WODA) 76               and sends to (KDSZ) 264
+(CORQAN) 884            receives (CACTUSSE) 120          and sends to (MIRAS23) 636
+(CRSUNIK) 539                       does not trade
+(CRSUNIK) 540                       does not trade
+(CRSUNIK) 541           receives (REEVS) 1552            and sends to (MALEKITH_86) 7
+(CRSUNIK) 542                       does not trade
+(CRSUNIK) 543                       does not trade
+(CRSUNIK) 544                       does not trade
+(CRSUNIK) 545                       does not trade
+(CRSUNIK) 546                       does not trade
+(CRSUNIK) 547                       does not trade
+(CRSUNIK) 548           receives (KASZKIET) 416          and sends to (FANTAZYN) 231
+(CRSUNIK) 549                       does not trade
+(CRSUNIK) 550                       does not trade
+(CRSUNIK) 551                       does not trade
+(CRSUNIK) 552                       does not trade
+(CRSUNIK) 553                       does not trade
+(CRSUNIK) 554                       does not trade
+(CRSUNIK) 555                       does not trade
+(CRSUNIK) 556                       does not trade
+(CRSUNIK) 557                       does not trade
+(CRSUNIK) 560                       does not trade
+(CRSUNIK) 629                       does not trade
+(CRSUNIK) 630                       does not trade
+(CRSUNIK) 781                       does not trade
+(CRSUNIK) 989           receives (RAZUL) 323             and sends to (GINET1) 1497
+(DETRYTUS) 891                      does not trade
+(DONKICHOTE87) 1002                 does not trade
+(DONKICHOTE87) 1003                 does not trade
+(DONKICHOTE87) 1004                 does not trade
+(DONKICHOTE87) 1005                 does not trade
+(DONKICHOTE87) 1006     receives (CHAABER) 1257          and sends to (SHADOWA) 1304
+(DONKICHOTE87) 1007     receives (SPIOSEK) 1363          and sends to (RAZUL) 330
+(DONKICHOTE87) 1008                 does not trade
+(DONKICHOTE87) 1009                 does not trade
+(DONKICHOTE87) 1010                 does not trade
+(DONKICHOTE87) 1011     receives (KRISSOS) 1381          and sends to (GRUNWALD) 45
+(DONKICHOTE87) 1012                 does not trade
+(DONKICHOTE87) 1013                 does not trade
+(DONKICHOTE87) 1014                 does not trade
+(DONKICHOTE87) 1015                 does not trade
+(DONKICHOTE87) 1016                 does not trade
+(DONKICHOTE87) 1017     receives (JINGOWAWA) 1128        and sends to (SYDONIAA) 1181
+(DONKICHOTE87) 1018     receives (NEKKORU) 37            and sends to (SANDY86) 681
+(DONKICHOTE87) 1019                 does not trade
+(DONKICHOTE87) 1020                 does not trade
+(DONKICHOTE87) 1021                 does not trade
+(DONKICHOTE87) 1022                 does not trade
+(DONKICHOTE87) 1023                 does not trade
+(DONKICHOTE87) 1024                 does not trade
+(ELPRZYBYLLO) 738                   does not trade
+(ELPRZYBYLLO) 739                   does not trade
+(ELPRZYBYLLO) 740                   does not trade
+(ELPRZYBYLLO) 741                   does not trade
+(ELPRZYBYLLO) 742                   does not trade
+(ELPRZYBYLLO) 743                   does not trade
+(ELPRZYBYLLO) 744                   does not trade
+(ELPRZYBYLLO) 745                   does not trade
+(ELPRZYBYLLO) 746                   does not trade
+(ELPRZYBYLLO) 747                   does not trade
+(EMUNOWAK) 1327                     does not trade
+(EMUNOWAK) 1329                     does not trade
+(EMUNOWAK) 1332                     does not trade
+(EMUNOWAK) 1344                     does not trade
+(EMUNOWAK) 1353         receives (LIMPINGMAN) 1201       and sends to (FPS_PYZ) 999
+(EMUNOWAK) 1366         receives (KERUKR) 1402           and sends to (WODA) 78
+(EREM) 751                          does not trade
+(EREM) 752                          does not trade
+(EREM) 753                          does not trade
+(EREM) 754              receives (CORABB) 927            and sends to (ZERO_1627) 717
+(EREM) 755                          does not trade
+(EREM) 756              receives (MONGEA) 1454           and sends to (MONGEA) 1436
+(EREM) 757              receives (_AIS_) 1143            and sends to (LUBEL) 1178
+(EREM) 758              receives (COIN22) 1397           and sends to (CHAABER) 1262
+(EREM) 759                          does not trade
+(EREM) 760              receives (KASZKIET) 537          and sends to (CHAABER) 1257
+(EREM) 761              receives (PERO PAMBARASCO) 689   and sends to (AAXXEE) 127
+(EREM) 762              receives (MONGEA) 1456           and sends to (NICPONN) 1071
+(FANTAZYN) 231          receives (CRSUNIK) 548           and sends to (LYSYPK) 356
+(FANTAZYN) 232                      does not trade
+(FANTAZYN) 233          receives (BARTP) 70              and sends to (LYSYPK) 990
+(FANTAZYN) 234                      does not trade
+(FINEZIX) 1407                      does not trade
+(FINEZIX) 1408                      does not trade
+(FINEZIX) 1409                      does not trade
+(FINEZIX) 1411                      does not trade
+(FINEZIX) 1412                      does not trade
+(FINEZIX) 1414          receives (JOANNAS) 1261          and sends to (PIECHU) 1569
+(FINEZIX) 1416                      does not trade
+(FINEZIX) 1418          receives (AHRIAN) 1038           and sends to (ALEXANDRYTKA) 94
+(FINEZIX) 1420                      does not trade
+(FINEZIX) 1422                      does not trade
+(FINEZIX) 1424                      does not trade
+(FINEZIX) 1427                      does not trade
+(FINEZIX) 1428                      does not trade
+(FINEZIX) 1461                      does not trade
+(FINEZIX) 1462                      does not trade
+(FINEZIX) 1464                      does not trade
+(FINEZIX) 1465                      does not trade
+(FINEZIX) 1466                      does not trade
+(FINEZIX) 1467                      does not trade
+(FINEZIX) 1468                      does not trade
+(FINEZIX) 1470          receives (RAZUL) 292             and sends to (LHAPKA) 1088
+(FINEZIX) 1472                      does not trade
+(FINEZIX) 1473                      does not trade
+(FINEZIX) 1474                      does not trade
+(FINEZIX) 1475                      does not trade
+(FINEZIX) 1476          receives (RAZUL) 333             and sends to (BARTP) 59
+(FINEZIX) 1477          receives (REEVS) 1545            and sends to (WAMPIK) 668
+(FINEZIX) 1479          receives (KRIONAH) 624           and sends to (JAJKOS) 483
+(FINEZIX) 1480                      does not trade
+(FINNAN) 1063           receives (WOTHAN) 269            and sends to (VDER) 1136
+(FINNAN) 1068           receives (PROBBI) 1050           and sends to (MAZUR84) 1265
+(FINNAN) 1069           receives (CIUNIEK) 1101          and sends to (CIUNIEK) 1101
+(FINNAN) 1070                       does not trade
+(FINNAN) 499            receives (MONGEA) 1438           and sends to (ANOPTICHTYS) 785
+(FIZOLOF) 1072                      does not trade
+(FIZOLOF) 1073                      does not trade
+(FIZOLOF) 1074                      does not trade
+(FIZOLOF) 1075                      does not trade
+(FIZOLOF) 1076          receives (APIEJH) 701            and sends to (REEVS) 1552
+(FIZOLOF) 1077                      does not trade
+(FIZOLOF) 1078                      does not trade
+(FIZOLOF) 1079                      does not trade
+(FIZOLOF) 1080                      does not trade
+(FIZOLOF) 1086          receives (ZERO_1627) 730         and sends to (KMET) 977
+(FIZOLOF) 1089          receives (SPIOSEK) 1357          and sends to (MONGEA) 1478
+(FPS_PYZ) 1000          receives (KMET) 977              and sends to (B3R53RK3R) 1188
+(FPS_PYZ) 993                       does not trade
+(FPS_PYZ) 994                       does not trade
+(FPS_PYZ) 995           receives (MISHIRE) 1217          and sends to (VDER) 1132
+(FPS_PYZ) 996                       does not trade
+(FPS_PYZ) 997                       does not trade
+(FPS_PYZ) 998                       does not trade
+(FPS_PYZ) 999           receives (EMUNOWAK) 1353         and sends to (CACTUSSE) 115
+(FURAN) 1220                        does not trade
+(FURAN) 1221                        does not trade
+(FURAN) 1223                        does not trade
+(FURAN) 1225                        does not trade
+(FURAN) 1243                        does not trade
+(GAMBIT_GGK) 1592                   does not trade
+(GAMBIT_GGK) 822                    does not trade
+(GAMBIT_GGK) 823                    does not trade
+(GAMBIT_GGK) 824                    does not trade
+(GAMBIT_GGK) 825        receives (WODA) 86               and sends to (WOTHAN) 269
+(GAMBIT_GGK) 826        receives (JAKOBIAN87) 644        and sends to (MAJKOS) 236
+(GAMBIT_GGK) 827                    does not trade
+(GAMBIT_GGK) 828                    does not trade
+(GAMBIT_GGK) 829                    does not trade
+(GAMBIT_GGK) 830                    does not trade
+(GAMBIT_GGK) 831                    does not trade
+(GAMBIT_GGK) 832        receives (MALEKITH_86) 7         and sends to (ZBAJSZEK) 766
+(GAMBIT_GGK) 833        receives (MIRAS23) 635           and sends to (SIEPACZ) 875
+(GAMBIT_GGK) 834        receives (MAT_EYO) 568           and sends to (SANDY86) 677
+(GAMBIT_GGK) 835                    does not trade
+(GEKOPL) 979            receives (PIODAG) 270            and sends to (PERO PAMBARASCO) 689
+(GIGI) 1030                         does not trade
+(GIGI) 1031             receives (TANTAR) 456            and sends to (MARIOOSH) 855
+(GIGI) 1032             receives (MARTENS10) 469         and sends to (ADMI99) 200
+(GINET1) 1497           receives (CRSUNIK) 989           and sends to (SIPIO) 576
+(GINET1) 150                        does not trade
+(GINET1) 152            receives (PITONOWIE) 1240        and sends to (SIPIO) 872
+(GINET1) 153            receives (JAX7) 1560             and sends to (MONGEA) 1454
+(GINET1) 154            receives (BARTP) 1040            and sends to (CACTUSSE) 213
+(GINET1) 156                        does not trade
+(GINET1) 161                        does not trade
+(GINET1) 162                        does not trade
+(GINET1) 164                        does not trade
+(GINET1) 166            receives (B3R53RK3R) 1224        and sends to (KRISSOS) 1389
+(GINET1) 169                        does not trade
+(GINET1) 171                        does not trade
+(GINET1) 173                        does not trade
+(GODUNOW) 733           receives (COIN22) 436            and sends to (NEKKORU) 900
+(GODUNOW) 734                       does not trade
+(GODUNOW) 735                       does not trade
+(GODUNOW) 736                       does not trade
+(GODUNOW) 737                       does not trade
+(GOLEBIOWSKI) 992                   does not trade
+(GOLONKO) 1540                      does not trade
+(GOLONKO) 1541                      does not trade
+(GOLONKO) 1542                      does not trade
+(GOLONKO) 1543          receives (PROBBI) 1065           and sends to (REEVS) 1553
+(GOLONKO) 1544          receives (CACTUSSE) 136          and sends to (KMET) 972
+(GOODGUY) 1033                      does not trade
+(GOODGUY) 1034                      does not trade
+(GOODGUY) 582                       does not trade
+(GOODGUY) 589                       does not trade
+(GOODGUY) 594           receives (BOGUSZO) 107           and sends to (WILCZELYKO) 680
+(GOODGUY) 661                       does not trade
+(GRUNWALD) 229                      does not trade
+(GRUNWALD) 230          receives (CACTUSSE) 112          and sends to (MIRAS23) 635
+(GRUNWALD) 33                       does not trade
+(GRUNWALD) 40                       does not trade
+(GRUNWALD) 42           receives (ADALBERT) 1405         and sends to (CACTUSSE) 188
+(GRUNWALD) 45           receives (DONKICHOTE87) 1011     and sends to (SPIOSEK) 1355
+(GRUNWALD) 47           receives (KRISSOS) 1387          and sends to (PAWELACB) 982
+(GRUNWALD) 56           receives (CACTUSSE) 183          and sends to (MARIOOSH) 861
+(GRUNWALD) 57           receives (MNOWACZY) 1154         and sends to (NEKKORU) 38
+(GRUNWALD) 58                       does not trade
+(GRZES19) 241                       does not trade
+(GRZES19) 244           receives (HIPPIE93) 1107         and sends to (PIOKS) 947
+(GRZES19) 245                       does not trade
+(GRZES19) 247                       does not trade
+(GRZES19) 248                       does not trade
+(GRZES19) 249                       does not trade
+(GRZES19) 251                       does not trade
+(GRZES19) 253                       does not trade
+(GRZES19) 254                       does not trade
+(GRZES19) 255                       does not trade
+(GRZES19) 256                       does not trade
+(GRZES19) 257                       does not trade
+(GRZES19) 258           receives (NEKKORU) 28            and sends to (SPIOSEK) 1357
+(GURTH) 1374            receives (TUMINURE) 934          and sends to (TIKTUK) 592
+(GURTH) 1375                        does not trade
+(GURTH) 1384                        does not trade
+(HAPPOSAI) 1510         receives (APIEJH) 700            and sends to (MEFIUG) 856
+(HAPPOSAI) 1512                     does not trade
+(HAPPOSAI) 484          receives (KROMKA) 431            and sends to (KASZKIET) 418
+(HAPPOSAI) 485                      does not trade
+(HAPPOSAI) 486                      does not trade
+(HAPPOSAI) 487                      does not trade
+(HAPPOSAI) 488                      does not trade
+(HAPPOSAI) 489                      does not trade
+(HAPPOSAI) 492                      does not trade
+(HARUN) 1377                        does not trade
+(HARUN) 1379                        does not trade
+(HARUN) 1383                        does not trade
+(HARUN) 1386            receives (SIEPACZ) 878           and sends to (RUNMAN) 54
+(HARUN) 1388                        does not trade
+(HARUN) 1391                        does not trade
+(HEARDALIS) 662                     does not trade
+(HENEKET) 1001                      does not trade
+(HIPPIE93) 1106                     does not trade
+(HIPPIE93) 1107         receives (WAPNIAK) 723           and sends to (GRZES19) 244
+(HIPPIE93) 1108                     does not trade
+(HIPPIE93) 1109                     does not trade
+(HIPPIE93) 1110                     does not trade
+(HIPPIE93) 1112                     does not trade
+(HIPPIE93) 1113                     does not trade
+(IMPERIAL STOUT) 581                does not trade
+(IMPERIAL STOUT) 596    receives (AFGNCAAP) 1520         and sends to (QRZY88) 282
+(IMPERIAL STOUT) 597    receives (NICPONN) 961           and sends to (WODA) 129
+(IMPERIAL STOUT) 873                does not trade
+(IMPERIAL STOUT) 874    receives (ANOPTICHTYS) 783       and sends to (KRIONAH) 625
+(JACEKBARBER) 1100      receives (RAZUL) 295             and sends to (BADYL) 973
+(JACEKBARBER) 948                   does not trade
+(JACEK_PL) 493          receives (WAPNIAK) 724           and sends to (WODA) 76
+(JACEK_PL) 494                      does not trade
+(JACEK_PL) 495                      does not trade
+(JAJKOS) 391            receives (WUJEK2114) 1167        and sends to (PIODAG) 270
+(JAJKOS) 471            receives (ROBOI250) 1245         and sends to (NEKKORU) 31
+(JAJKOS) 481                        does not trade
+(JAJKOS) 482                        does not trade
+(JAJKOS) 483            receives (FINEZIX) 1479          and sends to (BOBULE) 267
+(JAKOBIAN87) 643                    does not trade
+(JAKOBIAN87) 644        receives (RAZUL) 312             and sends to (GAMBIT_GGK) 826
+(JAKOBIAN87) 645        receives (MIRAS23) 637           and sends to (MEFIUG) 864
+(JAKOBIAN87) 646                    does not trade
+(JAKOBIAN87) 647                    does not trade
+(JAKOBIAN87) 648                    does not trade
+(JAKOBIAN87) 649        receives (KLOS_X) 957            and sends to (PRZEMO) 843
+(JAKOBIAN87) 650                    does not trade
+(JAKOBIAN87) 651                    does not trade
+(JAKOBIAN87) 652                    does not trade
+(JANPRADER) 748                     does not trade
+(JAN_OSIK) 960                      does not trade
+(JAX7) 1555             receives (MASZTALSKI) 558        and sends to (RUNMAN) 53
+(JAX7) 1556                         does not trade
+(JAX7) 1557                         does not trade
+(JAX7) 1558                         does not trade
+(JAX7) 1560             receives (MARTENS10) 465         and sends to (GINET1) 153
+(JAX7) 1561                         does not trade
+(JAX7) 1563             receives (TIKTUK) 593            and sends to (RAZUL) 318
+(JAX7) 1564                         does not trade
+(JAX7) 1566                         does not trade
+(JEDIMAVERIC) 885                   does not trade
+(JEDIMAVERIC) 886       receives (ANOPTICHTYS) 787       and sends to (ANOPTICHTYS) 793
+(JEDIMAVERIC) 887                   does not trade
+(JEDIMAVERIC) 888       receives (TOMZAQ) 480            and sends to (KLOS_X) 957
+(JEDIMAVERIC) 889                   does not trade
+(JEDIMAVERIC) 890       receives (_AIS_) 1144            and sends to (PRZEMO) 852
+(JINGOWAWA) 1126                    does not trade
+(JINGOWAWA) 1127        receives (SIPIO) 580             and sends to (CORQAN) 881
+(JINGOWAWA) 1128        receives (KRIONAH) 622           and sends to (DONKICHOTE87) 1017
+(JINGOWAWA) 1129                    does not trade
+(JINGOWAWA) 1130                    does not trade
+(JOANNAS) 1254          receives (MEFIUG) 863            and sends to (MEFIUG) 899
+(JOANNAS) 1261          receives (QBALDUS1) 506          and sends to (FINEZIX) 1414
+(JOANNAS) 1264                      does not trade
+(JOANNA_KOZLOWSKA6) 690             does not trade
+(JOANNA_KOZLOWSKA6) 691             does not trade
+(JOANNA_KOZLOWSKA6) 692             does not trade
+(JOANNA_KOZLOWSKA6) 693             does not trade
+(JOOZEK) 1370                       does not trade
+(JOOZEK) 1372           receives (CACTUSSE) 175          and sends to (WODA) 91
+(JOOZEK) 653                        does not trade
+(KASZKIET) 413                      does not trade
+(KASZKIET) 414                      does not trade
+(KASZKIET) 415                      does not trade
+(KASZKIET) 416          receives (CHAABER) 1263          and sends to (CRSUNIK) 548
+(KASZKIET) 417                      does not trade
+(KASZKIET) 418          receives (HAPPOSAI) 484          and sends to (PROBBI) 1065
+(KASZKIET) 419                      does not trade
+(KASZKIET) 420                      does not trade
+(KASZKIET) 421          receives (PROBBI) 1067           and sends to (WODA) 97
+(KASZKIET) 536                      does not trade
+(KASZKIET) 537          receives (LSKA) 1234             and sends to (EREM) 760
+(KASZKIET) 641                      does not trade
+(KASZKIET) 664                      does not trade
+(KDSZ) 260              receives (RUNMAN) 51             and sends to (LSKA) 1234
+(KDSZ) 261              receives (PAWELACB) 983          and sends to (CACTUSSE) 174
+(KDSZ) 262                          does not trade
+(KDSZ) 263                          does not trade
+(KDSZ) 264              receives (CORQAN) 883            and sends to (TANTAR) 458
+(KDSZ) 265              receives (_AIS_) 1153            and sends to (WODA) 81
+(KDSZ) 266                          does not trade
+(KDSZ) 268              receives (MEFIUG) 871            and sends to (CACTUSSE) 199
+(KERUKR) 1398           receives (CACTUSSE) 123          and sends to (MARTENS10) 463
+(KERUKR) 1400                       does not trade
+(KERUKR) 1401           receives (MORKRET) 939           and sends to (MEFIUG) 863
+(KERUKR) 1402           receives (TANTAR) 458            and sends to (EMUNOWAK) 1366
+(KERUKR) 1403                       does not trade
+(KERUKR) 1404                       does not trade
+(KLOS_X) 363                        does not trade
+(KLOS_X) 364                        does not trade
+(KLOS_X) 365                        does not trade
+(KLOS_X) 366                        does not trade
+(KLOS_X) 367                        does not trade
+(KLOS_X) 368                        does not trade
+(KLOS_X) 369                        does not trade
+(KLOS_X) 370                        does not trade
+(KLOS_X) 371                        does not trade
+(KLOS_X) 372                        does not trade
+(KLOS_X) 373                        does not trade
+(KLOS_X) 374                        does not trade
+(KLOS_X) 375                        does not trade
+(KLOS_X) 376                        does not trade
+(KLOS_X) 377                        does not trade
+(KLOS_X) 378                        does not trade
+(KLOS_X) 379                        does not trade
+(KLOS_X) 380                        does not trade
+(KLOS_X) 381                        does not trade
+(KLOS_X) 382                        does not trade
+(KLOS_X) 383                        does not trade
+(KLOS_X) 384                        does not trade
+(KLOS_X) 385            receives (LHAPKA) 1085           and sends to (B3R53RK3R) 1222
+(KLOS_X) 386                        does not trade
+(KLOS_X) 387                        does not trade
+(KLOS_X) 388                        does not trade
+(KLOS_X) 389                        does not trade
+(KLOS_X) 949                        does not trade
+(KLOS_X) 950                        does not trade
+(KLOS_X) 951                        does not trade
+(KLOS_X) 952                        does not trade
+(KLOS_X) 953                        does not trade
+(KLOS_X) 954            receives (BARTP) 71              and sends to (SANDY86) 683
+(KLOS_X) 955                        does not trade
+(KLOS_X) 956                        does not trade
+(KLOS_X) 957            receives (JEDIMAVERIC) 888       and sends to (JAKOBIAN87) 649
+(KLOS_X) 958                        does not trade
+(KLOS_X) 959                        does not trade
+(KMET) 1249             receives (SANDY86) 681           and sends to (CACTUSSE) 131
+(KMET) 970              receives (WODA) 129              and sends to (MISHIRE) 1210
+(KMET) 972              receives (GOLONKO) 1544          and sends to (ALEXANDRYTKA) 98
+(KMET) 974                          does not trade
+(KMET) 976                          does not trade
+(KMET) 977              receives (FIZOLOF) 1086          and sends to (FPS_PYZ) 1000
+(KMET) 978                          does not trade
+(KOJOTOS78) 1382                    does not trade
+(KOJOTOS78) 1390                    does not trade
+(KOJOTOS78) 1392                    does not trade
+(KOJOTOS78) 1393                    does not trade
+(KOJOTOS78) 1394                    does not trade
+(KOJOTOS78) 1395                    does not trade
+(KRIONAH) 619           receives (TIKTUK) 588            and sends to (PROBBI) 1050
+(KRIONAH) 620           receives (BADYL) 971             and sends to (COIN22) 1399
+(KRIONAH) 621                       does not trade
+(KRIONAH) 622           receives (POKET) 780             and sends to (JINGOWAWA) 1128
+(KRIONAH) 623                       does not trade
+(KRIONAH) 624           receives (LYSYPK) 357            and sends to (FINEZIX) 1479
+(KRIONAH) 625           receives (IMPERIAL STOUT) 874    and sends to (TUMINURE) 932
+(KRIONAH) 626                       does not trade
+(KRIONAH) 627                       does not trade
+(KRISSOS) 1381          receives (LIMPINGMAN) 1207       and sends to (DONKICHOTE87) 1011
+(KRISSOS) 1385                      does not trade
+(KRISSOS) 1387          receives (LSKA) 1229             and sends to (GRUNWALD) 47
+(KRISSOS) 1389          receives (GINET1) 166            and sends to (8JANEK8) 1579
+(KROMKA) 422                        does not trade
+(KROMKA) 423            receives (BAN4Y) 291             and sends to (WAMPIK) 672
+(KROMKA) 424                        does not trade
+(KROMKA) 425                        does not trade
+(KROMKA) 426                        does not trade
+(KROMKA) 427                        does not trade
+(KROMKA) 428                        does not trade
+(KROMKA) 429                        does not trade
+(KROMKA) 430                        does not trade
+(KROMKA) 431            receives (LIMPINGMAN) 1195       and sends to (HAPPOSAI) 484
+(KROMKA) 432            receives (_AIS_) 1150            and sends to (RAZUL) 290
+(KROMKA) 433                        does not trade
+(KRZYSWOJACZEK) 1458                does not trade
+(KRZYSWOJACZEK) 1469                does not trade
+(KRZYSWOJACZEK) 1471                does not trade
+(LHAPKA) 1081                       does not trade
+(LHAPKA) 1082                       does not trade
+(LHAPKA) 1083                       does not trade
+(LHAPKA) 1084           receives (MEFIUG) 858            and sends to (ZERO_1627) 715
+(LHAPKA) 1085           receives (WODA) 77               and sends to (KLOS_X) 385
+(LHAPKA) 1087           receives (WODA) 75               and sends to (WAPNIAK) 721
+(LHAPKA) 1088           receives (FINEZIX) 1470          and sends to (BARDOK) 279
+(LHAPKA) 1090                       does not trade
+(LHAPKA) 1483           receives (WODA) 89               and sends to (BARDOK) 277
+(LHAPKA) 991            receives (TIKTUK) 964            and sends to (_AIS_) 1148
+(LIMPINGMAN) 1189       receives (RUNMAN) 49             and sends to (RAZUL) 311
+(LIMPINGMAN) 1190                   does not trade
+(LIMPINGMAN) 1191                   does not trade
+(LIMPINGMAN) 1192                   does not trade
+(LIMPINGMAN) 1193                   does not trade
+(LIMPINGMAN) 1194                   does not trade
+(LIMPINGMAN) 1195       receives (8JANEK8) 1581          and sends to (KROMKA) 431
+(LIMPINGMAN) 1198                   does not trade
+(LIMPINGMAN) 1200                   does not trade
+(LIMPINGMAN) 1201       receives (RUNMAN) 502            and sends to (EMUNOWAK) 1353
+(LIMPINGMAN) 1202                   does not trade
+(LIMPINGMAN) 1203                   does not trade
+(LIMPINGMAN) 1204                   does not trade
+(LIMPINGMAN) 1205                   does not trade
+(LIMPINGMAN) 1206                   does not trade
+(LIMPINGMAN) 1207       receives (ARDEL_PL) 1246         and sends to (KRISSOS) 1381
+(LIMPINGMAN) 1208                   does not trade
+(LIMPINGMAN) 1209                   does not trade
+(LKOPER) 1044                       does not trade
+(LKOPER) 1047                       does not trade
+(LKOPER) 1055                       does not trade
+(LKOPER) 1059                       does not trade
+(LSKA) 1226                         does not trade
+(LSKA) 1228                         does not trade
+(LSKA) 1229             receives (ANOPTICHTYS) 792       and sends to (KRISSOS) 1387
+(LSKA) 1230                         does not trade
+(LSKA) 1231             receives (MARTENS10) 468         and sends to (ALEXANDRYTKA) 88
+(LSKA) 1232                         does not trade
+(LSKA) 1234             receives (KDSZ) 260              and sends to (KASZKIET) 537
+(LSKA) 1235                         does not trade
+(LUBEL) 1176                        does not trade
+(LUBEL) 1177                        does not trade
+(LUBEL) 1178            receives (EREM) 757              and sends to (NEKKORU) 25
+(LUBEL) 1324            receives (MARCIN95) 440          and sends to (CACTUSSE) 136
+(LUBEL) 445                         does not trade
+(LUBEL) 446                         does not trade
+(LUBEL) 447                         does not trade
+(LUBEL) 448                         does not trade
+(LUBEL) 449             receives (CORQAN) 815            and sends to (NEKKORU) 904
+(LUBEL) 450             receives (MONGEA) 1505           and sends to (MAT_EYO) 566
+(LYSYPK) 356            receives (FANTAZYN) 231          and sends to (MARTENS10) 465
+(LYSYPK) 357            receives (WODA) 92               and sends to (KRIONAH) 624
+(LYSYPK) 358            receives (NEKKORU) 55            and sends to (YANOO) 32
+(LYSYPK) 501            receives (B3R53RK3R) 1188        and sends to (8JANEK8) 1582
+(LYSYPK) 990            receives (FANTAZYN) 233          and sends to (BADYL) 975
+(MAGICPEPE) 725                     does not trade
+(MAGICPEPE) 726                     does not trade
+(MAGICPEPE) 727                     does not trade
+(MAJKOS) 235            receives (SIEPACZ) 875           and sends to (TIKTUK) 588
+(MAJKOS) 236            receives (GAMBIT_GGK) 826        and sends to (ARDEL_PL) 1246
+(MALEKITH_86) 1         receives (CIUNIEK) 1096          and sends to (TOMZAQ) 480
+(MALEKITH_86) 10                    does not trade
+(MALEKITH_86) 11                    does not trade
+(MALEKITH_86) 12                    does not trade
+(MALEKITH_86) 13                    does not trade
+(MALEKITH_86) 14                    does not trade
+(MALEKITH_86) 15                    does not trade
+(MALEKITH_86) 2         receives (PAWELACB) 985          and sends to (_AIS_) 1144
+(MALEKITH_86) 3                     does not trade
+(MALEKITH_86) 4                     does not trade
+(MALEKITH_86) 5                     does not trade
+(MALEKITH_86) 6                     does not trade
+(MALEKITH_86) 7         receives (CRSUNIK) 541           and sends to (GAMBIT_GGK) 832
+(MALEKITH_86) 8                     does not trade
+(MALEKITH_86) 9                     does not trade
+(MARCIN95) 440          receives (PPIECHUU) 962          and sends to (LUBEL) 1324
+(MARIOOSH) 1233         receives (SHADOWA) 1300          and sends to (NAHAR) 496
+(MARIOOSH) 855          receives (GIGI) 1031             and sends to (BARTP) 65
+(MARIOOSH) 857                      does not trade
+(MARIOOSH) 859          receives (THINSPOON) 1352        and sends to (TUMINURE) 934
+(MARIOOSH) 861          receives (GRUNWALD) 56           and sends to (RAZUL) 300
+(MARTENS10) 459                     does not trade
+(MARTENS10) 460                     does not trade
+(MARTENS10) 461                     does not trade
+(MARTENS10) 462         receives (WODA) 87               and sends to (RUNMAN) 51
+(MARTENS10) 463         receives (KERUKR) 1398           and sends to (WODA) 86
+(MARTENS10) 464         receives (NEKKORU) 1028          and sends to (MONGEA) 1505
+(MARTENS10) 465         receives (LYSYPK) 356            and sends to (JAX7) 1560
+(MARTENS10) 466         receives (MILEV) 710             and sends to (ZERO_1627) 718
+(MARTENS10) 467                     does not trade
+(MARTENS10) 468         receives (BADYL) 1196            and sends to (LSKA) 1231
+(MARTENS10) 469         receives (TUMINURE) 932          and sends to (GIGI) 1032
+(MARTENS10) 470                     does not trade
+(MASZTALSKI) 558        receives (CACTUSSE) 213          and sends to (JAX7) 1555
+(MASZTALSKI) 559        receives (CACTUSSE) 168          and sends to (SYDONIAA) 1187
+(MASZTALSKI) 561                    does not trade
+(MAT_EYO) 562                       does not trade
+(MAT_EYO) 563           receives (NEKKORU) 904           and sends to (ANOPTICHTYS) 783
+(MAT_EYO) 564           receives (CACTUSSE) 125          and sends to (APIEJH) 696
+(MAT_EYO) 565                       does not trade
+(MAT_EYO) 566           receives (LUBEL) 450             and sends to (CORABB) 924
+(MAT_EYO) 567                       does not trade
+(MAT_EYO) 568           receives (RAZUL) 300             and sends to (GAMBIT_GGK) 834
+(MAT_EYO) 569           receives (TIKTUK) 965            and sends to (CACTUSSE) 158
+(MAZUR84) 1250                      does not trade
+(MAZUR84) 1251                      does not trade
+(MAZUR84) 1259                      does not trade
+(MAZUR84) 1265          receives (FINNAN) 1068           and sends to (NAHAR) 1066
+(MAZUR84) 1284                      does not trade
+(MEFIUG) 854                        does not trade
+(MEFIUG) 856            receives (HAPPOSAI) 1510         and sends to (MONGEA) 1456
+(MEFIUG) 858            receives (ADMI99) 200            and sends to (LHAPKA) 1084
+(MEFIUG) 860                        does not trade
+(MEFIUG) 862            receives (PIECHU) 1572           and sends to (PIECHU) 1570
+(MEFIUG) 863            receives (KERUKR) 1401           and sends to (JOANNAS) 1254
+(MEFIUG) 864            receives (JAKOBIAN87) 645        and sends to (NAHAR) 595
+(MEFIUG) 865                        does not trade
+(MEFIUG) 866                        does not trade
+(MEFIUG) 867                        does not trade
+(MEFIUG) 868                        does not trade
+(MEFIUG) 869                        does not trade
+(MEFIUG) 870                        does not trade
+(MEFIUG) 871            receives (BARDOK) 279            and sends to (KDSZ) 268
+(MEFIUG) 899            receives (JOANNAS) 1254          and sends to (WUJEK2114) 1179
+(MILEV) 704                         does not trade
+(MILEV) 705                         does not trade
+(MILEV) 706                         does not trade
+(MILEV) 707                         does not trade
+(MILEV) 708             receives (TIKTUK) 592            and sends to (WALTERF) 533
+(MILEV) 709             receives (PROBBI) 1064           and sends to (RAZUL) 342
+(MILEV) 710             receives (SHADOWA) 1304          and sends to (MARTENS10) 466
+(MILEV) 711                         does not trade
+(MILEV) 712                         does not trade
+(MILEV) 713                         does not trade
+(MIRAS23) 635           receives (GRUNWALD) 230          and sends to (GAMBIT_GGK) 833
+(MIRAS23) 636           receives (CORQAN) 884            and sends to (BARTP) 1040
+(MIRAS23) 637           receives (RAZUL) 301             and sends to (JAKOBIAN87) 645
+(MISHIRE) 1210          receives (KMET) 970              and sends to (RAZUL) 303
+(MISHIRE) 1211                      does not trade
+(MISHIRE) 1212                      does not trade
+(MISHIRE) 1213                      does not trade
+(MISHIRE) 1214                      does not trade
+(MISHIRE) 1217          receives (RAZUL) 330             and sends to (FPS_PYZ) 995
+(MNOWACZY) 1131                     does not trade
+(MNOWACZY) 1134                     does not trade
+(MNOWACZY) 1138                     does not trade
+(MNOWACZY) 1149                     does not trade
+(MNOWACZY) 1154         receives (RUNMAN) 53             and sends to (GRUNWALD) 57
+(MONGEA) 1413                       does not trade
+(MONGEA) 1415                       does not trade
+(MONGEA) 1417                       does not trade
+(MONGEA) 1419                       does not trade
+(MONGEA) 1421                       does not trade
+(MONGEA) 1423                       does not trade
+(MONGEA) 1425           receives (NICPONN) 1071          and sends to (RAZUL) 333
+(MONGEA) 1426                       does not trade
+(MONGEA) 1429                       does not trade
+(MONGEA) 1430                       does not trade
+(MONGEA) 1431                       does not trade
+(MONGEA) 1432                       does not trade
+(MONGEA) 1433                       does not trade
+(MONGEA) 1434                       does not trade
+(MONGEA) 1435                       does not trade
+(MONGEA) 1436           receives (EREM) 756              and sends to (AHRIAN) 1038
+(MONGEA) 1437                       does not trade
+(MONGEA) 1438           receives (RAZUL) 298             and sends to (FINNAN) 499
+(MONGEA) 1439                       does not trade
+(MONGEA) 1440                       does not trade
+(MONGEA) 1441                       does not trade
+(MONGEA) 1442                       does not trade
+(MONGEA) 1443                       does not trade
+(MONGEA) 1444                       does not trade
+(MONGEA) 1445                       does not trade
+(MONGEA) 1446                       does not trade
+(MONGEA) 1447                       does not trade
+(MONGEA) 1448                       does not trade
+(MONGEA) 1449                       does not trade
+(MONGEA) 1450                       does not trade
+(MONGEA) 1451                       does not trade
+(MONGEA) 1452                       does not trade
+(MONGEA) 1453                       does not trade
+(MONGEA) 1454           receives (GINET1) 153            and sends to (EREM) 756
+(MONGEA) 1455                       does not trade
+(MONGEA) 1456           receives (MEFIUG) 856            and sends to (EREM) 762
+(MONGEA) 1457                       does not trade
+(MONGEA) 1459                       does not trade
+(MONGEA) 1460           receives (STOICKOV) 228          and sends to (WUJEK2114) 1167
+(MONGEA) 1463                       does not trade
+(MONGEA) 1478           receives (FIZOLOF) 1089          and sends to (RAZUL) 312
+(MONGEA) 1481                       does not trade
+(MONGEA) 1482                       does not trade
+(MONGEA) 1488                       does not trade
+(MONGEA) 1490                       does not trade
+(MONGEA) 1492                       does not trade
+(MONGEA) 1493                       does not trade
+(MONGEA) 1494                       does not trade
+(MONGEA) 1495                       does not trade
+(MONGEA) 1496                       does not trade
+(MONGEA) 1498                       does not trade
+(MONGEA) 1499           receives (BADYL) 973             and sends to (ANOPTICHTYS) 792
+(MONGEA) 1500                       does not trade
+(MONGEA) 1501                       does not trade
+(MONGEA) 1502                       does not trade
+(MONGEA) 1503                       does not trade
+(MONGEA) 1504                       does not trade
+(MONGEA) 1505           receives (MARTENS10) 464         and sends to (LUBEL) 450
+(MONGEA) 1514                       does not trade
+(MONGEA) 1585           receives (SANDY86) 675           and sends to (CORABB) 927
+(MONGEA) 1589                       does not trade
+(MORKRET) 936                       does not trade
+(MORKRET) 937                       does not trade
+(MORKRET) 938                       does not trade
+(MORKRET) 939           receives (PIOTREKBIER) 1041      and sends to (KERUKR) 1401
+(MORKRET) 940           receives (ANOPTICHTYS) 791       and sends to (REEVS) 1545
+(MORKRET) 941                       does not trade
+(MORKRET) 942                       does not trade
+(MORKRET) 943                       does not trade
+(MORKRET) 944                       does not trade
+(MORKRET) 945                       does not trade
+(NAHAR) 1066            receives (MAZUR84) 1265          and sends to (TIKTUK) 593
+(NAHAR) 496             receives (MARIOOSH) 1233         and sends to (RAZUL) 295
+(NAHAR) 497                         does not trade
+(NAHAR) 595             receives (MEFIUG) 864            and sends to (OMAM1234) 353
+(NAJPERSKLAKA) 1546                 does not trade
+(NAJPERSKLAKA) 1554                 does not trade
+(NAJPERSKLAKA) 1559                 does not trade
+(NARO) 655                          does not trade
+(NARO) 656                          does not trade
+(NARO) 657                          does not trade
+(NARO) 658                          does not trade
+(NARO) 659                          does not trade
+(NARO) 660                          does not trade
+(NEKKORU) 1028          receives (SANDY86) 683           and sends to (MARTENS10) 464
+(NEKKORU) 17            receives (RAZUL) 810             and sends to (THINSPOON) 1352
+(NEKKORU) 19            receives (ZBAJSZEK) 766          and sends to (PIOKS) 946
+(NEKKORU) 21                        does not trade
+(NEKKORU) 23                        does not trade
+(NEKKORU) 24                        does not trade
+(NEKKORU) 25            receives (LUBEL) 1178            and sends to (PRZEMO) 836
+(NEKKORU) 26            receives (PRZEMO) 839            and sends to (QBALDUS1) 506
+(NEKKORU) 27            receives (TOMZAQ) 472            and sends to (_AIS_) 1142
+(NEKKORU) 28            receives (CACTUSSE) 500          and sends to (GRZES19) 258
+(NEKKORU) 29                        does not trade
+(NEKKORU) 30                        does not trade
+(NEKKORU) 31            receives (JAJKOS) 471            and sends to (AFGNCAAP) 1520
+(NEKKORU) 34                        does not trade
+(NEKKORU) 35            receives (WODA) 102              and sends to (ARSAGHAR) 528
+(NEKKORU) 36                        does not trade
+(NEKKORU) 37            receives (CACTUSSE) 163          and sends to (DONKICHOTE87) 1018
+(NEKKORU) 38            receives (GRUNWALD) 57           and sends to (PAWELACB) 983
+(NEKKORU) 39                        does not trade
+(NEKKORU) 41                        does not trade
+(NEKKORU) 43                        does not trade
+(NEKKORU) 44                        does not trade
+(NEKKORU) 46                        does not trade
+(NEKKORU) 48            receives (COIN22) 437            and sends to (RUNMAN) 502
+(NEKKORU) 55            receives (SANDY86) 678           and sends to (LYSYPK) 358
+(NEKKORU) 900           receives (GODUNOW) 733           and sends to (COIN22) 437
+(NEKKORU) 901                       does not trade
+(NEKKORU) 902                       does not trade
+(NEKKORU) 903                       does not trade
+(NEKKORU) 904           receives (LUBEL) 449             and sends to (MAT_EYO) 563
+(NEKKORU) 905                       does not trade
+(NEKKORU) 906                       does not trade
+(NEKKORU) 907                       does not trade
+(NEKKORU) 908           receives (CACTUSSE) 132          and sends to (WODA) 99
+(NEKKORU) 909                       does not trade
+(NEKKORU) 910                       does not trade
+(NEKKORU) 911                       does not trade
+(NICPONN) 1071          receives (EREM) 762              and sends to (MONGEA) 1425
+(NICPONN) 640           receives (ANOPTICHTYS) 785       and sends to (SUCHAR) 930
+(NICPONN) 961           receives (AAXXEE) 127            and sends to (IMPERIAL STOUT) 597
+(OMAM1234) 352          receives (CHAABER) 1260          and sends to (PAWELACB) 981
+(OMAM1234) 353          receives (NAHAR) 595             and sends to (CACTUSSE) 183
+(OMAM1234) 354          receives (ROXAS1231) 1115        and sends to (TANTAR) 451
+(OMAM1234) 355          receives (VDER) 1136             and sends to (RAZUL) 810
+(PAWELACB) 980                      does not trade
+(PAWELACB) 981          receives (OMAM1234) 352          and sends to (SPIOSEK) 1363
+(PAWELACB) 982          receives (GRUNWALD) 47           and sends to (ADALBERT) 1405
+(PAWELACB) 983          receives (NEKKORU) 38            and sends to (KDSZ) 261
+(PAWELACB) 984                      does not trade
+(PAWELACB) 985          receives (CACTUSSE) 188          and sends to (MALEKITH_86) 2
+(PAWELACB) 986                      does not trade
+(PAWELACB) 987                      does not trade
+(PAWELACB) 988                      does not trade
+(PERO PAMBARASCO) 689   receives (GEKOPL) 979            and sends to (EREM) 761
+(PIECHOTAK) 1365                    does not trade
+(PIECHU) 1565                       does not trade
+(PIECHU) 1567                       does not trade
+(PIECHU) 1568                       does not trade
+(PIECHU) 1569           receives (FINEZIX) 1414          and sends to (BALIS) 1521
+(PIECHU) 1570           receives (MEFIUG) 862            and sends to (YANOO) 20
+(PIECHU) 1571                       does not trade
+(PIECHU) 1572           receives (WAMPIK) 668            and sends to (MEFIUG) 862
+(PIECHU) 1573                       does not trade
+(PIECHU) 1574                       does not trade
+(PIECHU) 1575                       does not trade
+(PIECHU) 1576                       does not trade
+(PIECHU) 1577                       does not trade
+(PIECHU) 1578                       does not trade
+(PIODAG) 270            receives (JAJKOS) 391            and sends to (GEKOPL) 979
+(PIODAG) 271                        does not trade
+(PIODAG) 273                        does not trade
+(PIOKS) 946             receives (NEKKORU) 19            and sends to (ARDEL_PL) 1247
+(PIOKS) 947             receives (GRZES19) 244           and sends to (RAZUL) 301
+(PIOTREKBIER) 1041      receives (ALEXANDRYTKA) 96       and sends to (MORKRET) 939
+(PIOTREKBIER) 1042                  does not trade
+(PIOTREKBIER) 1043                  does not trade
+(PITONOWIE) 1240        receives (ARDEL_PL) 1247         and sends to (GINET1) 152
+(PITONOWIE) 1241                    does not trade
+(POKET) 770                         does not trade
+(POKET) 772             receives (_AIS_) 1139            and sends to (TUREK) 510
+(POKET) 773                         does not trade
+(POKET) 774                         does not trade
+(POKET) 775                         does not trade
+(POKET) 776             receives (BARTP) 69              and sends to (COMFORT EAGLE) 632
+(POKET) 777                         does not trade
+(POKET) 778                         does not trade
+(POKET) 779                         does not trade
+(POKET) 780             receives (ZERO_1627) 718         and sends to (KRIONAH) 622
+(POKET) 782                         does not trade
+(PPIECHUU) 962          receives (CACTUSSE) 115          and sends to (MARCIN95) 440
+(PPIECHUU) 963                      does not trade
+(PROBBI) 1048           receives (TEHANU) 109            and sends to (TIKTUK) 964
+(PROBBI) 1050           receives (KRIONAH) 619           and sends to (FINNAN) 1068
+(PROBBI) 1061                       does not trade
+(PROBBI) 1062           receives (ANIAW89) 628           and sends to (CACTUSSE) 163
+(PROBBI) 1064           receives (CACTUSSE) 131          and sends to (MILEV) 709
+(PROBBI) 1065           receives (KASZKIET) 418          and sends to (GOLONKO) 1543
+(PROBBI) 1067           receives (ROBOI250) 1244         and sends to (KASZKIET) 421
+(PRZEMO) 836            receives (NEKKORU) 25            and sends to (ROXAS1231) 1115
+(PRZEMO) 837                        does not trade
+(PRZEMO) 838                        does not trade
+(PRZEMO) 839            receives (TEHANU) 654            and sends to (NEKKORU) 26
+(PRZEMO) 840                        does not trade
+(PRZEMO) 841                        does not trade
+(PRZEMO) 842                        does not trade
+(PRZEMO) 843            receives (JAKOBIAN87) 649        and sends to (YANOO) 22
+(PRZEMO) 844                        does not trade
+(PRZEMO) 845                        does not trade
+(PRZEMO) 846                        does not trade
+(PRZEMO) 847                        does not trade
+(PRZEMO) 848                        does not trade
+(PRZEMO) 849                        does not trade
+(PRZEMO) 850                        does not trade
+(PRZEMO) 851                        does not trade
+(PRZEMO) 852            receives (JEDIMAVERIC) 890       and sends to (8JANEK8) 1580
+(PRZEMO) 853                        does not trade
+(PRZEMO) 882                        does not trade
+(QBALDUS1) 503                      does not trade
+(QBALDUS1) 504                      does not trade
+(QBALDUS1) 505                      does not trade
+(QBALDUS1) 506          receives (NEKKORU) 26            and sends to (JOANNAS) 1261
+(QBALDUS1) 507                      does not trade
+(QBALDUS1) 508                      does not trade
+(QBALDUS1) 509                      does not trade
+(QRZY88) 282            receives (IMPERIAL STOUT) 596    and sends to (COIN22) 1396
+(QRZY88) 283                        does not trade
+(RADZISZZ) 490                      does not trade
+(RADZISZZ) 491                      does not trade
+(RAZUL) 288             receives (8JANEK8) 1582          and sends to (RUNMAN) 49
+(RAZUL) 289                         does not trade
+(RAZUL) 290             receives (KROMKA) 432            and sends to (WALTERF) 535
+(RAZUL) 292             receives (YANOO) 20              and sends to (FINEZIX) 1470
+(RAZUL) 293                         does not trade
+(RAZUL) 294                         does not trade
+(RAZUL) 295             receives (NAHAR) 496             and sends to (JACEKBARBER) 1100
+(RAZUL) 296                         does not trade
+(RAZUL) 297                         does not trade
+(RAZUL) 298             receives (B3R53RK3R) 1222        and sends to (MONGEA) 1438
+(RAZUL) 299                         does not trade
+(RAZUL) 300             receives (MARIOOSH) 861          and sends to (MAT_EYO) 568
+(RAZUL) 301             receives (PIOKS) 947             and sends to (MIRAS23) 637
+(RAZUL) 302                         does not trade
+(RAZUL) 303             receives (MISHIRE) 1210          and sends to (TOMZAQ) 478
+(RAZUL) 304                         does not trade
+(RAZUL) 305                         does not trade
+(RAZUL) 306                         does not trade
+(RAZUL) 307                         does not trade
+(RAZUL) 308                         does not trade
+(RAZUL) 309                         does not trade
+(RAZUL) 310                         does not trade
+(RAZUL) 311             receives (LIMPINGMAN) 1189       and sends to (CHAABER) 1260
+(RAZUL) 312             receives (MONGEA) 1478           and sends to (JAKOBIAN87) 644
+(RAZUL) 313                         does not trade
+(RAZUL) 314                         does not trade
+(RAZUL) 315                         does not trade
+(RAZUL) 316                         does not trade
+(RAZUL) 317                         does not trade
+(RAZUL) 318             receives (JAX7) 1563             and sends to (TEHANU) 109
+(RAZUL) 319                         does not trade
+(RAZUL) 320                         does not trade
+(RAZUL) 321                         does not trade
+(RAZUL) 322                         does not trade
+(RAZUL) 323             receives (COIN22) 1399           and sends to (CRSUNIK) 989
+(RAZUL) 324                         does not trade
+(RAZUL) 325                         does not trade
+(RAZUL) 326                         does not trade
+(RAZUL) 327                         does not trade
+(RAZUL) 328                         does not trade
+(RAZUL) 329             receives (CACTUSSE) 174          and sends to (WAPNIAK) 722
+(RAZUL) 330             receives (DONKICHOTE87) 1007     and sends to (MISHIRE) 1217
+(RAZUL) 331                         does not trade
+(RAZUL) 332                         does not trade
+(RAZUL) 333             receives (MONGEA) 1425           and sends to (FINEZIX) 1476
+(RAZUL) 334                         does not trade
+(RAZUL) 335                         does not trade
+(RAZUL) 336                         does not trade
+(RAZUL) 337                         does not trade
+(RAZUL) 338                         does not trade
+(RAZUL) 340                         does not trade
+(RAZUL) 341                         does not trade
+(RAZUL) 342             receives (MILEV) 709             and sends to (ALEXANDRYTKA) 96
+(RAZUL) 343                         does not trade
+(RAZUL) 344                         does not trade
+(RAZUL) 345                         does not trade
+(RAZUL) 346                         does not trade
+(RAZUL) 347                         does not trade
+(RAZUL) 348                         does not trade
+(RAZUL) 350                         does not trade
+(RAZUL) 729             receives (ARSAGHAR) 530          and sends to (COIN22) 436
+(RAZUL) 732                         does not trade
+(RAZUL) 804                         does not trade
+(RAZUL) 805                         does not trade
+(RAZUL) 806                         does not trade
+(RAZUL) 807                         does not trade
+(RAZUL) 808                         does not trade
+(RAZUL) 809                         does not trade
+(RAZUL) 810             receives (OMAM1234) 355          and sends to (NEKKORU) 17
+(RAZUL) 811                         does not trade
+(RAZUL) 812                         does not trade
+(RAZUL) 813                         does not trade
+(RAZUL) 814                         does not trade
+(REEVS) 1545            receives (MORKRET) 940           and sends to (FINEZIX) 1477
+(REEVS) 1547                        does not trade
+(REEVS) 1548                        does not trade
+(REEVS) 1549                        does not trade
+(REEVS) 1550                        does not trade
+(REEVS) 1551                        does not trade
+(REEVS) 1552            receives (FIZOLOF) 1076          and sends to (CRSUNIK) 541
+(REEVS) 1553            receives (GOLONKO) 1543          and sends to (TOMZAQ) 472
+(ROBOI250) 1244         receives (WUJEK2114) 1169        and sends to (PROBBI) 1067
+(ROBOI250) 1245         receives (WUJEK2114) 1179        and sends to (JAJKOS) 471
+(ROBOI250) 1525         receives (WODA) 91               and sends to (CACTUSSE) 155
+(ROBOI250) 1526                     does not trade
+(ROXAS1231) 1115        receives (PRZEMO) 836            and sends to (OMAM1234) 354
+(ROXAS1231) 1116                    does not trade
+(ROXAS1231) 1117                    does not trade
+(ROXAS1231) 1118                    does not trade
+(ROXAS1231) 1119                    does not trade
+(ROXAS1231) 1120        receives (THINSPOON) 1341        and sends to (SHADOWA) 1300
+(ROXAS1231) 1121                    does not trade
+(ROXAS1231) 1122                    does not trade
+(ROXAS1231) 1123                    does not trade
+(RUNMAN) 49             receives (RAZUL) 288             and sends to (LIMPINGMAN) 1189
+(RUNMAN) 50                         does not trade
+(RUNMAN) 502            receives (NEKKORU) 48            and sends to (LIMPINGMAN) 1201
+(RUNMAN) 51             receives (MARTENS10) 462         and sends to (KDSZ) 260
+(RUNMAN) 52                         does not trade
+(RUNMAN) 53             receives (JAX7) 1555             and sends to (MNOWACZY) 1154
+(RUNMAN) 54             receives (HARUN) 1386            and sends to (WALTERF) 534
+(RUSS) 892                          does not trade
+(RUSS) 893                          does not trade
+(RUSS) 894                          does not trade
+(RUSS) 895                          does not trade
+(RUSS) 896                          does not trade
+(RUSS) 897                          does not trade
+(RUSS) 898                          does not trade
+(SANDY86) 674                       does not trade
+(SANDY86) 675           receives (ZERO_1627) 715         and sends to (MONGEA) 1585
+(SANDY86) 677           receives (GAMBIT_GGK) 834        and sends to (WAPNIAK) 723
+(SANDY86) 678           receives (ALEXANDRYTKA) 88       and sends to (NEKKORU) 55
+(SANDY86) 679                       does not trade
+(SANDY86) 681           receives (DONKICHOTE87) 1018     and sends to (KMET) 1249
+(SANDY86) 683           receives (KLOS_X) 954            and sends to (NEKKORU) 1028
+(SANDY86) 685                       does not trade
+(SANDY86) 687                       does not trade
+(SCHLESSIER) 816                    does not trade
+(SCHLESSIER) 817                    does not trade
+(SCHLESSIER) 818                    does not trade
+(SCHLESSIER) 819        receives (WAPNIAK) 722           and sends to (WODA) 87
+(SCHLESSIER) 820        receives (WODA) 97               and sends to (_AIS_) 1180
+(SHADOWA) 1296                      does not trade
+(SHADOWA) 1298                      does not trade
+(SHADOWA) 1300          receives (ROXAS1231) 1120        and sends to (MARIOOSH) 1233
+(SHADOWA) 1302                      does not trade
+(SHADOWA) 1304          receives (DONKICHOTE87) 1006     and sends to (MILEV) 710
+(SIEPACZ) 875           receives (GAMBIT_GGK) 833        and sends to (MAJKOS) 235
+(SIEPACZ) 876           receives (WALTERF) 534           and sends to (CIUNIEK) 1096
+(SIEPACZ) 877                       does not trade
+(SIEPACZ) 878           receives (8JANEK8) 1579          and sends to (HARUN) 1386
+(SIPIO) 570                         does not trade
+(SIPIO) 571                         does not trade
+(SIPIO) 572                         does not trade
+(SIPIO) 573                         does not trade
+(SIPIO) 574                         does not trade
+(SIPIO) 575             receives (WUJEK2114) 1173        and sends to (BARTP) 71
+(SIPIO) 576             receives (GINET1) 1497           and sends to (CHAABER) 1255
+(SIPIO) 577                         does not trade
+(SIPIO) 578                         does not trade
+(SIPIO) 579                         does not trade
+(SIPIO) 580             receives (BALIS) 1521            and sends to (JINGOWAWA) 1127
+(SIPIO) 872             receives (GINET1) 152            and sends to (BADYL) 1196
+(SIREVAN) 284                       does not trade
+(SIREVAN) 285                       does not trade
+(SIREVAN) 286                       does not trade
+(SIREVAN) 287                       does not trade
+(SPIOSEK) 1346                      does not trade
+(SPIOSEK) 1354                      does not trade
+(SPIOSEK) 1355          receives (GRUNWALD) 45           and sends to (TIKTUK) 965
+(SPIOSEK) 1357          receives (GRZES19) 258           and sends to (FIZOLOF) 1089
+(SPIOSEK) 1360                      does not trade
+(SPIOSEK) 1363          receives (PAWELACB) 981          and sends to (DONKICHOTE87) 1007
+(SPRYSIALDO) 638                    does not trade
+(SPRYSIALDO) 639                    does not trade
+(STASZEK) 1162                      does not trade
+(STASZEK) 1163                      does not trade
+(STASZEK) 1164                      does not trade
+(STASZEK) 1165                      does not trade
+(STASZEK) 1166                      does not trade
+(STOICKOV) 228          receives (_AIS_) 1141            and sends to (MONGEA) 1460
+(STOICKOV) 404                      does not trade
+(SUCHAR) 929            receives (TRNKS_) 412            and sends to (THINSPOON) 1341
+(SUCHAR) 930            receives (NICPONN) 640           and sends to (ZBAJSZEK) 767
+(SYDONIAA) 1181         receives (DONKICHOTE87) 1017     and sends to (BADYL) 971
+(SYDONIAA) 1182                     does not trade
+(SYDONIAA) 1183                     does not trade
+(SYDONIAA) 1184                     does not trade
+(SYDONIAA) 1185                     does not trade
+(SYDONIAA) 1186                     does not trade
+(SYDONIAA) 1187         receives (MASZTALSKI) 559        and sends to (CACTUSSE) 132
+(SYDONIAA) 1215                     does not trade
+(TANTAR) 451            receives (OMAM1234) 354          and sends to (CACTUSSE) 123
+(TANTAR) 452                        does not trade
+(TANTAR) 453            receives (CACTUSSE) 176          and sends to (WODA) 102
+(TANTAR) 454                        does not trade
+(TANTAR) 455            receives (ANOPTICHTYS) 793       and sends to (8JANEK8) 1581
+(TANTAR) 456            receives (BARDOK) 277            and sends to (GIGI) 1031
+(TANTAR) 457                        does not trade
+(TANTAR) 458            receives (KDSZ) 264              and sends to (KERUKR) 1402
+(TEHANU) 109            receives (RAZUL) 318             and sends to (PROBBI) 1048
+(TEHANU) 110                        does not trade
+(TEHANU) 111                        does not trade
+(TEHANU) 113            receives (BARDOK) 280            and sends to (CACTUSSE) 125
+(TEHANU) 114                        does not trade
+(TEHANU) 116                        does not trade
+(TEHANU) 117                        does not trade
+(TEHANU) 654            receives (BADYL) 975             and sends to (PRZEMO) 839
+(THINSPOON) 1341        receives (SUCHAR) 929            and sends to (ROXAS1231) 1120
+(THINSPOON) 1352        receives (NEKKORU) 17            and sends to (MARIOOSH) 859
+(THINSPOON) 1376                    does not trade
+(THINSPOON) 1380                    does not trade
+(THINSPOON) 1562                    does not trade
+(TIKTUK) 583                        does not trade
+(TIKTUK) 584                        does not trade
+(TIKTUK) 585                        does not trade
+(TIKTUK) 586                        does not trade
+(TIKTUK) 587                        does not trade
+(TIKTUK) 588            receives (MAJKOS) 235            and sends to (KRIONAH) 619
+(TIKTUK) 590                        does not trade
+(TIKTUK) 591                        does not trade
+(TIKTUK) 592            receives (GURTH) 1374            and sends to (MILEV) 708
+(TIKTUK) 593            receives (NAHAR) 1066            and sends to (JAX7) 1563
+(TIKTUK) 964            receives (PROBBI) 1048           and sends to (LHAPKA) 991
+(TIKTUK) 965            receives (SPIOSEK) 1355          and sends to (MAT_EYO) 569
+(TIKTUK) 966                        does not trade
+(TIKTUK) 967                        does not trade
+(TIKTUK) 968                        does not trade
+(TIKTUK) 969                        does not trade
+(TOMZAQ) 472            receives (REEVS) 1553            and sends to (NEKKORU) 27
+(TOMZAQ) 473                        does not trade
+(TOMZAQ) 474                        does not trade
+(TOMZAQ) 475                        does not trade
+(TOMZAQ) 476                        does not trade
+(TOMZAQ) 477                        does not trade
+(TOMZAQ) 478            receives (RAZUL) 303             and sends to (CACTUSSE) 112
+(TOMZAQ) 479                        does not trade
+(TOMZAQ) 480            receives (MALEKITH_86) 1         and sends to (JEDIMAVERIC) 888
+(TRNKS_) 409                        does not trade
+(TRNKS_) 410                        does not trade
+(TRNKS_) 411                        does not trade
+(TRNKS_) 412            receives (YANOO) 32              and sends to (SUCHAR) 929
+(TUMINURE) 931                      does not trade
+(TUMINURE) 932          receives (KRIONAH) 625           and sends to (MARTENS10) 469
+(TUMINURE) 933                      does not trade
+(TUMINURE) 934          receives (MARIOOSH) 859          and sends to (GURTH) 1374
+(TUMINURE) 935                      does not trade
+(TUREK) 510             receives (POKET) 772             and sends to (BOGUSZO) 107
+(TUREK) 511                         does not trade
+(VCRPROSZEK) 749                    does not trade
+(VCRPROSZEK) 750        receives (CACTUSSE) 189          and sends to (CACTUSSE) 151
+(VDER) 1132             receives (FPS_PYZ) 995           and sends to (ANOPTICHTYS) 791
+(VDER) 1133                         does not trade
+(VDER) 1135                         does not trade
+(VDER) 1136             receives (FINNAN) 1063           and sends to (OMAM1234) 355
+(VDER) 1137                         does not trade
+(WALTERF) 531                       does not trade
+(WALTERF) 532                       does not trade
+(WALTERF) 533           receives (MILEV) 708             and sends to (BAN4Y) 349
+(WALTERF) 534           receives (RUNMAN) 54             and sends to (SIEPACZ) 876
+(WALTERF) 535           receives (RAZUL) 290             and sends to (_AIS_) 1141
+(WAMPIK) 665                        does not trade
+(WAMPIK) 666                        does not trade
+(WAMPIK) 667                        does not trade
+(WAMPIK) 668            receives (FINEZIX) 1477          and sends to (PIECHU) 1572
+(WAMPIK) 669                        does not trade
+(WAMPIK) 670                        does not trade
+(WAMPIK) 672            receives (KROMKA) 423            and sends to (COMFORT EAGLE) 633
+(WAMPIK) 673                        does not trade
+(WAPNIAK) 719           receives (APIEJH) 695            and sends to (COIN22) 1397
+(WAPNIAK) 720                       does not trade
+(WAPNIAK) 721           receives (LHAPKA) 1087           and sends to (ANOPTICHTYS) 787
+(WAPNIAK) 722           receives (RAZUL) 329             and sends to (SCHLESSIER) 819
+(WAPNIAK) 723           receives (SANDY86) 677           and sends to (HIPPIE93) 1107
+(WAPNIAK) 724           receives (CACTUSSE) 187          and sends to (JACEK_PL) 493
+(WILCZELYKO) 676                    does not trade
+(WILCZELYKO) 680        receives (GOODGUY) 594           and sends to (APIEJH) 701
+(WILCZELYKO) 682                    does not trade
+(WILCZELYKO) 684                    does not trade
+(WILCZELYKO) 686                    does not trade
+(WILCZELYKO) 688                    does not trade
+(WODA) 102              receives (TANTAR) 453            and sends to (NEKKORU) 35
+(WODA) 122                          does not trade
+(WODA) 129              receives (IMPERIAL STOUT) 597    and sends to (KMET) 970
+(WODA) 75               receives (COMFORT EAGLE) 633     and sends to (LHAPKA) 1087
+(WODA) 76               receives (JACEK_PL) 493          and sends to (CORQAN) 883
+(WODA) 77               receives (BARTP) 59              and sends to (LHAPKA) 1085
+(WODA) 78               receives (EMUNOWAK) 1366         and sends to (BARTP) 64
+(WODA) 79               receives (BARTP) 64              and sends to (ZERO_1627) 730
+(WODA) 81               receives (KDSZ) 265              and sends to (_AIS_) 1153
+(WODA) 82                           does not trade
+(WODA) 83                           does not trade
+(WODA) 84                           does not trade
+(WODA) 85                           does not trade
+(WODA) 86               receives (MARTENS10) 463         and sends to (GAMBIT_GGK) 825
+(WODA) 87               receives (SCHLESSIER) 819        and sends to (MARTENS10) 462
+(WODA) 89               receives (CHAABER) 1252          and sends to (LHAPKA) 1483
+(WODA) 91               receives (JOOZEK) 1372           and sends to (ROBOI250) 1525
+(WODA) 92               receives (CACTUSSE) 207          and sends to (LYSYPK) 357
+(WODA) 93                           does not trade
+(WODA) 97               receives (KASZKIET) 421          and sends to (SCHLESSIER) 820
+(WODA) 99               receives (NEKKORU) 908           and sends to (CACTUSSE) 207
+(WOTHAN) 269            receives (GAMBIT_GGK) 825        and sends to (FINNAN) 1063
+(WOTHAN) 272                        does not trade
+(WUJEK2114) 1167        receives (MONGEA) 1460           and sends to (JAJKOS) 391
+(WUJEK2114) 1168                    does not trade
+(WUJEK2114) 1169        receives (ALEXANDRYTKA) 94       and sends to (ROBOI250) 1244
+(WUJEK2114) 1170                    does not trade
+(WUJEK2114) 1171                    does not trade
+(WUJEK2114) 1172                    does not trade
+(WUJEK2114) 1173        receives (CACTUSSE) 155          and sends to (SIPIO) 575
+(WUJEK2114) 1174                    does not trade
+(WUJEK2114) 1175                    does not trade
+(WUJEK2114) 1179        receives (MEFIUG) 899            and sends to (ROBOI250) 1245
+(WUJEK2114) 1242                    does not trade
+(WUJEK2114) 1309                    does not trade
+(YANOO) 16                          does not trade
+(YANOO) 18                          does not trade
+(YANOO) 20              receives (PIECHU) 1570           and sends to (RAZUL) 292
+(YANOO) 22              receives (PRZEMO) 843            and sends to (_AIS_) 1139
+(YANOO) 32              receives (LYSYPK) 358            and sends to (TRNKS_) 412
+(YUZJANNOWITZ) 728                  does not trade
+(ZBAJSZEK) 763                      does not trade
+(ZBAJSZEK) 764                      does not trade
+(ZBAJSZEK) 765                      does not trade
+(ZBAJSZEK) 766          receives (GAMBIT_GGK) 832        and sends to (NEKKORU) 19
+(ZBAJSZEK) 767          receives (SUCHAR) 930            and sends to (ARSAGHAR) 530
+(ZBAJSZEK) 768                      does not trade
+(ZBAJSZEK) 769                      does not trade
+(ZBAJSZEK) 771                      does not trade
+(ZERO_1627) 714                     does not trade
+(ZERO_1627) 715         receives (LHAPKA) 1084           and sends to (SANDY86) 675
+(ZERO_1627) 716                     does not trade
+(ZERO_1627) 717         receives (EREM) 754              and sends to (BAN4Y) 291
+(ZERO_1627) 718         receives (MARTENS10) 466         and sends to (POKET) 780
+(ZERO_1627) 730         receives (WODA) 79               and sends to (FIZOLOF) 1086
+(ZERO_1627) 731                     does not trade
+(ZIMOCH) 441                        does not trade
+(ZIMOCH) 442                        does not trade
+(ZIMOCH) 443                        does not trade
+(ZIMOCH) 444                        does not trade
+(_AIS_) 1139            receives (YANOO) 22              and sends to (POKET) 772
+(_AIS_) 1140                        does not trade
+(_AIS_) 1141            receives (WALTERF) 535           and sends to (STOICKOV) 228
+(_AIS_) 1142            receives (NEKKORU) 27            and sends to (ANIAW89) 628
+(_AIS_) 1143            receives (8JANEK8) 1580          and sends to (EREM) 757
+(_AIS_) 1144            receives (MALEKITH_86) 2         and sends to (JEDIMAVERIC) 890
+(_AIS_) 1145                        does not trade
+(_AIS_) 1146                        does not trade
+(_AIS_) 1147                        does not trade
+(_AIS_) 1148            receives (LHAPKA) 991            and sends to (BARTP) 69
+(_AIS_) 1150            receives (BOBULE) 267            and sends to (KROMKA) 432
+(_AIS_) 1151                        does not trade
+(_AIS_) 1152                        does not trade
+(_AIS_) 1153            receives (WODA) 81               and sends to (KDSZ) 265
+(_AIS_) 1155                        does not trade
+(_AIS_) 1156                        does not trade
+(_AIS_) 1180            receives (SCHLESSIER) 820        and sends to (CACTUSSE) 168
+
+Num trades  = 474 of 1426 items (33,2%)
+Total cost  = 1301 (avg 2,74)
+Num groups  = 4
+Group sizes = 452 17 3 2
+Sum squares = 204606
