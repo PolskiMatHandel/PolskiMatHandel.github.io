@@ -28,7 +28,7 @@
 (Adler24) %StarwarsRubieze : 2245
 (Adler24) %EraInnowacji : 2387
 (Adler24) %Carnegie : 2469
-(Adler24) %NantyNarking : 3
+(Adler24) %NantyNarking : 5
 (Adler24) %TwilightInscription : 13 95 406 780
 (Adler24) %Cubitos : 23 2089
 (Adler24) %GrandAustriaHotel : 215 894
