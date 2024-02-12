@@ -1,0 +1,9 @@
+(NiedzielnyPionek) %Spartacus_PL : 35
+(NiedzielnyPionek) %1830_ENG : 292
+(NiedzielnyPionek) %1822_ENG : 847
+(NiedzielnyPionek) %Runebound_PL : 1904
+(NiedzielnyPionek) %Dungeoneer_PL : 2291
+(NiedzielnyPionek) 1888 : %Spartacus_PL %1830_ENG %1822_ENG %Runebound_PL %Dungeoneer_PL
+(NiedzielnyPionek) 1895 : %Spartacus_PL %1830_ENG %1822_ENG %Runebound_PL %Dungeoneer_PL
+(NiedzielnyPionek) 1891 : %Spartacus_PL %1830_ENG %1822_ENG
+(NiedzielnyPionek) 1893 : %Spartacus_PL %1830_ENG %1822_ENG

@@ -1,0 +1,13 @@
+(armiger) %charterstone : 22 1101 1833
+(armiger) %newdale : 54 211 1108 1632 1654 1707 1713 2105 2282
+(armiger) %poszukiwaniapierscienia : 386
+(armiger) %maszynaturinga : 601 1488
+(armiger) %kero : 1155
+(armiger) %swdeckbuilding : 1305 1784
+(armiger) %gizmos : 1420
+(armiger) %paleo : 334 1913
+(armiger) %mojemiasto : 1314 1991
+
+
+(armiger) 702 : %charterstone %newdale %poszukiwaniapierscienia %kero %swdeckbuilding %gizmos %paleo
+(armiger) 1177 : %charterstone %newdale %poszukiwaniapierscienia %maszynaturinga %kero %swdeckbuilding %gizmos %paleo %mojemiasto

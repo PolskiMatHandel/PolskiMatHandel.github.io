@@ -1,0 +1,10 @@
+(Yoolianna) %Arnak : 31 584 1035 1581 1938 1975
+(Yoolianna) %Wingspan : 895
+(Yoolianna) %FiveTribes : 274 1976
+(Yoolianna) %Seasons : 15
+(Yoolianna) %Quacks : 666
+(Yoolianna) %Meadow : 657 2023
+(Yoolianna) %Witchstone : 66 284 580 2022
+(Yoolianna) %GetOnBoard : 396
+(Yoolianna) 2090 : %Arnak %Wingspan %FiveTribes %Seasons %Quacks %Meadow
+(Yoolianna) 2092 : %Arnak %Wingspan %FiveTribes %Seasons %Quacks %Meadow %Witchstone %GetOnBoard

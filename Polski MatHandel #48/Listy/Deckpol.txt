@@ -1,0 +1,28 @@
+(Deckpol) %Beast : 314
+(Deckpol) %Frostpunkt : 204 301 465 1582 1590 2350
+(Deckpol) %Nemesis : 360 762 1753
+(Deckpol) %WM : 227 573 1244 1799
+(Deckpol) %Dino : 264 289 1668
+(Deckpol) %Cthulhu : 267 2455
+(Deckpol) %Ziemia : 343 808 1031 1376 1445 1516 2466
+(Deckpol) %TG : 450
+(Deckpol) %MaleEpickie : 578 663 1016
+(Deckpol) %LOTR : 579 607 1251 1372 1776
+(Deckpol) %AC : 591 1696
+(Deckpol) %Wiedzmin : 802
+(Deckpol) %Everdell : 996 2043 2047 2263
+(Deckpol) %xcom : 1238
+(Deckpol) %ArkNova : 1360 2361
+(Deckpol) %Etherfields : 1457
+(Deckpol) %Descent : 1614
+(Deckpol) %Destinies : 2410
+
+(Deckpol) 2124 : %Frostpunkt %WM %Cthulhu %TG %AC %Wiedzmin %Descent
+(Deckpol) 2125 : %Beast %Frostpunkt %Nemesis %WM %Dino %Cthulhu %Ziemia %TG %MaleEpickie %LOTR %AC %Wiedzmin %Everdell %xcom %ArkNova %Etherfields %Descent %Destinies
+(Deckpol) 2126 : %Beast %Frostpunkt %Nemesis %WM %Dino %Cthulhu %Ziemia %TG %MaleEpickie %LOTR %AC %Wiedzmin %Everdell %xcom %ArkNova %Etherfields %Descent %Destinies
+(Deckpol) 2128 : %Frostpunkt %Nemesis %WM %Dino %Cthulhu %Ziemia %TG %LOTR %AC %Wiedzmin %Everdell %ArkNova %Etherfields %Descent
+(Deckpol) 2129 : %Beast %Frostpunkt %Nemesis %WM %Dino %Cthulhu %Ziemia %TG %MaleEpickie %LOTR %AC %Wiedzmin %Everdell %xcom %ArkNova %Etherfields %Descent %Destinies
+(Deckpol) 2130 : %Beast %Frostpunkt %Nemesis %WM %Dino %Cthulhu %Ziemia %TG %MaleEpickie %LOTR %AC %Wiedzmin %Everdell %xcom %ArkNova %Etherfields %Descent %Destinies
+(Deckpol) 2132 : %Frostpunkt %Nemesis %WM %Cthulhu %TG %LOTR %AC %Wiedzmin %ArkNova %Etherfields %Descent
+(Deckpol) 2135 : %Beast %Frostpunkt %Nemesis %WM %Dino %Cthulhu %Ziemia %TG %MaleEpickie %LOTR %AC %Wiedzmin %Everdell %xcom %ArkNova %Etherfields %Descent %Destinies
+(Deckpol) 2136 : %Beast %Frostpunkt %Nemesis %WM %Dino %Cthulhu %Ziemia %TG %MaleEpickie %LOTR %AC %Wiedzmin %Everdell %xcom %ArkNova %Etherfields %Descent %Destinies

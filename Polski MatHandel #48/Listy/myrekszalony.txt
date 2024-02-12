@@ -1,0 +1,9 @@
+(myrekszalony) %ILÔS : 209 814 1321 1343 2368
+(myrekszalony) %TINDAYA : 265 410
+(myrekszalony) %WESTERNLEGENDS : 765 1095 1322 1977 2222
+(myrekszalony) %CLASHOFCULTURES : 902 1245
+(myrekszalony) %SUCCESSORS : 1105 2296
+(myrekszalony) 868 : 1090 %WESTERNLEGENDS 2286
+(myrekszalony) 869 : 1594 1905 %TINDAYA %ILÔS
+(myrekszalony) 870 : 802 %SUCCESSORS %CLASHOFCULTURES
+(myrekszalony) 871 : 1090 %WESTERNLEGENDS

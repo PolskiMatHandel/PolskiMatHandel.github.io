@@ -1,0 +1,19 @@
+(Coen098) %Tyrants : 30
+(Coen098) %TWOM : 1034 2261
+(Coen098) %Brazil : 311 1487 1877 2357
+(Coen098) %WelcomeToTheMoon : 602 1371
+(Coen098) %IsleOfTrains : 647
+(Coen098) %OranienburgerKanal : 1094
+(Coen098) %1815Scum : 1608
+(Coen098) %WingspanAsia : 1153
+(Coen098) %Cascadia : 1328
+(Coen098) %FrostpunkPionierzy : 204 1504 1582 1590
+(Coen098) %Nemesis : 360 762 1753
+(Coen098) %NemesisLockdown : 883 899
+(Coen098) %Witcher : 802
+(Coen098) %Eclipse : 1615
+(Coen098) %GWTArgentinaNewZealand : 235 364 604 721 893 935 975 1203 1247 1596 1768 2100
+(Coen098) 449 : %Tyrants %TWOM %WelcomeToTheMoon %IsleOfTrains %WingspanAsia %Brazil %OranienburgerKanal %1815Scum %Cascadia
+(Coen098) 450 : %FrostpunkPionierzy %Nemesis %NemesisLockdown %Witcher %Eclipse
+(Coen098) 699 : %FrostpunkPionierzy %Nemesis %NemesisLockdown %Witcher %Eclipse %GWTArgentinaNewZealand
+(Coen098) 701 : %FrostpunkPionierzy %Nemesis %NemesisLockdown %Witcher %Eclipse %GWTArgentinaNewZealand

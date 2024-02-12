@@ -1,0 +1,75 @@
+(Adler24) %Feudum : 2 1043
+(Adler24) %Endevor : 168
+(Adler24) %Beyond : 169 278 782 1304 1669
+(Adler24) %FrostPunk : 204 301 465 1504 1582 1590 2350
+(Adler24) %WaetherMachine : 227 573 1244 1799
+(Adler24) %Nemesis : 360 1753
+(Adler24) %Taintedgrail : 450
+(Adler24) %DominantMarine : 596 1070
+(Adler24) %TicketLegacy : 649
+(Adler24) %DinosaurWorld : 767
+(Adler24) %UspieniBogowie : 818 1764
+(Adler24) %NemesisLockdown : 883 899
+(Adler24) %MisticVale : 896
+(Adler24) %Northgard : 1004
+(Adler24) %Turbo : 1041 1308 1326
+(Adler24) %BloogRage : 1201
+(Adler24) %KutnaHora : 1172
+(Adler24) %GlenMoreII : 1214 1309
+(Adler24) %GWTNewZeland : 1247
+(Adler24) %Etherfields : 1457
+(Adler24) %JohnCompany : 1791
+(Adler24) %Descent : 1614
+(Adler24) %FoodChain : 1884 1892
+(Adler24) %Hegemony : 1970 2468
+(Adler24) %Dominantspecies : 1985 2349
+(Adler24) %Darwin : 2002
+(Adler24) %Suburbia : 1 195 1580
+(Adler24) %StarwarsRubieze : 2245
+(Adler24) %EraInnowacji : 2387
+(Adler24) %Carnegie : 2469
+(Adler24) %NantyNarking : 3
+(Adler24) %TwilightInscription : 13 95 406 780
+(Adler24) %Cubitos : 23 2089
+(Adler24) %Wielblady : 74 562 658
+(Adler24) %GrandAustriaHotel : 215 894
+(Adler24) %GWTArgentina : 235 364 604 721 893 935 975 1203 1596 1768 2100
+(Adler24) %DinosaurIsland : 264 289
+(Adler24) %Tindaya : 265 410
+(Adler24) %Brazil : 311 1487 1877 2357
+(Adler24) %Paleo : 334 1913
+(Adler24) %Tiletum : 571 1766
+(Adler24) %NiezbadanaPlaneta : 759 1249
+(Adler24) %NaSkrzydlch : 895
+(Adler24) %Undownted : 908
+(Adler24) %Darwin : 2146 2188
+(Adler24) %Paladyni : 153 1015 1377
+(Adler24) %Lagranja : 233 1957
+(Adler24) %Akropolis : 417 583 2037
+(Adler24) %Turing : 816 1488
+(Adler24) %ArchitekciZK : 864
+(Adler24) %Eldorado : 1173
+(Adler24) %Tabanusi : 1276
+(Adler24) %Kaskadia : 1328
+(Adler24) %SteampunkRally : 1415 1917
+(Adler24) %KronikiAvel : 2507
+(Adler24) %SushiGoParty : 575 1961
+(Adler24) %PalecBozy : 852 1027 1330
+(Adler24) %DiunaImperiumNiesmiertelny : 1005
+(Adler24) %Pulsartomat : 1459
+(Adler24) %Cyberstation : 1845
+(Adler24) %Kroniki2400 : 403
+(Adler24) %LowMemory : 1575
+(Adler24) %Dragomino : 1779
+(Adler24) %Ticketpink : 1788 1802
+(Adler24) %WesternLegends : 1905
+
+(Adler24) 2415 : %Feudum %Endevor %Beyond %FrostPunk %WaetherMachine %Nemesis %Taintedgrail %DominantMarine %TicketLegacy %DinosaurWorld %UspieniBogowie %NemesisLockdown %MisticVale %Northgard %Turbo %BloogRage %KutnaHora %GlenMoreII %GWTNewZeland %Etherfields %JohnCompany %Descent %FoodChain %Hegemony %Dominantspecies %Darwin %Suburbia %StarwarsRubieze %EraInnowacji %Carnegie %NantyNarking %TwilightInscription %Cubitos %Wielblady %GrandAustriaHotel %GWTArgentina %DinosaurIsland %Tindaya %Brazil %Paleo %Tiletum %NiezbadanaPlaneta %NaSkrzydlch %Undownted %Darwin %Paladyni %Lagranja %Akropolis %Turing %ArchitekciZK %Eldorado %Tabanusi %Kaskadia %SteampunkRally %KronikiAvel %SushiGoParty %PalecBozy %DiunaImperiumNiesmiertelny %Pulsartomat %Cyberstation %Kroniki2400 %LowMemory %Dragomino %Ticketpink %WesternLegends
+
+(Adler24) 2374 : %Feudum %Endevor %Beyond %FrostPunk %WaetherMachine %Nemesis %Taintedgrail %DominantMarine %TicketLegacy %DinosaurWorld %UspieniBogowie %NemesisLockdown %MisticVale %Northgard %Turbo %BloogRage %KutnaHora %GlenMoreII %GWTNewZeland %Etherfields %JohnCompany %Descent %FoodChain %Hegemony %Dominantspecies %Darwin %Suburbia %StarwarsRubieze %EraInnowacji %Carnegie %NantyNarking %TwilightInscription %Cubitos %Wielblady %GrandAustriaHotel %GWTArgentina %DinosaurIsland %Tindaya %Brazil %Paleo %Tiletum %NiezbadanaPlaneta %NaSkrzydlch %Undownted %Darwin %Paladyni %Lagranja %Akropolis %Turing %ArchitekciZK %Eldorado %Tabanusi %Kaskadia %SteampunkRally %KronikiAvel %SushiGoParty %PalecBozy %DiunaImperiumNiesmiertelny %Pulsartomat %Cyberstation
+
+(Adler24) 2372 : %Feudum %Endevor %Beyond %FrostPunk %WaetherMachine %Nemesis %Taintedgrail %DominantMarine %TicketLegacy %DinosaurWorld %UspieniBogowie %NemesisLockdown %MisticVale %Northgard %Turbo %BloogRage %KutnaHora %GlenMoreII %GWTNewZeland %Etherfields %JohnCompany %Descent %FoodChain %Hegemony %Dominantspecies %Darwin %Suburbia %StarwarsRubieze %EraInnowacji %Carnegie %NantyNarking %TwilightInscription %Cubitos %Wielblady %GrandAustriaHotel %GWTArgentina %DinosaurIsland %Tindaya %Brazil %Paleo %Tiletum %NiezbadanaPlaneta %NaSkrzydlch %Undownted %Darwin %Paladyni %Lagranja %Akropolis %Turing %ArchitekciZK %Eldorado %Tabanusi %Kaskadia %SteampunkRally %KronikiAvel
+
+(Adler24) 2401 : %Feudum %Endevor %Beyond %FrostPunk %WaetherMachine %Nemesis %Taintedgrail %DominantMarine %TicketLegacy %DinosaurWorld %UspieniBogowie %NemesisLockdown %MisticVale %Northgard %Turbo %BloogRage %KutnaHora %GlenMoreII %GWTNewZeland %Etherfields %JohnCompany %Descent %FoodChain %Hegemony %Dominantspecies %Darwin %Suburbia %StarwarsRubieze %EraInnowacji %Carnegie %NantyNarking %TwilightInscription %Cubitos %Wielblady %GrandAustriaHotel %GWTArgentina %DinosaurIsland %Tindaya %Brazil %Paleo %Tiletum %NiezbadanaPlaneta %NaSkrzydlch %Undownted %Darwin
+
+(Adler24) 2410 : %Feudum %Endevor %Beyond %FrostPunk %WaetherMachine %Nemesis %Taintedgrail %DominantMarine %TicketLegacy %DinosaurWorld %UspieniBogowie %NemesisLockdown %MisticVale %Northgard %Turbo %BloogRage %KutnaHora %GlenMoreII %GWTNewZeland %Etherfields %JohnCompany %Descent %FoodChain %Hegemony %Dominantspecies %Darwin %Suburbia %StarwarsRubieze %EraInnowacji %Carnegie

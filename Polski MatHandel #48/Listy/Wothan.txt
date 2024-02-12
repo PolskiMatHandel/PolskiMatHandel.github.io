@@ -1,0 +1,12 @@
+(Wothan) %Circadians : 2226
+(Wothan) %KutnaHora : 1172
+(Wothan) %Eclipse : 1615
+
+(Wothan) 1757 : %Eclipse
+(Wothan) 1760 : %Circadians %KutnaHora
+(Wothan) 1756 : %Circadians %KutnaHora
+(Wothan) 1752 : %Circadians %KutnaHora
+(Wothan) 1749 : %Circadians %KutnaHora
+(Wothan) 1755 : %Circadians %KutnaHora
+(Wothan) 1743 : %Eclipse
+(Wothan) 1745 : %Eclipse
