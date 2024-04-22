@@ -1,0 +1,8 @@
+(baaka) %CAPER : 1668
+(baaka) %IRONCLAYS : 1548
+(baaka) %SWOUTERRIM : 1956
+(baaka) %TWISTED : 578
+(baaka) 1140 : %CAPER %IRONCLAYS %SWOUTERRIM %TWISTED
+(baaka) 1141 :
+(baaka) 1142 :
+(baaka) 1143 :

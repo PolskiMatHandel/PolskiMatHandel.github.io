@@ -1,0 +1,62 @@
+(Adler24) %FrostPunk : 149 692 1631
+(Adler24) %turbo : 262 1261
+(Adler24) %BloodRage : 503 853 1290 1811 1866
+(Adler24) %WonderlandsWar : 637 640 1191
+(Adler24) %TicketLegacy : 661 1619 1940 2053
+(Adler24) %Carnegie : 667 1980
+(Adler24) %MageKnightUE : 696
+(Adler24) %WyprawaDarwinazdod : 748
+(Adler24) %ViticultureEsential : 1071 2062
+(Adler24) %Beyond : 1257 1907
+(Adler24) %Barrage : 1272
+(Adler24) %Hegemony : 1376
+(Adler24) %Descent : 1449
+(Adler24) %Revive : 1813
+(Adler24) %FoodChain : 1832
+(Adler24) %WladcyZiemi : 1836
+(Adler24) %NantyNarking : 4 560 1532
+(Adler24) %Pulsar : 10
+(Adler24) %Cubitos : 15 1138 1237 1447
+(Adler24) %Brazil : 21 1147 1341 1355 1758
+(Adler24) %WorldWonders : 30 1029
+(Adler24) %Tiletum : 157 1269 2002 2013
+(Adler24) %GrandAustria : 185 1265
+(Adler24) %LewisIClark : 190 708 1352
+(Adler24) %LaGranja : 198
+(Adler24) %MiodnyBzyk : 327
+(Adler24) %Nidavelir : 485 1142
+(Adler24) %Bitoku : 638
+(Adler24) %DinosaurIsland : 688 1513 2007
+(Adler24) %Rollplayer : 877
+(Adler24) %ReaversOfMidgrd : 887
+(Adler24) %IstanbulBB : 891
+(Adler24) %Paleo : 983
+(Adler24) %WyprawaDarwina : 1852
+(Adler24) %Suburbia : 1910
+(Adler24) %Splendor : 158
+(Adler24) %AlchemicyGolem : 307
+(Adler24) %ResArcana : 1045 1078
+(Adler24) %WyprawadoEldorado : 1582
+(Adler24) %Kaskadia : 1930
+(Adler24) %Bialyzamek : 1955
+(Adler24) %Turing : 1967
+(Adler24) %Sagrada : 1975
+(Adler24) %Batman : 430 528 618
+(Adler24) %SushiGoParty : 804 1093 1094 1573
+(Adler24) %Kartografowie : 460
+(Adler24) %EscapeTales : 1051
+(Adler24) %IronClays : 1548
+(Adler24) %Unlock : 1658 2077
+(Adler24) %KeyflowerMerchants : 2045
+(Adler24) %TicketPink : 1025
+
+
+(Adler24) 210 : %FrostPunk %turbo %BloodRage %WonderlandsWar %TicketLegacy %Carnegie %MageKnightUE %WyprawaDarwinazdod %ViticultureEsential %Beyond %Barrage %Hegemony %Descent %Revive %FoodChain %WladcyZiemi %NantyNarking %Pulsar %Cubitos %Brazil %WorldWonders %Tiletum %GrandAustria %LewisIClark %LaGranja %MiodnyBzyk %Nidavelir %Bitoku %DinosaurIsland %Rollplayer %ReaversOfMidgrd %IstanbulBB %Paleo %WyprawaDarwina %Suburbia %Splendor %AlchemicyGolem %ResArcana %WyprawadoEldorado %Kaskadia %Bialyzamek %Turing %Sagrada %Batman %SushiGoParty %Kartografowie %EscapeTales %IronClays %Unlock %KeyflowerMerchants %TicketPink
+
+(Adler24) 211 : %FrostPunk %turbo %BloodRage %WonderlandsWar %TicketLegacy %Carnegie %MageKnightUE %WyprawaDarwinazdod %ViticultureEsential %Beyond %Barrage %Hegemony %Descent %Revive %FoodChain %WladcyZiemi %NantyNarking %Pulsar %Cubitos %Brazil %WorldWonders %Tiletum %GrandAustria %LewisIClark %LaGranja %MiodnyBzyk %Nidavelir %Bitoku %DinosaurIsland %Rollplayer %ReaversOfMidgrd %IstanbulBB %Paleo %WyprawaDarwina %Suburbia %Splendor %AlchemicyGolem %ResArcana %WyprawadoEldorado %Kaskadia %Bialyzamek %Turing %Sagrada %Batman %SushiGoParty
+
+(Adler24) 212 : %FrostPunk %turbo %BloodRage %WonderlandsWar %TicketLegacy %Carnegie %MageKnightUE %WyprawaDarwinazdod %ViticultureEsential %Beyond %Barrage %Hegemony %Descent %Revive %FoodChain %WladcyZiemi %NantyNarking %Pulsar %Cubitos %Brazil %WorldWonders %Tiletum %GrandAustria %LewisIClark %LaGranja %MiodnyBzyk %Nidavelir %Bitoku %DinosaurIsland %Rollplayer %ReaversOfMidgrd %IstanbulBB %Paleo %WyprawaDarwina %Suburbia %Splendor %AlchemicyGolem %ResArcana %WyprawadoEldorado %Kaskadia %Bialyzamek %Turing %Sagrada
+
+(Adler24) 209 : %FrostPunk %turbo %BloodRage %WonderlandsWar %TicketLegacy %Carnegie %MageKnightUE %WyprawaDarwinazdod %ViticultureEsential %Beyond %Barrage %Hegemony %Descent %Revive %FoodChain %WladcyZiemi %NantyNarking %Pulsar %Cubitos %Brazil %WorldWonders %Tiletum %GrandAustria %LewisIClark %LaGranja %MiodnyBzyk %Nidavelir %Bitoku %DinosaurIsland %Rollplayer %ReaversOfMidgrd %IstanbulBB %Paleo %WyprawaDarwina %Suburbia
+
+(Adler24) 207 : %FrostPunk %turbo %BloodRage %WonderlandsWar %TicketLegacy %Carnegie %MageKnightUE %WyprawaDarwinazdod %ViticultureEsential %Beyond %Barrage %Hegemony %Descent %Revive %FoodChain %WladcyZiemi

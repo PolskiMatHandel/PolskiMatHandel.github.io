@@ -1,0 +1,47 @@
+(nidhog) %grupa15 : 1286 1671 1760 1397 115 1259 147 1813 6 637 640 1191 490
+(nidhog) %grupa0 : 606
+(nidhog) %grupa25 : 1392 1503
+(nidhog) %grupa10 : 1929 661 1548 448 532 1288 306 1603 1137 545 1940 1007 1029 1282 30 231 2128 399 963 2053
+(nidhog) %grupa50 : 271 383 605 194 1270 1882 263
+(nidhog) %eson1 : 632 208 433 1373
+(nidhog) %eson2 : 237 444
+(nidhog) 1144 : %grupa50 %grupa25
+(nidhog) 1145 : %grupa15 %grupa0 %grupa25 %grupa10 %grupa50 %eson2
+(nidhog) 1146 :
+(nidhog) 1147 : %grupa15 %grupa25 %grupa50
+(nidhog) 1148 : %grupa50
+(nidhog) 1149 : %grupa15 %grupa25 %grupa10 %grupa50 %eson2
+(nidhog) 1150 : %grupa25 %grupa50
+(nidhog) 1151 : %grupa15 %grupa25 %grupa10 %grupa50
+(nidhog) 1152 : %grupa15 %grupa25 %grupa10 %grupa50 %eson2
+(nidhog) 1153 : %grupa15 %grupa25 %grupa50
+(nidhog) 1154 : %grupa15 %grupa25 %grupa50
+(nidhog) 1155 : %grupa15 %grupa25 %grupa50
+(nidhog) 1156 :
+(nidhog) 1157 : %grupa25 %grupa50
+(nidhog) 1158 : %grupa15 %grupa25 %grupa50
+(nidhog) 1159 : %grupa15 %grupa25 %grupa10 %grupa50
+(nidhog) 1160 : %grupa25 %grupa50
+(nidhog) 1161 : %grupa15 %grupa0 %grupa25 %grupa10 %grupa50
+(nidhog) 1162 : %grupa15 %grupa25 %grupa10 %grupa50
+(nidhog) 1163 : %grupa15 %grupa0 %grupa25 %grupa10 %grupa50 %eson2
+(nidhog) 1165 : %grupa15 %grupa25 %grupa10 %grupa50 %eson2
+(nidhog) 1166 : %grupa15 %grupa25 %grupa10 %grupa50 %eson2
+(nidhog) 1167 : %grupa15 %grupa25 %grupa50
+(nidhog) 1168 :
+(nidhog) 1169 : %grupa15 %grupa25 %grupa10 %grupa50 %eson2
+(nidhog) 1170 : %grupa15 %grupa25 %grupa10 %grupa50
+(nidhog) 1171 : %grupa15 %grupa25 %grupa10 %grupa50
+(nidhog) 1172 : %grupa15 %grupa25 %grupa50
+(nidhog) 1173 : %eson2 %grupa50
+(nidhog) 1174 : %grupa15 %grupa0 %grupa25 %grupa10 %grupa50 %eson2
+(nidhog) 1204 : %grupa15 %grupa25 %grupa10 %grupa50 %eson2
+(nidhog) 1207 : %grupa15 %grupa25 %grupa10 %grupa50 %eson2
+(nidhog) 1209 : %grupa15 %grupa25 %grupa10 %grupa50
+(nidhog) 1211 : %grupa15 %grupa25 %grupa10 %grupa50 %eson2
+(nidhog) 1214 : %grupa15 %grupa0 %grupa25 %grupa10 %grupa50 %eson2
+(nidhog) 1215 : %grupa15 %grupa0 %grupa25 %grupa10 %grupa50 %eson2
+(nidhog) 1217 : %grupa15 %grupa25 %grupa10 %grupa50 %eson2
+(nidhog) 1219 : %eson1 %eson2 %grupa50
+(nidhog) 1309 : %grupa50 %grupa25
+(nidhog) 1310 :

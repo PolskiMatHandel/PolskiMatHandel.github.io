@@ -1,0 +1,23 @@
+(Deckpol) %Frostpunkt : 149 692 1631
+(Deckpol) %Weather : 194
+(Deckpol) %Clank : 306 532
+(Deckpol) %Golem : 307
+(Deckpol) %Talisman : 423 1102
+(Deckpol) %DbD : 580
+(Deckpol) %Ziemia : 657 1366 1762
+(Deckpol) %Descent : 1449
+(Deckpol) %Miners : 1455 1544
+(Deckpol) %Wiedzmin : 1882
+(Deckpol) %Dino : 688 1513 2007
+(Deckpol) %Zombicide : 1541 1555
+(Deckpol) %LOTR : 1660 2074
+(Deckpol) %Ark : 1671 1760
+
+(Deckpol) 2086 : %Frostpunkt %Weather %Talisman %Descent %Wiedzmin %LOTR
+(Deckpol) 2088 : %Frostpunkt %Weather %Clank %Golem %Talisman %DbD %Ziemia %Descent %Miners %Wiedzmin %Dino %LOTR %Ark
+(Deckpol) 2090 : %Frostpunkt %Weather %Clank %Talisman %Descent %Wiedzmin %Dino %LOTR %Ark
+(Deckpol) 2091 : %Frostpunkt %Weather %Clank %Golem %Talisman %DbD %Ziemia %Descent %Miners %Wiedzmin %Dino %LOTR %Ark
+(Deckpol) 2092 : %Frostpunkt %Weather %Clank %Golem %Talisman %DbD %Ziemia %Descent %Miners %Wiedzmin %Dino %LOTR %Ark
+(Deckpol) 2093 : %Frostpunkt %Weather %Clank %Talisman %Descent %Wiedzmin %Dino %LOTR %Ark
+(Deckpol) 2094 : %Frostpunkt %Weather %Clank %Golem %Talisman %DbD %Ziemia %Descent %Miners %Wiedzmin %Dino %LOTR %Ark
+(Deckpol) 2095 : %Frostpunkt %Weather %Clank %Golem %Talisman %DbD %Ziemia %Descent %Miners %Wiedzmin %Dino %LOTR %Ark

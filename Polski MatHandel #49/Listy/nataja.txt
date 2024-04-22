@@ -1,0 +1,4 @@
+(nataja) %CITYMACHINE : 124
+(nataja) %FOODCHAIN : 1832
+(nataja) 2012 : %FOODCHAIN %CITYMACHINE
+(nataja) 2013 : %FOODCHAIN

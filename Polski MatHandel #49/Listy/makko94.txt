@@ -1,0 +1,15 @@
+(makko94) %swrebelia : 2 1981
+(makko94) %tyrantsofunderdark : 7 20
+(makko94) %worldwonders : 30 1029
+(makko94) %podwodnemiasta : 113 196 1713
+(makko94) %grandaustria : 185 1265
+(makko94) %evergreen : 205
+(makko94) %miodnybzyk : 327 558
+(makko94) %glenmore : 434 914 1287 1808 2012
+(makko94) %teotihuacan : 478
+(makko94) %trickerion : 481
+(makko94) %tickettoridelegacy : 661 1619 1940 2053
+(makko94) %carnegie : 667 1980
+(makko94) 966 : %carnegie %tickettoridelegacy %podwodnemiasta ; %teotihuacan %trickerion %grandaustria %swrebelia ; %glenmore ; %worldwonders %tyrantsofunderdark %miodnybzyk %evergreen
+(makko94) 967 : %carnegie %tickettoridelegacy %podwodnemiasta ; %teotihuacan %trickerion %grandaustria %swrebelia ; %glenmore
+(makko94) 968 : %carnegie %tickettoridelegacy %podwodnemiasta ; %teotihuacan %trickerion %grandaustria %swrebelia ; %glenmore

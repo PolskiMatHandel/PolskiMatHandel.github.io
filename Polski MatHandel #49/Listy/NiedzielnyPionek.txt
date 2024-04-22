@@ -1,0 +1,14 @@
+(NiedzielnyPionek) %Tyrants_PL : 7 20
+(NiedzielnyPionek) %Hoplomachus_ENG : 161
+(NiedzielnyPionek) %Arkham_Horror_PL : 540
+(NiedzielnyPionek) %Medieval_PL : 615
+(NiedzielnyPionek) %Concordia_PL : 1073 1288
+(NiedzielnyPionek) %Zombicide_Black_PL : 1541
+(NiedzielnyPionek) %Zombicide_2nd_PL : 1555
+(NiedzielnyPionek) 1040 : %Tyrants_PL %Hoplomachus_ENG %Arkham_Horror_PL %Medieval_PL %Concordia_PL %Zombicide_Black_PL %Zombicide_2nd_PL
+(NiedzielnyPionek) 1041 : %Tyrants_PL %Hoplomachus_ENG %Arkham_Horror_PL %Medieval_PL %Concordia_PL %Zombicide_Black_PL %Zombicide_2nd_PL
+(NiedzielnyPionek) 1042 : %Tyrants_PL %Hoplomachus_ENG %Arkham_Horror_PL %Medieval_PL %Concordia_PL %Zombicide_Black_PL %Zombicide_2nd_PL
+(NiedzielnyPionek) 1043 :
+(NiedzielnyPionek) 1044 :
+(NiedzielnyPionek) 1045 : %Tyrants_PL %Hoplomachus_ENG %Arkham_Horror_PL %Medieval_PL %Concordia_PL %Zombicide_Black_PL %Zombicide_2nd_PL
+(NiedzielnyPionek) 1046 : %Tyrants_PL %Hoplomachus_ENG %Arkham_Horror_PL %Medieval_PL %Concordia_PL %Zombicide_Black_PL %Zombicide_2nd_PL
