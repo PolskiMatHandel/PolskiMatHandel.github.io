@@ -1,0 +1,5 @@
+(detrytus) %FIELDS_OF_ARLE : 1488 1924
+(detrytus) %ON_MARS : 1191
+(detrytus) 1779 : %FIELDS_OF_ARLE %ON_MARS
+(detrytus) 1780 :
+(detrytus) 1781 :

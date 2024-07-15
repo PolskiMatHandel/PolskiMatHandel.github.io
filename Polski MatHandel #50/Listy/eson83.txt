@@ -1,0 +1,14 @@
+(eson83) %E83Village : 125 597 850
+(eson83) %E83Frostpunk : 231 774 701
+(eson83) %E83Destinies : 358 838
+(eson83) %E83RedCathedral : 635 1827
+(eson83) %E83Blood : 1348 1797
+(eson83) 1380 : 492 305 %E83Destinies %E83Frostpunk %E83Blood 1780 430 527 751 1747 1419
+(eson83) 1383 : 492 305 1738 434 %E83Destinies %E83RedCathedral %E83Frostpunk %E83Blood 1780 430 527 751 1747 1419 1315
+(eson83) 1385 : 492 305 1738 434 %E83Destinies %E83RedCathedral %E83Frostpunk %E83Blood 1780 430 527 751 1747 1419 1315
+(eson83) 1398 : 1780 1747 %E83Village %E83Blood %E83Frostpunk 440 527 1419 430 751 1315
+(eson83) 1408 : 1780 492 440 %E83Village %E83Frostpunk %E83Blood 1419 1747 527 430 751 1315
+(eson83) 1402 : 1780 %E83Frostpunk 1419 1747 440 527 430 751 1315
+(eson83) 1421 : 1780 492 440 %E83Village %E83Frostpunk %E83Blood 1419 1747 527 430 751 1315
+(eson83) 1393 : 1747 430 527 751 440 527 1419
+(eson83) 1387 :

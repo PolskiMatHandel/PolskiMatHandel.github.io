@@ -1,0 +1,5 @@
+(Gambit_GGK) %PEST : 180 1729
+(Gambit_GGK) 1417 : %PEST
+(Gambit_GGK) 1419 :
+(Gambit_GGK) 1420 : %PEST
+(Gambit_GGK) 1859 :

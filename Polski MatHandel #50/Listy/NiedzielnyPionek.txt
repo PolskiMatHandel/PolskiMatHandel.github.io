@@ -1,0 +1,4 @@
+(NiedzielnyPionek) %HeroRealms_PL : 578
+(NiedzielnyPionek) %1989DawnOfFreedom_PL : 585
+(NiedzielnyPionek) %StarTrekAwayMissions_ENG : 1098
+(NiedzielnyPionek) 1476 : %HeroRealms_PL %1989DawnOfFreedom_PL %StarTrekAwayMissions_ENG

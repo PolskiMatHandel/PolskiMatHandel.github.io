@@ -1,0 +1,61 @@
+(Adler24) %WielkiMur : 182
+(Adler24) %TicketLegacy : 198 997
+(Adler24) %Etherfields : 496 1247
+(Adler24) %NemesisLockdown : 563 1543
+(Adler24) %Descent : 751
+(Adler24) %Tomanybones : 770
+(Adler24) %ISSWanguard : 1544
+(Adler24) %Carnegie : 18 26 1067
+(Adler24) %Wonderland : 15
+(Adler24) %UspieniBogowie : 122 1504
+(Adler24) %Revive : 196
+(Adler24) %Heat : 197 1817
+(Adler24) %Viticulture : 218 1088
+(Adler24) %Beyond : 598
+(Adler24) %FoodChain : 687
+(Adler24) %AgeOfInnowation : 688 833
+(Adler24) %WyprawaDarwina : 761
+(Adler24) %PaxRenesans : 793
+(Adler24) %Hegemony : 891 710
+(Adler24) %GWTNewZeland : 908 1567
+(Adler24) %Barrage : 914 1816
+(Adler24) %WladcyZiemi : 1818
+(Adler24) %GWTArgentyna : 147 298 315 599 1156 1398
+(Adler24) %DinozaurIsland : 254 893 1089
+(Adler24) %Szczury : 1314 568 820 823
+(Adler24) %Wingspan : 659 921
+(Adler24) %Cubitos : 1084 1551
+(Adler24) %Anno : 1281
+(Adler24) %Pulsar : 29
+(Adler24) %Brazil : 37 703
+(Adler24) %Elizjum : 57 1453
+(Adler24) %ArchitekciZK : 96
+(Adler24) %Calico : 101 233 270 1001
+(Adler24) %ResArcana : 108 613 805
+(Adler24) %Kaskadia : 384 1708
+(Adler24) %NieustraszeniNormandia : 261 1473
+(Adler24) %PalecBozy : 529 1572
+(Adler24) %KronikiZbrodni : 593
+(Adler24) %CzerwonaKatedra : 635 1827
+(Adler24) %Tiletum : 639
+(Adler24) %WorldWonders : 644 1310 1431
+(Adler24) %Tabanusi : 705 1299
+(Adler24) %Tekhenu : 1302
+(Adler24) %PlanetUnknow : 1393
+(Adler24) %Lagranja : 1820
+(Adler24) %Batman : 365
+(Adler24) %Unlock : 753 858 1025
+(Adler24) %AlchemicyGolem : 403
+(Adler24) %SushiGoParty : 1754 1755
+
+
+
+(Adler24) 1793 : %WielkiMur %TicketLegacy %Etherfields %NemesisLockdown %Descent %Tomanybones %ISSWanguard %Carnegie %Wonderland %UspieniBogowie %Revive %Heat %Viticulture %Beyond %FoodChain %AgeOfInnowation %WyprawaDarwina %PaxRenesans %Hegemony %GWTNewZeland %Barrage %WladcyZiemi %GWTArgentyna %DinozaurIsland %Szczury %Wingspan %Cubitos %Anno %Pulsar %Brazil %Elizjum %ArchitekciZK %Calico %ResArcana %Kaskadia %NieustraszeniNormandia %PalecBozy %KronikiZbrodni %CzerwonaKatedra %Tiletum %WorldWonders %Tabanusi %Tekhenu %PlanetUnknow %Lagranja %Batman %Unlock %AlchemicyGolem %SushiGoParty
+
+(Adler24) 1795 : %WielkiMur %TicketLegacy %Etherfields %NemesisLockdown %Descent %Tomanybones %ISSWanguard %Carnegie %Wonderland %UspieniBogowie %Revive %Heat %Viticulture %Beyond %FoodChain %AgeOfInnowation %WyprawaDarwina %PaxRenesans %Hegemony %GWTNewZeland %Barrage %WladcyZiemi %GWTArgentyna %DinozaurIsland %Szczury %Wingspan %Cubitos %Anno %Pulsar %Brazil %Elizjum %ArchitekciZK %Calico %ResArcana %Kaskadia %NieustraszeniNormandia %PalecBozy %KronikiZbrodni %CzerwonaKatedra %Tiletum %WorldWonders %Tabanusi %Tekhenu %PlanetUnknow %Lagranja
+
+(Adler24) 1791 : %WielkiMur %TicketLegacy %Etherfields %NemesisLockdown %Descent %Tomanybones %ISSWanguard %Carnegie %Wonderland %UspieniBogowie %Revive %Heat %Viticulture %Beyond %FoodChain %AgeOfInnowation %WyprawaDarwina %PaxRenesans %Hegemony %GWTNewZeland %Barrage %WladcyZiemi %GWTArgentyna %DinozaurIsland %Szczury %Wingspan %Cubitos %Anno
+
+(Adler24) 1796 : %WielkiMur %TicketLegacy %Etherfields %NemesisLockdown %Descent %Tomanybones %ISSWanguard %Carnegie %Wonderland %UspieniBogowie %Revive %Heat %Viticulture %Beyond %FoodChain %AgeOfInnowation %WyprawaDarwina %PaxRenesans %Hegemony %GWTNewZeland %Barrage %WladcyZiemi
+
+(Adler24) 1797 : %WielkiMur %TicketLegacy %Etherfields %NemesisLockdown %Descent %Tomanybones %ISSWanguard
