@@ -18,7 +18,7 @@
 (patrykgalka) %CITY_OF_THE_GREAT_MACHINE : 651
 (patrykgalka) %CLANK_CATACOMBS : 404
 (patrykgalka) %CLANK_IN_SPACE : 1097 669
-(patrykgalka) %CLASH_OF_CULTURES : 686 781 875 1564
+(patrykgalka) %CLASH_OF_CULTURES : 686 781 1564
 (patrykgalka) %COAL_BARON : 707
 (patrykgalka) %COLOMA : 1151
 (patrykgalka) %CUBITOS : 1084 1551
