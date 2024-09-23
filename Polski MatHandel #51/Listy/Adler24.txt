@@ -1,0 +1,61 @@
+(Adler24) %Nemesis : 264 775
+(Adler24) %NemesisLockdown : 959
+(Adler24) %Descent : 1203 1434
+(Adler24) %TicketLegacy : 1340 1460
+(Adler24) %MageKnightUE : 1378
+(Adler24) %Obsesion : 1747
+(Adler24) %Endevor : 186
+(Adler24) %SleepingGods : 473 1506
+(Adler24) %FrostPunk : 724 1342 1585 1728
+(Adler24) %GWTNewZeland : 25 1865
+(Adler24) %FoodChain : 83
+(Adler24) %Beyond : 82 268 981 1338
+(Adler24) %Turbo : 214 1068 1117
+(Adler24) %GodFather : 617
+(Adler24) %Viticulture : 809
+(Adler24) %Revive : 822 1343 1783
+(Adler24) %Darwinzdodatkiem : 1314
+(Adler24) %Terraformacja : 1330
+(Adler24) %altiplano : 39
+(Adler24) %istanbul : 43
+(Adler24) %Odlotowywyscig : 691 1496
+(Adler24) %Tiletum : 1333
+(Adler24) %Darwin : 423
+(Adler24) %GWTArgentyna : 1345 179 364 469 653 1062 1187 1233
+(Adler24) %Paleo : 1505
+(Adler24) %Kraken : 1530
+(Adler24) %Pulsar : 1840
+(Adler24) %LesneRozdanie : 217
+(Adler24) %Decscape : 275
+(Adler24) %Brass : 276
+(Adler24) %WorldWonders : 283 383
+(Adler24) %Kaskadia : 310
+(Adler24) %Unlock : 327 1486
+(Adler24) %AlchemicyGolem : 336
+(Adler24) %Skytime : 513 1406
+(Adler24) %batman : 546
+(Adler24) %splendor : 661
+(Adler24) %Kanagawa : 681
+(Adler24) %PoszlyKonie : 747 990 1074 1757
+(Adler24) %Eldorado : 821 905
+(Adler24) %PAlecBozy : 904 1891
+(Adler24) %Architekci : 1099
+(Adler24) %Tekhenu : 1176 1508
+(Adler24) %Goraidolem : 1531
+
+
+(Adler24) 417 : %Nemesis %NemesisLockdown %Descent %TicketLegacy %MageKnightUE %Obsesion %Endevor %SleepingGods %FrostPunk %GWTNewZeland %FoodChain %Beyond %Turbo %GodFather %Viticulture %Revive %Darwinzdodatkiem %Terraformacja %altiplano %istanbul %Odlotowywyscig %Tiletum %Darwin %GWTArgentyna %Paleo %Kraken %Pulsar %LesneRozdanie %Decscape %Brass %WorldWonders %Kaskadia %Unlock %AlchemicyGolem %Skytime %batman %splendor %Kanagawa %PoszlyKonie %Eldorado %PAlecBozy %Architekci %Tekhenu %Goraidolem
+
+(Adler24) 418 : %Nemesis %NemesisLockdown %Descent %TicketLegacy %MageKnightUE %Obsesion %Endevor %SleepingGods %FrostPunk %GWTNewZeland %FoodChain %Beyond %Turbo %GodFather %Viticulture %Revive %Darwinzdodatkiem %Terraformacja %altiplano %istanbul %Odlotowywyscig %Tiletum %Darwin %GWTArgentyna %Paleo %Kraken %Pulsar %LesneRozdanie %Decscape %Brass %WorldWonders %Kaskadia %Unlock %AlchemicyGolem %Skytime %batman %splendor %Kanagawa %PoszlyKonie %Eldorado %PAlecBozy %Architekci %Tekhenu %Goraidolem
+
+(Adler24) 420 : %Nemesis %NemesisLockdown %Descent %TicketLegacy %MageKnightUE %Obsesion %Endevor %SleepingGods %FrostPunk %GWTNewZeland %FoodChain %Beyond %Turbo %GodFather %Viticulture %Revive %Darwinzdodatkiem %Terraformacja %altiplano %istanbul %Odlotowywyscig %Tiletum %Darwin %GWTArgentyna %Paleo %Kraken %Pulsar %LesneRozdanie %Decscape %Brass %WorldWonders %Kaskadia %Unlock %AlchemicyGolem %Skytime %batman %splendor %Kanagawa %PoszlyKonie %Eldorado %PAlecBozy %Architekci %Tekhenu %Goraidolem
+
+(Adler24) 419 : %Nemesis %NemesisLockdown %Descent %TicketLegacy %MageKnightUE %Obsesion %Endevor %SleepingGods %FrostPunk %GWTNewZeland %FoodChain %Beyond %Turbo %GodFather %Viticulture %Revive %Darwinzdodatkiem %Terraformacja %altiplano %istanbul %Odlotowywyscig %Tiletum %Darwin %GWTArgentyna %Paleo %Kraken %Pulsar
+
+(Adler24) 414 : %Nemesis %NemesisLockdown %Descent %TicketLegacy %MageKnightUE %Obsesion %Endevor %SleepingGods %FrostPunk %GWTNewZeland %FoodChain %Beyond %Turbo %GodFather %Viticulture %Revive %Darwinzdodatkiem %Terraformacja
+
+(Adler24) 415 : %Nemesis %NemesisLockdown %Descent %TicketLegacy %MageKnightUE %Obsesion %Endevor %SleepingGods %FrostPunk %GWTNewZeland %FoodChain %Beyond %Turbo %GodFather %Viticulture %Revive %Darwinzdodatkiem %Terraformacja
+
+(Adler24) 421 : %Nemesis %NemesisLockdown %Descent %TicketLegacy %MageKnightUE %Obsesion
+
+(Adler24) 416 : %Nemesis %NemesisLockdown %Descent %TicketLegacy %MageKnightUE

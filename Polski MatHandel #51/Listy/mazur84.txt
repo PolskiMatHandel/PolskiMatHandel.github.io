@@ -1,0 +1,62 @@
+(mazur84) %Bloodstones : 675
+(mazur84) %Ankh : 720 1355
+(mazur84) %Ankh+dod : 1018
+(mazur84) %PrimeMinister : 765
+(mazur84) %PinkTtR : 920
+(mazur84) %LasVegasRoyale : 1046
+(mazur84) %KutnaHora : 1335 1597 1679
+(mazur84) %NordicCountries : 1356
+(mazur84) %TtRLegacy : 1460
+(mazur84) %RisingSun : 1544
+(mazur84) %WinterKingdom : 1578
+(mazur84) %MiodnyBzyk : 1602
+(mazur84) %ZooVadis : 1851
+(mazur84) %OdmetyGrozy : 1862
+(mazur84) %Successors : 1955
+(mazur84) %SherlockH : 1968
+(mazur84) %Titans : 21 2087
+(mazur84) %GWTNZ : 25 1865
+(mazur84) %BrassL : 26 384
+(mazur84) %Tyrants : 29 2019 2054
+(mazur84) %Scytia : 30
+(mazur84) %HegemonyFull : 55
+(mazur84) %AgeOfSteam : 155
+(mazur84) %Imperium : 1497 220
+(mazur84) %RuneStones : 224 1168 1580
+(mazur84) %AuZtralia : 301
+(mazur84) %Kaskadia : 310
+(mazur84) %GAH : 356
+(mazur84) %LaGranja : 382 1781
+(mazur84) %PodWrogimNiebem : 463 1051 1348 1467
+(mazur84) %ThisWarOfMine : 626
+(mazur84) %KlanyKaledonii : 502
+(mazur84) %Hoplomachus : 668
+(mazur84) 1750 : %Bloodstones %Ankh+dod %Hoplomachus %HegemonyFull
+(mazur84) 1753 : %Bloodstones %Ankh+dod %Hoplomachus %HegemonyFull
+(mazur84) 1744 : %Bloodstones %Ankh+dod %Hoplomachus %HegemonyFull
+(mazur84) 1747 : %Bloodstones %Ankh+dod %Hoplomachus %HegemonyFull %Ankh %PrimeMinister %TtRLegacy %RisingSun %AgeOfSteam %AuZtralia %LaGranja
+(mazur84) 1748 : %Bloodstones %Ankh+dod %Hoplomachus %HegemonyFull %Ankh %PrimeMinister %TtRLegacy %RisingSun %AgeOfSteam %AuZtralia %LaGranja %ZooVadis %Successors %Titans %GWTNZ
+(mazur84) 1741 : %Bloodstones %Ankh+dod %Hoplomachus %HegemonyFull %Ankh %PrimeMinister %TtRLegacy %RisingSun %AgeOfSteam %AuZtralia %LaGranja %ZooVadis %Successors %Titans %GWTNZ %LasVegasRoyale %KutnaHora %NordicCountries %WinterKingdom %MiodnyBzyk %OdmetyGrozy %SherlockH %BrassL %Tyrants %Scytia %Imperium %RuneStones %GAH %ThisWarOfMine %KlanyKaledonii
+(mazur84) 1754 : %Bloodstones %Ankh+dod %Hoplomachus %HegemonyFull %Ankh %PrimeMinister %TtRLegacy %RisingSun %AgeOfSteam %AuZtralia %LaGranja %ZooVadis %Successors %Titans %GWTNZ %LasVegasRoyale %KutnaHora %NordicCountries %WinterKingdom %MiodnyBzyk %OdmetyGrozy %SherlockH %BrassL %Tyrants %Scytia %Imperium %RuneStones %GAH %ThisWarOfMine %KlanyKaledonii
+(mazur84) 1792 : %Bloodstones %Ankh+dod %Hoplomachus %HegemonyFull %Ankh %PrimeMinister %TtRLegacy %RisingSun %AgeOfSteam %AuZtralia %LaGranja %ZooVadis %Successors %Titans %GWTNZ %LasVegasRoyale %KutnaHora %NordicCountries %WinterKingdom %MiodnyBzyk %OdmetyGrozy %SherlockH %BrassL %Tyrants %Scytia %Imperium %RuneStones %GAH %ThisWarOfMine %KlanyKaledonii
+(mazur84) 1820 : %Bloodstones %Ankh+dod %Hoplomachus %HegemonyFull %Ankh %PrimeMinister %TtRLegacy %RisingSun %AgeOfSteam %AuZtralia %LaGranja %ZooVadis %Successors %Titans %GWTNZ %LasVegasRoyale %KutnaHora %NordicCountries %WinterKingdom %MiodnyBzyk %OdmetyGrozy %SherlockH %BrassL %Tyrants %Scytia %Imperium %RuneStones %GAH %ThisWarOfMine %KlanyKaledonii
+(mazur84) 1814 : %Bloodstones %Ankh+dod %Hoplomachus %HegemonyFull %Ankh %PrimeMinister %TtRLegacy %RisingSun %AgeOfSteam %AuZtralia %LaGranja %ZooVadis %Successors %Titans %GWTNZ %LasVegasRoyale %KutnaHora %NordicCountries %WinterKingdom %MiodnyBzyk %OdmetyGrozy %SherlockH %BrassL %Tyrants %Scytia %Imperium %RuneStones %GAH %ThisWarOfMine %KlanyKaledonii
+(mazur84) 1806 : %Bloodstones %Ankh+dod %Hoplomachus %HegemonyFull %Ankh %PrimeMinister %TtRLegacy %RisingSun %AgeOfSteam %AuZtralia %LaGranja %ZooVadis %Successors %Titans %GWTNZ %LasVegasRoyale %KutnaHora %NordicCountries %WinterKingdom %MiodnyBzyk %OdmetyGrozy %SherlockH %BrassL %Tyrants %Scytia %Imperium %RuneStones %GAH %ThisWarOfMine %KlanyKaledonii
+(mazur84) 1739 : %Bloodstones %Ankh+dod %Hoplomachus %HegemonyFull %Ankh %PrimeMinister %TtRLegacy %RisingSun %AgeOfSteam %AuZtralia %LaGranja %ZooVadis %Successors %Titans %GWTNZ %LasVegasRoyale %KutnaHora %NordicCountries %WinterKingdom %MiodnyBzyk %OdmetyGrozy %SherlockH %BrassL %Tyrants %Scytia %Imperium %RuneStones %GAH %ThisWarOfMine %KlanyKaledonii
+(mazur84) 1757 : %Bloodstones %Ankh+dod %Hoplomachus %HegemonyFull %Ankh %PrimeMinister %TtRLegacy %RisingSun %AgeOfSteam %AuZtralia %LaGranja %ZooVadis %Successors %Titans %GWTNZ %LasVegasRoyale %KutnaHora %NordicCountries %WinterKingdom %MiodnyBzyk %OdmetyGrozy %SherlockH %BrassL %Tyrants %Scytia %Imperium %RuneStones %GAH %ThisWarOfMine %KlanyKaledonii
+(mazur84) 1729 : %Bloodstones %Ankh+dod %Hoplomachus %HegemonyFull %Ankh %PrimeMinister %TtRLegacy %RisingSun %AgeOfSteam %AuZtralia %LaGranja %ZooVadis %Successors %Titans %GWTNZ %LasVegasRoyale %KutnaHora %NordicCountries %WinterKingdom %MiodnyBzyk %OdmetyGrozy %SherlockH %BrassL %Tyrants %Scytia %Imperium %RuneStones %GAH %ThisWarOfMine %KlanyKaledonii
+(mazur84) 1775 : %Bloodstones %Ankh+dod %Hoplomachus %HegemonyFull %Ankh %PrimeMinister %TtRLegacy %RisingSun %AgeOfSteam %AuZtralia %LaGranja %ZooVadis %Successors %Titans %GWTNZ %LasVegasRoyale %KutnaHora %NordicCountries %WinterKingdom %MiodnyBzyk %OdmetyGrozy %SherlockH %BrassL %Tyrants %Scytia %Imperium %RuneStones %GAH %ThisWarOfMine %KlanyKaledonii
+(mazur84) 1763 : %Bloodstones %Ankh+dod %Hoplomachus %HegemonyFull %Ankh %PrimeMinister %TtRLegacy %RisingSun %AgeOfSteam %AuZtralia %LaGranja %ZooVadis %Successors %Titans %GWTNZ %LasVegasRoyale %KutnaHora %NordicCountries %WinterKingdom %MiodnyBzyk %OdmetyGrozy %SherlockH %BrassL %Tyrants %Scytia %Imperium %RuneStones %GAH %ThisWarOfMine %KlanyKaledonii %PinkTtR %Kaskadia %PodWrogimNiebem
+(mazur84) 1768 : %Bloodstones %Ankh+dod %Hoplomachus %HegemonyFull %Ankh %PrimeMinister %TtRLegacy %RisingSun %AgeOfSteam %AuZtralia %LaGranja %ZooVadis %Successors %Titans %GWTNZ %LasVegasRoyale %KutnaHora %NordicCountries %WinterKingdom %MiodnyBzyk %OdmetyGrozy %SherlockH %BrassL %Tyrants %Scytia %Imperium %RuneStones %GAH %ThisWarOfMine %KlanyKaledonii %PinkTtR %Kaskadia %PodWrogimNiebem
+(mazur84) 1772 : %Bloodstones %Ankh+dod %Hoplomachus %HegemonyFull %Ankh %PrimeMinister %TtRLegacy %RisingSun %AgeOfSteam %AuZtralia %LaGranja %ZooVadis %Successors %Titans %GWTNZ %LasVegasRoyale %KutnaHora %NordicCountries %WinterKingdom %MiodnyBzyk %OdmetyGrozy %SherlockH %BrassL %Tyrants %Scytia %Imperium %RuneStones %GAH %ThisWarOfMine %KlanyKaledonii %PinkTtR %Kaskadia %PodWrogimNiebem
+(mazur84) 1784 : %Bloodstones %Ankh+dod %Hoplomachus %HegemonyFull %Ankh %PrimeMinister %TtRLegacy %RisingSun %AgeOfSteam %AuZtralia %LaGranja %ZooVadis %Successors %Titans %GWTNZ %LasVegasRoyale %KutnaHora %NordicCountries %WinterKingdom %MiodnyBzyk %OdmetyGrozy %SherlockH %BrassL %Tyrants %Scytia %Imperium %RuneStones %GAH %ThisWarOfMine %KlanyKaledonii %PinkTtR %Kaskadia %PodWrogimNiebem
+(mazur84) 1796 : %Bloodstones %Ankh+dod %Hoplomachus %HegemonyFull %Ankh %PrimeMinister %TtRLegacy %RisingSun %AgeOfSteam %AuZtralia %LaGranja %ZooVadis %Successors %Titans %GWTNZ %LasVegasRoyale %KutnaHora %NordicCountries %WinterKingdom %MiodnyBzyk %OdmetyGrozy %SherlockH %BrassL %Tyrants %Scytia %Imperium %RuneStones %GAH %ThisWarOfMine %KlanyKaledonii %PinkTtR %Kaskadia %PodWrogimNiebem
+(mazur84) 1737 : %Bloodstones %Ankh+dod %Hoplomachus %HegemonyFull %Ankh %PrimeMinister %TtRLegacy %RisingSun %AgeOfSteam %AuZtralia %LaGranja %ZooVadis %Successors %Titans %GWTNZ %LasVegasRoyale %KutnaHora %NordicCountries %WinterKingdom %MiodnyBzyk %OdmetyGrozy %SherlockH %BrassL %Tyrants %Scytia %Imperium %RuneStones %GAH %ThisWarOfMine %KlanyKaledonii %PinkTtR %Kaskadia %PodWrogimNiebem
+(mazur84) 1733 : %Bloodstones %Ankh+dod %Hoplomachus %HegemonyFull %Ankh %PrimeMinister %TtRLegacy %RisingSun %AgeOfSteam %AuZtralia %LaGranja %ZooVadis %Successors %Titans %GWTNZ %LasVegasRoyale %KutnaHora %NordicCountries %WinterKingdom %MiodnyBzyk %OdmetyGrozy %SherlockH %BrassL %Tyrants %Scytia %Imperium %RuneStones %GAH %ThisWarOfMine %KlanyKaledonii %PinkTtR %Kaskadia %PodWrogimNiebem
+(mazur84) 1801 : %Bloodstones %Ankh+dod %Hoplomachus %HegemonyFull %Ankh %PrimeMinister %TtRLegacy %RisingSun %AgeOfSteam %AuZtralia %LaGranja %ZooVadis %Successors %Titans %GWTNZ %LasVegasRoyale %KutnaHora %NordicCountries %WinterKingdom %MiodnyBzyk %OdmetyGrozy %SherlockH %BrassL %Tyrants %Scytia %Imperium %RuneStones %GAH %ThisWarOfMine %KlanyKaledonii %PinkTtR %Kaskadia %PodWrogimNiebem
+(mazur84) 1735 : %Bloodstones %Ankh+dod %Hoplomachus %HegemonyFull %Ankh %PrimeMinister %TtRLegacy %RisingSun %AgeOfSteam %AuZtralia %LaGranja %ZooVadis %Successors %Titans %GWTNZ %LasVegasRoyale %KutnaHora %NordicCountries %WinterKingdom %MiodnyBzyk %OdmetyGrozy %SherlockH %BrassL %Tyrants %Scytia %Imperium %RuneStones %GAH %ThisWarOfMine %KlanyKaledonii %PinkTtR %Kaskadia %PodWrogimNiebem
+(mazur84) 1731 : %Bloodstones %Ankh+dod %Hoplomachus %HegemonyFull %Ankh %PrimeMinister %TtRLegacy %RisingSun %AgeOfSteam %AuZtralia %LaGranja %ZooVadis %Successors %Titans %GWTNZ %LasVegasRoyale %KutnaHora %NordicCountries %WinterKingdom %MiodnyBzyk %OdmetyGrozy %SherlockH %BrassL %Tyrants %Scytia %Imperium %RuneStones %GAH %ThisWarOfMine %KlanyKaledonii %PinkTtR %Kaskadia %PodWrogimNiebem
+(mazur84) 1730 : %Bloodstones %Ankh+dod %Hoplomachus %HegemonyFull %Ankh %PrimeMinister %TtRLegacy %RisingSun %AgeOfSteam %AuZtralia %LaGranja %ZooVadis %Successors %Titans %GWTNZ %LasVegasRoyale %KutnaHora %NordicCountries %WinterKingdom %MiodnyBzyk %OdmetyGrozy %SherlockH %BrassL %Tyrants %Scytia %Imperium %RuneStones %GAH %ThisWarOfMine %KlanyKaledonii %PinkTtR %Kaskadia %PodWrogimNiebem
+(mazur84) 1717 : %Bloodstones %Ankh+dod %Hoplomachus %HegemonyFull %Ankh %PrimeMinister %TtRLegacy %RisingSun %AgeOfSteam %AuZtralia %LaGranja %ZooVadis %Successors %Titans %GWTNZ %LasVegasRoyale %KutnaHora %NordicCountries %WinterKingdom %MiodnyBzyk %OdmetyGrozy %SherlockH %BrassL %Tyrants %Scytia %Imperium %RuneStones %GAH %ThisWarOfMine %KlanyKaledonii %PinkTtR %Kaskadia %PodWrogimNiebem
+(mazur84) 1727 : %Bloodstones %Ankh+dod %Hoplomachus %HegemonyFull %Ankh %PrimeMinister %TtRLegacy %RisingSun %AgeOfSteam %AuZtralia %LaGranja %ZooVadis %Successors %Titans %GWTNZ %LasVegasRoyale %KutnaHora %NordicCountries %WinterKingdom %MiodnyBzyk %OdmetyGrozy %SherlockH %BrassL %Tyrants %Scytia %Imperium %RuneStones %GAH %ThisWarOfMine %KlanyKaledonii %PinkTtR %Kaskadia %PodWrogimNiebem
+(mazur84) 1722 : %Bloodstones %Ankh+dod %Hoplomachus %HegemonyFull %Ankh %PrimeMinister %TtRLegacy %RisingSun %AgeOfSteam %AuZtralia %LaGranja %ZooVadis %Successors %Titans %GWTNZ %LasVegasRoyale %KutnaHora %NordicCountries %WinterKingdom %MiodnyBzyk %OdmetyGrozy %SherlockH %BrassL %Tyrants %Scytia %Imperium %RuneStones %GAH %ThisWarOfMine %KlanyKaledonii %PinkTtR %Kaskadia %PodWrogimNiebem

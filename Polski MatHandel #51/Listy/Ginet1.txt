@@ -1,0 +1,32 @@
+(Ginet1) %Ginkgopolis : 5
+(Ginet1) %Obsession : 1747
+(Ginet1) %Imaginarium : 23
+(Ginet1) %Mosaic : 178 496 1674
+(Ginet1) %Wyrmspan : 506
+(Ginet1) %Age_of_Discovery : 630 986
+
+
+(Ginet1) %Wilki : 716
+(Ginet1) %Keyper : 813
+(Ginet1) %Tokaido : 2
+
+(Ginet1) %Vasco_da_Gama : 805
+(Ginet1) %Santiago_de_Cuba : 1524
+(Ginet1) %Cubitos : 28 548
+
+(Ginet1) %Sladami_Darwina : 32
+(Ginet1) %Mahe : 2113
+
+
+(Ginet1) 105 :
+(Ginet1) 132 :
+(Ginet1) 106 : %Ginkgopolis %Obsession %Imaginarium %Mosaic %Age_of_Discovery %Wyrmspan %Age_of_Discovery
+(Ginet1) 108 : %Ginkgopolis %Obsession %Imaginarium %Mosaic %Age_of_Discovery %Wyrmspan %Age_of_Discovery
+(Ginet1) 112 : %Ginkgopolis %Obsession %Imaginarium %Mosaic %Age_of_Discovery %Wyrmspan %Age_of_Discovery %Wilki %Keyper %Tokaido
+(Ginet1) 126 : %Ginkgopolis %Obsession %Imaginarium %Mosaic %Age_of_Discovery %Wyrmspan %Age_of_Discovery %Wilki %Keyper %Tokaido
+(Ginet1) 127 : %Ginkgopolis %Obsession %Imaginarium %Mosaic %Age_of_Discovery %Wyrmspan %Age_of_Discovery %Wilki %Keyper %Tokaido %Vasco_da_Gama %Santiago_de_Cuba %Cubitos
+(Ginet1) 133 : %Ginkgopolis %Obsession %Imaginarium %Mosaic %Age_of_Discovery %Wyrmspan %Age_of_Discovery %Wilki %Keyper %Tokaido %Vasco_da_Gama %Santiago_de_Cuba %Cubitos
+(Ginet1) 128 : %Ginkgopolis %Obsession %Imaginarium %Mosaic %Age_of_Discovery %Wyrmspan %Age_of_Discovery %Wilki %Keyper %Tokaido %Vasco_da_Gama %Santiago_de_Cuba %Cubitos %Sladami_Darwina %Mahe
+(Ginet1) 129 : %Ginkgopolis %Obsession %Imaginarium %Mosaic %Age_of_Discovery %Wyrmspan %Age_of_Discovery %Wilki %Keyper %Tokaido %Vasco_da_Gama %Santiago_de_Cuba %Cubitos %Sladami_Darwina %Mahe
+(Ginet1) 130 : %Ginkgopolis %Obsession %Imaginarium %Mosaic %Age_of_Discovery %Wyrmspan %Age_of_Discovery %Wilki %Keyper %Tokaido %Vasco_da_Gama %Santiago_de_Cuba %Cubitos %Sladami_Darwina %Mahe
+(Ginet1) 131 : %Ginkgopolis %Obsession %Imaginarium %Mosaic %Age_of_Discovery %Wyrmspan %Age_of_Discovery %Wilki %Keyper %Tokaido %Vasco_da_Gama %Santiago_de_Cuba %Cubitos %Sladami_Darwina %Mahe

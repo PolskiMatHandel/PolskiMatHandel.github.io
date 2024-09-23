@@ -1,0 +1,39 @@
+(makko94) %ginkopolis : 5
+(makko94) %grandaustria : 215 356
+(makko94) %terra : 1126 625 1082
+(makko94) %forestofpangaia : 228
+(makko94) %worldwonders : 283 383
+(makko94) %laka : 446 686 1014 1052 1453
+(makko94) %duna : 749 510 1009 1080 1940
+(makko94) %assassin : 842
+(makko94) %beyondthesun : 981
+(makko94) %arboretum : 991
+(makko94) %legendyzachodu : 1340 1460
+(makko94) %podwodnemiasta : 1412 1500 1870
+(makko94) %clank : 1878
+(makko94) %middleages : 2025
+(makko94) %wenecja : 4 574
+(makko94) %brassbir : 2119
+(makko94) %brasslan : 26 384
+(makko94) %brasszetony : 276
+(makko94) %lisboa : 269 314
+(makko94) %syndykat : 695 1210 1722
+(makko94) %salton : 811 1492
+(makko94) %nucleum : 814
+(makko94) %revive : 822 1343 1783
+(makko94) %ticketwagony : 920
+(makko94) %piecklanow : 1357 1886
+(makko94) %splendorpokemon : 1489
+(makko94) %pragacaput : 1594 1943
+(makko94) %planetax : 262 2103
+(makko94) %targi : 2018
+(makko94) %boop : 1806
+(makko94) %circus : 1754
+(makko94) 1400 : %terra %legendyzachodu %clank ; %podwodnemiasta %brassbir %lisboa ; %ginkopolis %grandaustria %beyondthesun %brasslan
+(makko94) 1401 : %terra %legendyzachodu %clank ; %podwodnemiasta %brassbir %lisboa ; %ginkopolis %grandaustria %beyondthesun %brasslan %salton %piecklanow %pragacaput %circus %planetax %forestofpangaia %duna %assassin %nucleum %revive %splendorpokemon %worldwonders %laka %arboretum %middleages %wenecja %targi %boop
+(makko94) 1402 : %terra %legendyzachodu %clank ; %podwodnemiasta %brassbir %lisboa ; %ginkopolis %grandaustria %beyondthesun %brasslan %salton %piecklanow %pragacaput %circus %planetax %forestofpangaia %duna %assassin %nucleum %revive
+(makko94) 1403 : %terra %legendyzachodu %clank ; %podwodnemiasta %brassbir %lisboa ; %ginkopolis %grandaustria %beyondthesun %brasslan %salton %piecklanow %pragacaput %circus %planetax %forestofpangaia %duna %assassin %nucleum %revive
+(makko94) 1404 : %terra %legendyzachodu %clank ; %podwodnemiasta %brassbir %lisboa ; %ginkopolis %grandaustria %beyondthesun %brasslan %forestofpangaia %duna %assassin %nucleum %revive
+(makko94) 1405 : %terra %legendyzachodu %clank ; %podwodnemiasta %brassbir %lisboa ; %ginkopolis %grandaustria %beyondthesun %brasslan %salton %piecklanow %pragacaput %circus %planetax %forestofpangaia %duna %assassin %nucleum %revive %splendorpokemon %worldwonders %laka %arboretum %middleages %wenecja %targi %boop %brasszetony %syndykat %ticketwagony
+(makko94) 1406 :
+(makko94) 1407 : %terra %legendyzachodu %clank ; %podwodnemiasta %brassbir %lisboa ; %ginkopolis %grandaustria %beyondthesun %brasslan %salton %piecklanow %pragacaput %circus %planetax %forestofpangaia %duna %assassin %nucleum %revive %splendorpokemon %worldwonders %laka %arboretum %middleages %wenecja %targi %boop %brasszetony %syndykat %ticketwagony

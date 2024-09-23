@@ -1,0 +1,8 @@
+(astal369) %GWTA : 179 364 422 469 653 1062 1187 1233 1345
+(astal369) %WyprawaDarwina : 423 1314
+(astal369) %ELGrande : 912
+(astal369) %Kaskadia : 310
+(astal369) 1502 : %GWTA %WyprawaDarwina %ELGrande %Kaskadia
+(astal369) 1503 : %Kaskadia
+(astal369) 1504 : %GWTA %WyprawaDarwina %ELGrande %Kaskadia
+(astal369) 1505 : %GWTA %WyprawaDarwina %ELGrande
