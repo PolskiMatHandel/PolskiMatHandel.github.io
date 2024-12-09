@@ -1,0 +1,36 @@
+(Ginet1) %Ginkgopolis : 40
+(Ginet1) %Zatoka_kupcow : 878
+(Ginet1) %Wyrmspan : 815
+(Ginet1) %Century_zestaw : 959
+(Ginet1) %Galileo : 227
+
+(Ginet1) %Krolestwo_w_budowie : 128
+(Ginet1) %Obsession : 248 275 1245
+(Ginet1) %Imaginarium : 46
+
+(Ginet1) %Mysthea : 1043
+(Ginet1) %Inferno : 1278
+(Ginet1) %Keyper : 1005 1342
+(Ginet1) %AoD : 1779
+(Ginet1) %TTR_Asia : 1921
+
+(Ginet1) %Bonsai : 1502
+(Ginet1) %Northgard : 1288 1299
+(Ginet1) %Slimaki : 155
+(Ginet1) %Yeti : 1379
+(Ginet1) %Sladami_Darwina : 60 1375
+
+(Ginet1) %Grube_ryby : 72
+(Ginet1) %Festiwal_Lampionow : 424
+
+(Ginet1) 22 :
+(Ginet1) 23 : %Ginkgopolis %Zatoka_kupcow %Wyrmspan %Century_zestaw %Galileo
+(Ginet1) 24 : %Ginkgopolis %Zatoka_kupcow
+(Ginet1) 25 : %Ginkgopolis %Zatoka_kupcow %Wyrmspan %Century_zestaw %Galileo %Krolestwo_w_budowie %Obsession
+(Ginet1) 26 : %Ginkgopolis %Zatoka_kupcow %Wyrmspan %Century_zestaw %Galileo %Krolestwo_w_budowie %Obsession %Imaginarium %Mysthea %Inferno %Keyper %AoD %TTR_Asia
+(Ginet1) 27 : %Ginkgopolis %Zatoka_kupcow %Wyrmspan %Century_zestaw %Galileo %Krolestwo_w_budowie %Obsession %Imaginarium %Mysthea %Inferno %Keyper %AoD %TTR_Asia
+(Ginet1) 28 : %Ginkgopolis %Zatoka_kupcow %Wyrmspan %Century_zestaw %Galileo %Krolestwo_w_budowie %Obsession %Imaginarium %Mysthea %Inferno %Keyper %AoD %TTR_Asia %Bonsai %Northgard %Slimaki %Yeti %Sladami_Darwina
+(Ginet1) 29 : %Ginkgopolis %Zatoka_kupcow %Wyrmspan %Century_zestaw %Galileo %Krolestwo_w_budowie %Obsession %Imaginarium %Mysthea %Inferno %Keyper %AoD %TTR_Asia %Bonsai %Northgard %Slimaki %Yeti %Sladami_Darwina %Grube_ryby %Festiwal_Lampionow
+(Ginet1) 30 :
+(Ginet1) 31 : %Ginkgopolis %Zatoka_kupcow %Wyrmspan %Century_zestaw %Galileo %Krolestwo_w_budowie %Obsession %Imaginarium %Mysthea %Inferno %Keyper %AoD %TTR_Asia %Bonsai %Northgard %Slimaki %Yeti %Sladami_Darwina %Grube_ryby %Festiwal_Lampionow
+(Ginet1) 32 : %Ginkgopolis %Zatoka_kupcow %Wyrmspan %Century_zestaw %Galileo %Krolestwo_w_budowie %Obsession %Imaginarium %Mysthea %Inferno %Keyper %AoD %TTR_Asia %Bonsai %Northgard %Slimaki %Yeti %Sladami_Darwina %Grube_ryby %Festiwal_Lampionow

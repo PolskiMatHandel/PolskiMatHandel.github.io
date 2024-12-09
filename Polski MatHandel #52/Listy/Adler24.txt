@@ -1,0 +1,80 @@
+(Adler24) %Nemesis : 847 984 1280
+(Adler24) %NemesisLockdown : 1029 1401
+(Adler24) %Descent : 540 1030 1047 1802
+(Adler24) %TicketLegacy : 311
+(Adler24) %MageKnightUE : 524 1187
+(Adler24) %Frostpunk : 301 360 1148
+(Adler24) %GreatWall : 302 2142
+(Adler24) %TaintedGrail : 303 385 1045 1799
+(Adler24) %JohnCompany : 410
+(Adler24) %WanGuard : 491
+(Adler24) %Etherfields : 1204
+(Adler24) %Sleepinggods : 1295
+(Adler24) %WeatherMaschine : 167 804 1394
+(Adler24) %DiunaWojnaoArrakis : 35
+(Adler24) %Revive : 1271
+(Adler24) %Obsesion : 248 275 1245
+(Adler24) %Northgard : 1288 1299
+(Adler24) %Ekspedycje : 1340
+(Adler24) %NiezbadanaPlaneta : 1188 1713
+(Adler24) %KutnaHora : 1149 1267 1459 1556 1742
+(Adler24) %Viticulture : 1004
+(Adler24) %Pulsar : 2013 2097
+(Adler24) %Darwin : 908
+(Adler24) %EraInnowacji : 814 1744
+(Adler24) %Turbo : 1352
+(Adler24) %Paleo : 785
+(Adler24) %Suburbia : 618
+(Adler24) %Wingspan : 576
+(Adler24) %ZimnaWojna : 497 1708
+(Adler24) %Nucleum : 409
+(Adler24) %Talizman : 496 1317
+(Adler24) %GrandAustria : 162
+(Adler24) %Nippon : 165
+(Adler24) %GWTArgentyna : 118 170 531 1329 1781 2135
+(Adler24) %WladcaPierscieniDuel : 2120
+(Adler24) %KronikiAvel : 1706
+(Adler24) %Eldorado : 1483
+(Adler24) %LaGranja : 1008
+(Adler24) %Tiletum : 866
+(Adler24) %Szarlatani : 643
+(Adler24) %Kaskadia : 613 1490
+(Adler24) %Kraken : 546
+(Adler24) %WielceInspirujaceBudowle : 190 1279 1768
+(Adler24) %WojnaoPierscien : 101 547
+(Adler24) %SushiGo : 1812 1913
+(Adler24) %EscapeTalesChildren : 1660
+(Adler24) %PalecBozy : 1482
+(Adler24) %Bialyzamek : 1284 1386
+(Adler24) %UcieczkaZGlebin : 889
+(Adler24) %ArnakDodatek : 599
+(Adler24) %Unlock : 577 936 1050
+(Adler24) %Splendor : 553 674
+(Adler24) %PoszlyKonie : 523
+(Adler24) %Kroniki1900 : 466
+(Adler24) %LowMemory : 399
+(Adler24) %TicketPink : 319 1554
+(Adler24) %AndorJunior : 266
+(Adler24) %Batman : 114 415
+(Adler24) %SkyTeam : 102 791
+(Adler24) %Kanagawa : 54 656
+
+(Adler24) 389 : %Nemesis %NemesisLockdown %Descent %TicketLegacy %MageKnightUE %Frostpunk %GreatWall %TaintedGrail %JohnCompany %WanGuard %Etherfields %Sleepinggods %WeatherMaschine %DiunaWojnaoArrakis %Revive %Obsesion %Northgard %Ekspedycje %NiezbadanaPlaneta %KutnaHora %Viticulture %Pulsar %Darwin %EraInnowacji %Turbo %Paleo %Suburbia %Wingspan %ZimnaWojna %Nucleum %Talizman %GrandAustria %Nippon %GWTArgentyna %WladcaPierscieniDuel %KronikiAvel %Eldorado %LaGranja %Tiletum %Szarlatani %Kaskadia %Kraken %WielceInspirujaceBudowle %WojnaoPierscien %SushiGo %EscapeTalesChildren %PalecBozy %Bialyzamek %UcieczkaZGlebin %ArnakDodatek %Unlock %Splendor %PoszlyKonie %Kroniki1900 %LowMemory %TicketPink %AndorJunior %Batman %SkyTeam %Kanagawa
+
+(Adler24) 392 : %Nemesis %NemesisLockdown %Descent %TicketLegacy %MageKnightUE %Frostpunk %GreatWall %TaintedGrail %JohnCompany %WanGuard %Etherfields %Sleepinggods %WeatherMaschine %DiunaWojnaoArrakis %Revive %Obsesion %Northgard %Ekspedycje %NiezbadanaPlaneta %KutnaHora %Viticulture %Pulsar %Darwin %EraInnowacji %Turbo %Paleo %Suburbia %Wingspan %ZimnaWojna %Nucleum %Talizman %GrandAustria %Nippon %GWTArgentyna %WladcaPierscieniDuel %KronikiAvel %Eldorado %LaGranja %Tiletum %Szarlatani %Kaskadia %Kraken %WielceInspirujaceBudowle %WojnaoPierscien %SushiGo %EscapeTalesChildren %PalecBozy %Bialyzamek %UcieczkaZGlebin %ArnakDodatek %Unlock %Splendor %PoszlyKonie %Kroniki1900 %LowMemory %TicketPink %AndorJunior %Batman %SkyTeam %Kanagawa
+
+(Adler24) 393 : %Nemesis %NemesisLockdown %Descent %TicketLegacy %MageKnightUE %Frostpunk %GreatWall %TaintedGrail %JohnCompany %WanGuard %Etherfields %Sleepinggods %WeatherMaschine %DiunaWojnaoArrakis %Revive %Obsesion %Northgard %Ekspedycje %NiezbadanaPlaneta %KutnaHora %Viticulture %Pulsar %Darwin %EraInnowacji %Turbo %Paleo %Suburbia %Wingspan %ZimnaWojna %Nucleum %Talizman %GrandAustria %Nippon %GWTArgentyna %WladcaPierscieniDuel %KronikiAvel %Eldorado %LaGranja %Tiletum %Szarlatani %Kaskadia %Kraken %WielceInspirujaceBudowle %WojnaoPierscien %SushiGo %EscapeTalesChildren %PalecBozy %Bialyzamek %UcieczkaZGlebin %ArnakDodatek %Unlock %Splendor %PoszlyKonie %Kroniki1900 %LowMemory %TicketPink %AndorJunior %Batman %SkyTeam %Kanagawa
+
+(Adler24) 395 : %Nemesis %NemesisLockdown %Descent %TicketLegacy %MageKnightUE %Frostpunk %GreatWall %TaintedGrail %JohnCompany %WanGuard %Etherfields %Sleepinggods %WeatherMaschine %DiunaWojnaoArrakis %Revive %Obsesion %Northgard %Ekspedycje %NiezbadanaPlaneta %KutnaHora %Viticulture %Pulsar %Darwin %EraInnowacji %Turbo %Paleo %Suburbia %Wingspan %ZimnaWojna %Nucleum %Talizman %GrandAustria %Nippon %GWTArgentyna %WladcaPierscieniDuel %KronikiAvel %Eldorado %LaGranja %Tiletum %Szarlatani %Kaskadia %Kraken %WielceInspirujaceBudowle %WojnaoPierscien
+
+(Adler24) 396 : %Nemesis %NemesisLockdown %Descent %TicketLegacy %MageKnightUE %Frostpunk %GreatWall %TaintedGrail %JohnCompany %WanGuard %Etherfields %Sleepinggods %WeatherMaschine %DiunaWojnaoArrakis %Revive %Obsesion %Northgard %Ekspedycje %NiezbadanaPlaneta %KutnaHora %Viticulture %Pulsar %Darwin %EraInnowacji %Turbo %Paleo %Suburbia %Wingspan %ZimnaWojna %Nucleum %Talizman %GrandAustria %Nippon %GWTArgentyna %WladcaPierscieniDuel %KronikiAvel %Eldorado %LaGranja %Tiletum %Szarlatani %Kaskadia %Kraken %WielceInspirujaceBudowle %WojnaoPierscien
+
+(Adler24) 388 : %Nemesis %NemesisLockdown %Descent %TicketLegacy %MageKnightUE %Frostpunk %GreatWall %TaintedGrail %JohnCompany %WanGuard %Etherfields %Sleepinggods %WeatherMaschine %DiunaWojnaoArrakis %Revive %Obsesion %Northgard %Ekspedycje %NiezbadanaPlaneta %KutnaHora %Viticulture %Pulsar %Darwin %EraInnowacji %Turbo %Paleo %Suburbia %Wingspan %ZimnaWojna %Nucleum %Talizman %GrandAustria %Nippon %GWTArgentyna
+
+(Adler24) 390 : %Nemesis %NemesisLockdown %Descent %TicketLegacy %MageKnightUE %Frostpunk %GreatWall %TaintedGrail %JohnCompany %WanGuard %Etherfields %Sleepinggods %WeatherMaschine %DiunaWojnaoArrakis %Revive %Obsesion %Northgard %Ekspedycje %NiezbadanaPlaneta %KutnaHora %Viticulture %Pulsar %Darwin %EraInnowacji %Turbo %Paleo %Suburbia %Wingspan %ZimnaWojna %Nucleum %Talizman %GrandAustria %Nippon %GWTArgentyna
+
+(Adler24) 391 : %Nemesis %NemesisLockdown %Descent %TicketLegacy %MageKnightUE %Frostpunk %GreatWall %TaintedGrail %JohnCompany %WanGuard %Etherfields %Sleepinggods %WeatherMaschine %DiunaWojnaoArrakis %Revive %Obsesion %Northgard %Ekspedycje %NiezbadanaPlaneta %KutnaHora %Viticulture %Pulsar %Darwin %EraInnowacji %Turbo %Paleo %Suburbia %Wingspan %ZimnaWojna %Nucleum %Talizman %GrandAustria %Nippon %GWTArgentyna
+
+(Adler24) 387 : %Nemesis %NemesisLockdown %Descent %TicketLegacy %MageKnightUE %Frostpunk %GreatWall %TaintedGrail %JohnCompany %WanGuard %Etherfields %Sleepinggods %WeatherMaschine %DiunaWojnaoArrakis %Revive %Obsesion
+
+(Adler24) 394 : %Nemesis %NemesisLockdown %Descent %TicketLegacy %MageKnightUE %Frostpunk %GreatWall %TaintedGrail %JohnCompany %WanGuard %Etherfields %Sleepinggods %WeatherMaschine %DiunaWojnaoArrakis

@@ -1,0 +1,21 @@
+(sipio) %CLASH : 602 805 1239 1943
+(sipio) %ULTIMATE_RAILROADS : 36
+(sipio) %ZHANGUO : 85
+(sipio) %MINOS : 135
+(sipio) %NUCLEUM : 409 1006
+(sipio) %BONSAI : 1502
+(sipio) %MATCHA : 67
+(sipio) %AZUL : 318
+(sipio) %PICKOMINO : 596
+(sipio) %CAESAR : 1488
+
+
+(sipio) 1215 : %ZHANGUO %CLASH %ULTIMATE_RAILROADS
+(sipio) 1216 : %NUCLEUM %MINOS %BONSAI
+(sipio) 1217 : %ZHANGUO %CLASH %ULTIMATE_RAILROADS
+(sipio) 1218 : %NUCLEUM %MINOS
+(sipio) 1219 : %AZUL %CAESAR
+(sipio) 1220 : %AZUL %CAESAR
+(sipio) 1222 : %NUCLEUM %MINOS
+(sipio) 1231 : %BONSAI %MATCHA
+(sipio) 1249 : %PICKOMINO

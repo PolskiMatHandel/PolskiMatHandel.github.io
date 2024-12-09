@@ -1,0 +1,86 @@
+(ziezior) %Oathsworn : 1207
+(ziezior) %Vindication : 140 2032
+(ziezior) %Descent : 540 1030 1047 1802
+(ziezior) %Vanguard : 491
+(ziezior) %Undertow : 594
+(ziezior) %Lisboa : 931
+(ziezior) %Gloomhaven : 1761
+(ziezior) %Lockdown : 1029 1401
+(ziezior) %Nemesis : 984 1280
+(ziezior) %Clash : 602 805 1239 1943
+(ziezior) %Europa : 1268
+(ziezior) %GreatWall : 302 1252 2142
+(ziezior) %Zombicide : 2102
+(ziezior) %Hellas : 1186 2037
+(ziezior) %Ankh : 411 517 624 1406
+(ziezior) %Lorenzo : 1042
+(ziezior) %Scythe : 2051
+(ziezior) %JawsLion : 116 288 513
+(ziezior) %Frostpunk : 301 360 1148 2106
+(ziezior) %Witcher : 1783
+(ziezior) %BloodRage : 1159
+(ziezior) %Paleoamericans : 401 1025 1266
+(ziezior) %MageKnight : 524 1187
+(ziezior) %Pulsar : 2013 2097
+(ziezior) %Innovation : 814 1744
+(ziezior) %Maracaibo : 187 1312 1600
+(ziezior) %Endeavor : 105 137
+(ziezior) %BeyondTheSun : 154 346 536 810 970 1396 2143
+(ziezior) %Revive : 1271
+(ziezior) %Barrage : 1535
+(ziezior) %GOT : 1961
+(ziezior) %Anachrony : 34 813 832 901
+(ziezior) %Cyclades : 456
+(ziezior) %GlenMore : 332 877 986
+(ziezior) %SpiritIsland : 374 525 527 598 1397 1691 2062
+(ziezior) %Viticulture : 1004
+(ziezior) %ClansCaledonia : 809 1053
+(ziezior) %Unfathomable : 50 2042
+(ziezior) %ArkhamHorror : 1530
+(ziezior) %Nucleum : 409 1006
+(ziezior) %Wyrmspan : 815
+(ziezior) %FoodChain : 218
+(ziezior) %WarOfMine : 985
+(ziezior) %Karak2 : 263
+(ziezior) %Pandemic : 172
+(ziezior) %Civilization : 880 1774
+(ziezior) %GWTArgentina : 118 170 531 657 1329 1781 2135
+(ziezior) %RollGalaxy : 1569
+(ziezior) %Brass : 47 192 1790
+(ziezior) %Mombasa : 164
+(ziezior) %Concordia : 537 1647 1690
+(ziezior) %Hotel : 162
+(ziezior) %Waterdeep : 907
+(ziezior) %Wingspan : 576
+(ziezior) %Paleo : 785
+(ziezior) %Clank : 893
+(ziezior) %Arnak : 1443 1724
+(ziezior) %GWT : 11 565 876 1534 1803 2000
+(ziezior) %RollPlayer : 650 1740
+(ziezior) %ClankSpace : 853 1696
+(ziezior) %Destinies : 1014 1844
+(ziezior) %FallRome : 658 1333
+(ziezior) %PowerGrid : 402
+(ziezior) %WingspanAsia : 1493
+(ziezior) %Trekking : 623 993 1140 1146 2028
+(ziezior) %Cascadia : 613 1166 1490
+(ziezior) %SettlersNorth : 609 1237 1307
+(ziezior) %Darwin : 60 1375
+(ziezior) %Skymines : 495 795 991 1064
+(ziezior) %Abyss : 902 1619
+(ziezior) %Settlers : 589 916 1895 2137 2146
+(ziezior) %SkyTeam : 102 791
+(ziezior) %Wonders : 190 1279 1768
+(ziezior) %SS : 982
+(ziezior) %PlanetX : 581 850 870
+(ziezior) %FieldsArle : 807 808 1527
+(ziezior) %Steam : 280
+(ziezior) 240 : %Oathsworn %Vindication %Descent %Vanguard %Undertow %Lisboa %Gloomhaven %Lockdown %Nemesis %Clash %Europa %GreatWall %Zombicide %Hellas %Ankh %Lorenzo %Scythe %JawsLion %Frostpunk %Witcher %BloodRage %Paleoamericans %MageKnight %Pulsar %Innovation %Maracaibo %Endeavor %BeyondTheSun %Revive %Barrage %GOT %Anachrony %Cyclades %GlenMore %SpiritIsland %Viticulture %ClansCaledonia %Unfathomable %ArkhamHorror %Nucleum %Wyrmspan %FoodChain %WarOfMine %Karak2 %Pandemic %Civilization %GWTArgentina %RollGalaxy %Brass %Mombasa %Concordia %Hotel %Waterdeep %Wingspan %Paleo %Clank %Arnak %GWT %RollPlayer %ClankSpace %Destinies %FallRome %PowerGrid %WingspanAsia %Trekking %Cascadia %SettlersNorth %Darwin %Skymines %Abyss %Settlers %SkyTeam %Wonders %SS %PlanetX %FieldsArle %Steam
+(ziezior) 241 : %Oathsworn %Vindication %Descent %Vanguard %Undertow %Lisboa %Gloomhaven %Lockdown %Nemesis %Clash %Europa %GreatWall %Zombicide %Hellas %Ankh %Lorenzo %Scythe %JawsLion %Frostpunk %Witcher %BloodRage %Paleoamericans %MageKnight %Pulsar %Innovation %Maracaibo %Endeavor %BeyondTheSun %Revive %Barrage %GOT %Anachrony %Cyclades %GlenMore %SpiritIsland %Viticulture %ClansCaledonia %Unfathomable %ArkhamHorror %Nucleum %Wyrmspan %FoodChain %WarOfMine %Karak2 %Pandemic %Civilization %GWTArgentina %RollGalaxy %Brass %Mombasa %Concordia %Hotel %Waterdeep %Wingspan %Paleo %Clank %Arnak %GWT %RollPlayer %ClankSpace %Destinies %FallRome %PowerGrid %WingspanAsia %Trekking %Cascadia %SettlersNorth %Darwin %Skymines %Abyss %Settlers %SkyTeam %Wonders %SS %PlanetX %FieldsArle %Steam
+(ziezior) 242 : %Oathsworn %Vindication %Descent %Vanguard %Undertow %Lisboa %Gloomhaven %Lockdown %Nemesis %Clash %Europa %GreatWall %Zombicide %Hellas %Ankh %Lorenzo %Scythe %JawsLion %Frostpunk %Witcher %BloodRage %Paleoamericans %MageKnight %Pulsar %Innovation %Maracaibo %Endeavor %BeyondTheSun %Revive %Barrage %GOT %Anachrony %Cyclades %GlenMore %SpiritIsland %Viticulture %ClansCaledonia %Unfathomable %ArkhamHorror %Nucleum %Wyrmspan %FoodChain %WarOfMine %Karak2 %Pandemic %Civilization %GWTArgentina %RollGalaxy %Brass %Mombasa %Concordia %Hotel %Waterdeep %Wingspan %Paleo %Clank %Arnak %GWT %RollPlayer %ClankSpace %Destinies %FallRome %PowerGrid %WingspanAsia %Trekking %Cascadia %SettlersNorth %Darwin %Skymines %Abyss %Settlers %SkyTeam %Wonders %SS %PlanetX %FieldsArle %Steam
+(ziezior) 243 : %Oathsworn %Vindication %Descent %Vanguard %Undertow %Lisboa %Gloomhaven %Lockdown %Nemesis %Clash %Europa %GreatWall %Zombicide %Hellas %Ankh %Lorenzo %Scythe %JawsLion %Frostpunk %Witcher %BloodRage %Paleoamericans %MageKnight %Pulsar %Innovation %Maracaibo %Endeavor %BeyondTheSun %Revive %Barrage %GOT %Anachrony %Cyclades %GlenMore %SpiritIsland %Viticulture %ClansCaledonia %Unfathomable %ArkhamHorror %Nucleum %Wyrmspan %FoodChain %WarOfMine %Karak2 %Pandemic %Civilization %GWTArgentina %RollGalaxy %Brass %Mombasa %Concordia %Hotel %Waterdeep %Wingspan %Paleo %Clank %Arnak %GWT %RollPlayer %ClankSpace %Destinies %FallRome %PowerGrid %WingspanAsia %Trekking %Cascadia %SettlersNorth %Darwin %Skymines %Abyss %Settlers %SkyTeam %Wonders %SS %PlanetX %FieldsArle %Steam
+(ziezior) 244 : %Oathsworn %Vindication %Descent %Vanguard %Undertow %Lisboa %Gloomhaven %Lockdown %Nemesis %Clash %Europa %GreatWall %Zombicide %Hellas %Ankh %Lorenzo %Scythe %JawsLion %Frostpunk %Witcher %BloodRage %Paleoamericans %MageKnight %Pulsar %Innovation %Maracaibo %Endeavor %BeyondTheSun %Revive %Barrage %GOT %Anachrony %Cyclades %GlenMore %SpiritIsland %Viticulture %ClansCaledonia %Unfathomable %ArkhamHorror %Nucleum %Wyrmspan %FoodChain %WarOfMine %Karak2 %Pandemic %Civilization %GWTArgentina %RollGalaxy %Brass %Mombasa %Concordia %Hotel %Waterdeep %Wingspan %Paleo %Clank %Arnak %GWT %RollPlayer %ClankSpace %Destinies %FallRome %PowerGrid %WingspanAsia %Trekking %Cascadia %SettlersNorth %Darwin %Skymines %Abyss %Settlers %SkyTeam %Wonders %SS %PlanetX %FieldsArle %Steam
+(ziezior) 245 : %Oathsworn %Vindication %Descent %Vanguard %Undertow %Lisboa %Gloomhaven %Lockdown %Nemesis %Clash %Europa %GreatWall %Zombicide %Hellas %Ankh %Lorenzo %Scythe %JawsLion %Frostpunk %Witcher %BloodRage %Paleoamericans %MageKnight %Pulsar %Innovation %Maracaibo %Endeavor %BeyondTheSun %Revive %Barrage %GOT %Anachrony %Cyclades %GlenMore %SpiritIsland %Viticulture %ClansCaledonia %Unfathomable %ArkhamHorror %Nucleum %Wyrmspan %FoodChain %WarOfMine %Karak2 %Pandemic %Civilization %GWTArgentina %RollGalaxy %Brass %Mombasa %Concordia %Hotel %Waterdeep %Wingspan %Paleo %Clank %Arnak %GWT %RollPlayer %ClankSpace %Destinies %FallRome %PowerGrid %WingspanAsia %Trekking %Cascadia %SettlersNorth %Darwin %Skymines %Abyss %Settlers %SkyTeam %Wonders %SS %PlanetX %FieldsArle %Steam
+(ziezior) 246 : %Oathsworn %Vindication %Descent %Vanguard %Undertow %Lisboa %Gloomhaven %Lockdown %Nemesis %Clash %Europa %GreatWall %Zombicide %Hellas %Ankh %Lorenzo %Scythe %JawsLion %Frostpunk %Witcher %BloodRage %Paleoamericans %MageKnight %Pulsar %Innovation %Maracaibo %Endeavor %BeyondTheSun %Revive %Barrage %GOT %Anachrony %Cyclades %GlenMore %SpiritIsland %Viticulture %ClansCaledonia %Unfathomable %ArkhamHorror %Nucleum %Wyrmspan %FoodChain %WarOfMine %Karak2 %Pandemic %Civilization %GWTArgentina %RollGalaxy %Brass
+(ziezior) 247 : %Oathsworn %Vindication %Descent %Vanguard %Undertow %Lisboa %Gloomhaven %Lockdown %Nemesis %Clash %Europa %GreatWall %Zombicide %Hellas %Ankh %Lorenzo %Scythe %JawsLion %Frostpunk %Witcher %BloodRage %Paleoamericans %MageKnight %Pulsar %Innovation %Maracaibo %Endeavor %BeyondTheSun %Revive %Barrage %GOT %Anachrony %Cyclades %GlenMore %SpiritIsland %Viticulture %ClansCaledonia %Unfathomable %ArkhamHorror %Nucleum %Wyrmspan %FoodChain %WarOfMine %Karak2 %Pandemic %Civilization %GWTArgentina %RollGalaxy %Brass %Mombasa %Concordia %Hotel %Waterdeep %Wingspan %Paleo %Clank %Arnak %GWT %RollPlayer %ClankSpace %Destinies %FallRome %PowerGrid %WingspanAsia %Trekking %Cascadia
+(ziezior) 248 : %Oathsworn %Vindication %Descent %Vanguard %Undertow %Lisboa %Gloomhaven %Lockdown %Nemesis %Clash %Europa %GreatWall %Zombicide %Hellas %Ankh %Lorenzo %Scythe %JawsLion %Frostpunk %Witcher

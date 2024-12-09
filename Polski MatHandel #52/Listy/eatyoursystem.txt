@@ -1,0 +1,10 @@
+(eatyoursystem) 593 : 1473 1742 249 ; 1572 83
+(eatyoursystem) 594 : 1177 1075 1710
+(eatyoursystem) 251 : 491 410 811 49 1454
+(eatyoursystem) 253 : 80 180 1164 ; 102 1434
+(eatyoursystem) 256 : 14 386 595 1410 1742
+(eatyoursystem) 257 : 1164 14 386 83 339
+(eatyoursystem) 259 : 80 180 14 1164 1434
+(eatyoursystem) 260 : 80 180 14 1164 1434
+(eatyoursystem) 495 : 232 ; 338 1472 49 1742
+(eatyoursystem) 497 : 595 ; 386 616

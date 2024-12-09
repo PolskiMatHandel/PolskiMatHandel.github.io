@@ -1,0 +1,18 @@
+(raphaell7) %ABALONE : 306 1540
+(raphaell7) %CARNAC : 896
+(raphaell7) %DVONN : 342
+(raphaell7) %LYNGK : 1756
+(raphaell7) %P_NCT : 2098
+(raphaell7) %SUSHI_GO_PARTY : 1812
+(raphaell7) %TZAAR : 341
+(raphaell7) 1 : %ABALONE %CARNAC %DVONN %LYNGK %P_NCT %SUSHI_GO_PARTY %TZAAR
+(raphaell7) 2 : %ABALONE %CARNAC %DVONN %LYNGK %P_NCT %SUSHI_GO_PARTY %TZAAR
+(raphaell7) 3 :
+(raphaell7) 4 : %SUSHI_GO_PARTY
+(raphaell7) 5 :
+(raphaell7) 6 : %ABALONE %CARNAC %DVONN %LYNGK %P_NCT %SUSHI_GO_PARTY %TZAAR
+(raphaell7) 7 : %ABALONE %CARNAC %DVONN %LYNGK %P_NCT %SUSHI_GO_PARTY %TZAAR
+(raphaell7) 8 : %SUSHI_GO_PARTY
+(raphaell7) 9 :
+(raphaell7) 10 :
+(raphaell7) 13 :
