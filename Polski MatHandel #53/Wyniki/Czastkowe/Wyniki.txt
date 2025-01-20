@@ -1,0 +1,1628 @@
+TradeMaximizer Version 1.4a
+Options: ALLOW-DUMMIES LINEAR-PRIORITIES REQUIRE-COLONS REQUIRE-USERNAMES SHOW-MISSING SMALL-STEP=0 BIG-STEP=1
+
+Input Checksum: 285f7758e5fdf2e05bff1952f5bfc8f8
+ERRORS:
+**** Item 1033 is repeated in want list for 1041.
+**** Item 1033 is repeated in want list for 383.
+**** Item 1072 is repeated in want list for 1041.
+**** Item 1072 is repeated in want list for 383.
+**** Item 1103 is repeated in want list for 1041.
+**** Item 1103 is repeated in want list for 383.
+**** Item 653 has multiple want lists--ignoring all but first.  (Sometimes the result of an accidental line break in the middle of a want list.)
+**** Unknown item %MARVELUNITEDMULTIVERS for user (CORQAN) (1 occurrence)
+**** Unknown item %WEATHERMACHIN for user (CORQAN) (1 occurrence)
+**** Unknown item 1009 (2 occurrences)
+**** Unknown item 101 (1 occurrence)
+**** Unknown item 1016 (1 occurrence)
+**** Unknown item 102 (2 occurrences)
+**** Unknown item 1024 (3 occurrences)
+**** Unknown item 1025 (4 occurrences)
+**** Unknown item 1026 (4 occurrences)
+**** Unknown item 1027 (7 occurrences)
+**** Unknown item 1028 (9 occurrences)
+**** Unknown item 1029 (1 occurrence)
+**** Unknown item 103 (3 occurrences)
+**** Unknown item 1030 (9 occurrences)
+**** Unknown item 1031 (6 occurrences)
+**** Unknown item 104 (2 occurrences)
+**** Unknown item 1042 (2 occurrences)
+**** Unknown item 1043 (1 occurrence)
+**** Unknown item 1045 (2 occurrences)
+**** Unknown item 105 (6 occurrences)
+**** Unknown item 1074 (10 occurrences)
+**** Unknown item 1075 (20 occurrences)
+**** Unknown item 1076 (9 occurrences)
+**** Unknown item 1077 (7 occurrences)
+**** Unknown item 1078 (7 occurrences)
+**** Unknown item 1079 (8 occurrences)
+**** Unknown item 1080 (4 occurrences)
+**** Unknown item 1081 (4 occurrences)
+**** Unknown item 1082 (9 occurrences)
+**** Unknown item 1083 (3 occurrences)
+**** Unknown item 1085 (1 occurrence)
+**** Unknown item 1086 (2 occurrences)
+**** Unknown item 1087 (3 occurrences)
+**** Unknown item 1094 (3 occurrences)
+**** Unknown item 1097 (3 occurrences)
+**** Unknown item 1100 (6 occurrences)
+**** Unknown item 1102 (25 occurrences)
+**** Unknown item 1104 (6 occurrences)
+**** Unknown item 1108 (10 occurrences)
+**** Unknown item 1111 (8 occurrences)
+**** Unknown item 1112 (1 occurrence)
+**** Unknown item 1113 (4 occurrences)
+**** Unknown item 1114 (9 occurrences)
+**** Unknown item 1116 (1 occurrence)
+**** Unknown item 1118 (15 occurrences)
+**** Unknown item 1121 (6 occurrences)
+**** Unknown item 1125 (2 occurrences)
+**** Unknown item 1126 (8 occurrences)
+**** Unknown item 1128 (3 occurrences)
+**** Unknown item 1133 (1 occurrence)
+**** Unknown item 1135 (3 occurrences)
+**** Unknown item 1136 (2 occurrences)
+**** Unknown item 1138 (10 occurrences)
+**** Unknown item 1139 (2 occurrences)
+**** Unknown item 114 (18 occurrences)
+**** Unknown item 1140 (8 occurrences)
+**** Unknown item 1141 (13 occurrences)
+**** Unknown item 1143 (1 occurrence)
+**** Unknown item 1144 (3 occurrences)
+**** Unknown item 1145 (1 occurrence)
+**** Unknown item 1146 (4 occurrences)
+**** Unknown item 1148 (3 occurrences)
+**** Unknown item 115 (16 occurrences)
+**** Unknown item 1153 (1 occurrence)
+**** Unknown item 1155 (3 occurrences)
+**** Unknown item 1156 (2 occurrences)
+**** Unknown item 1157 (2 occurrences)
+**** Unknown item 1159 (10 occurrences)
+**** Unknown item 116 (5 occurrences)
+**** Unknown item 1160 (3 occurrences)
+**** Unknown item 1162 (1 occurrence)
+**** Unknown item 1180 (1 occurrence)
+**** Unknown item 1192 (2 occurrences)
+**** Unknown item 1193 (3 occurrences)
+**** Unknown item 1195 (2 occurrences)
+**** Unknown item 1197 (4 occurrences)
+**** Unknown item 1198 (9 occurrences)
+**** Unknown item 1200 (3 occurrences)
+**** Unknown item 1201 (10 occurrences)
+**** Unknown item 1202 (9 occurrences)
+**** Unknown item 1203 (2 occurrences)
+**** Unknown item 1205 (1 occurrence)
+**** Unknown item 1206 (8 occurrences)
+**** Unknown item 1207 (2 occurrences)
+**** Unknown item 1209 (4 occurrences)
+**** Unknown item 1211 (1 occurrence)
+**** Unknown item 1215 (2 occurrences)
+**** Unknown item 1216 (1 occurrence)
+**** Unknown item 122 (6 occurrences)
+**** Unknown item 1220 (2 occurrences)
+**** Unknown item 1221 (2 occurrences)
+**** Unknown item 1222 (1 occurrence)
+**** Unknown item 1226 (1 occurrence)
+**** Unknown item 1227 (1 occurrence)
+**** Unknown item 1228 (1 occurrence)
+**** Unknown item 1229 (1 occurrence)
+**** Unknown item 1231 (17 occurrences)
+**** Unknown item 1233 (4 occurrences)
+**** Unknown item 1234 (3 occurrences)
+**** Unknown item 1235 (3 occurrences)
+**** Unknown item 1237 (7 occurrences)
+**** Unknown item 1238 (7 occurrences)
+**** Unknown item 1239 (5 occurrences)
+**** Unknown item 1240 (3 occurrences)
+**** Unknown item 1241 (1 occurrence)
+**** Unknown item 1243 (1 occurrence)
+**** Unknown item 1250 (7 occurrences)
+**** Unknown item 1251 (4 occurrences)
+**** Unknown item 1253 (11 occurrences)
+**** Unknown item 1255 (4 occurrences)
+**** Unknown item 1256 (1 occurrence)
+**** Unknown item 1258 (1 occurrence)
+**** Unknown item 1261 (3 occurrences)
+**** Unknown item 1262 (1 occurrence)
+**** Unknown item 1263 (9 occurrences)
+**** Unknown item 1264 (9 occurrences)
+**** Unknown item 1269 (1 occurrence)
+**** Unknown item 127 (2 occurrences)
+**** Unknown item 1271 (2 occurrences)
+**** Unknown item 1273 (1 occurrence)
+**** Unknown item 1274 (1 occurrence)
+**** Unknown item 1275 (2 occurrences)
+**** Unknown item 1278 (1 occurrence)
+**** Unknown item 128 (8 occurrences)
+**** Unknown item 1280 (1 occurrence)
+**** Unknown item 1283 (1 occurrence)
+**** Unknown item 1284 (1 occurrence)
+**** Unknown item 1288 (2 occurrences)
+**** Unknown item 1289 (8 occurrences)
+**** Unknown item 129 (10 occurrences)
+**** Unknown item 1291 (2 occurrences)
+**** Unknown item 1292 (5 occurrences)
+**** Unknown item 1294 (2 occurrences)
+**** Unknown item 1299 (1 occurrence)
+**** Unknown item 1301 (1 occurrence)
+**** Unknown item 1302 (5 occurrences)
+**** Unknown item 1303 (23 occurrences)
+**** Unknown item 1306 (11 occurrences)
+**** Unknown item 1307 (8 occurrences)
+**** Unknown item 1308 (13 occurrences)
+**** Unknown item 1309 (8 occurrences)
+**** Unknown item 1310 (2 occurrences)
+**** Unknown item 1311 (6 occurrences)
+**** Unknown item 1312 (9 occurrences)
+**** Unknown item 1313 (3 occurrences)
+**** Unknown item 1315 (11 occurrences)
+**** Unknown item 1316 (6 occurrences)
+**** Unknown item 1317 (2 occurrences)
+**** Unknown item 1318 (2 occurrences)
+**** Unknown item 1319 (5 occurrences)
+**** Unknown item 1322 (8 occurrences)
+**** Unknown item 1323 (1 occurrence)
+**** Unknown item 1324 (5 occurrences)
+**** Unknown item 1325 (3 occurrences)
+**** Unknown item 1327 (2 occurrences)
+**** Unknown item 1341 (4 occurrences)
+**** Unknown item 1342 (6 occurrences)
+**** Unknown item 1343 (1 occurrence)
+**** Unknown item 1344 (2 occurrences)
+**** Unknown item 1345 (3 occurrences)
+**** Unknown item 1346 (13 occurrences)
+**** Unknown item 1347 (3 occurrences)
+**** Unknown item 1348 (3 occurrences)
+**** Unknown item 1349 (5 occurrences)
+**** Unknown item 1350 (1 occurrence)
+**** Unknown item 1351 (4 occurrences)
+**** Unknown item 1352 (5 occurrences)
+**** Unknown item 1355 (9 occurrences)
+**** Unknown item 1356 (4 occurrences)
+**** Unknown item 1357 (5 occurrences)
+**** Unknown item 1358 (9 occurrences)
+**** Unknown item 1359 (14 occurrences)
+**** Unknown item 1366 (2 occurrences)
+**** Unknown item 1369 (2 occurrences)
+**** Unknown item 1371 (4 occurrences)
+**** Unknown item 1372 (1 occurrence)
+**** Unknown item 1375 (2 occurrences)
+**** Unknown item 1376 (1 occurrence)
+**** Unknown item 1377 (4 occurrences)
+**** Unknown item 1380 (7 occurrences)
+**** Unknown item 1381 (1 occurrence)
+**** Unknown item 1384 (4 occurrences)
+**** Unknown item 1385 (1 occurrence)
+**** Unknown item 1401 (4 occurrences)
+**** Unknown item 1404 (1 occurrence)
+**** Unknown item 1405 (3 occurrences)
+**** Unknown item 1406 (20 occurrences)
+**** Unknown item 1407 (4 occurrences)
+**** Unknown item 1408 (4 occurrences)
+**** Unknown item 1409 (5 occurrences)
+**** Unknown item 1410 (5 occurrences)
+**** Unknown item 1412 (7 occurrences)
+**** Unknown item 1413 (3 occurrences)
+**** Unknown item 1414 (16 occurrences)
+**** Unknown item 1415 (12 occurrences)
+**** Unknown item 1416 (1 occurrence)
+**** Unknown item 1417 (3 occurrences)
+**** Unknown item 1418 (8 occurrences)
+**** Unknown item 1429 (5 occurrences)
+**** Unknown item 1430 (3 occurrences)
+**** Unknown item 1432 (4 occurrences)
+**** Unknown item 1433 (5 occurrences)
+**** Unknown item 1434 (5 occurrences)
+**** Unknown item 1435 (2 occurrences)
+**** Unknown item 1436 (3 occurrences)
+**** Unknown item 1437 (2 occurrences)
+**** Unknown item 1438 (12 occurrences)
+**** Unknown item 1440 (10 occurrences)
+**** Unknown item 1442 (1 occurrence)
+**** Unknown item 1443 (1 occurrence)
+**** Unknown item 1444 (12 occurrences)
+**** Unknown item 1445 (4 occurrences)
+**** Unknown item 1446 (6 occurrences)
+**** Unknown item 1449 (14 occurrences)
+**** Unknown item 1451 (1 occurrence)
+**** Unknown item 1454 (3 occurrences)
+**** Unknown item 1457 (1 occurrence)
+**** Unknown item 1459 (4 occurrences)
+**** Unknown item 1460 (1 occurrence)
+**** Unknown item 1461 (1 occurrence)
+**** Unknown item 1464 (2 occurrences)
+**** Unknown item 1466 (13 occurrences)
+**** Unknown item 1467 (5 occurrences)
+**** Unknown item 1468 (17 occurrences)
+**** Unknown item 1469 (12 occurrences)
+**** Unknown item 1473 (1 occurrence)
+**** Unknown item 1474 (8 occurrences)
+**** Unknown item 1484 (1 occurrence)
+**** Unknown item 1487 (7 occurrences)
+**** Unknown item 1488 (1 occurrence)
+**** Unknown item 1500 (4 occurrences)
+**** Unknown item 1506 (1 occurrence)
+**** Unknown item 1509 (1 occurrence)
+**** Unknown item 1511 (1 occurrence)
+**** Unknown item 1515 (1 occurrence)
+**** Unknown item 1516 (1 occurrence)
+**** Unknown item 1520 (2 occurrences)
+**** Unknown item 1522 (1 occurrence)
+**** Unknown item 1523 (2 occurrences)
+**** Unknown item 1524 (4 occurrences)
+**** Unknown item 1527 (1 occurrence)
+**** Unknown item 1528 (2 occurrences)
+**** Unknown item 1529 (2 occurrences)
+**** Unknown item 1541 (3 occurrences)
+**** Unknown item 1542 (1 occurrence)
+**** Unknown item 1546 (1 occurrence)
+**** Unknown item 1547 (2 occurrences)
+**** Unknown item 1552 (2 occurrences)
+**** Unknown item 1553 (3 occurrences)
+**** Unknown item 1555 (4 occurrences)
+**** Unknown item 1559 (14 occurrences)
+**** Unknown item 1562 (10 occurrences)
+**** Unknown item 1568 (1 occurrence)
+**** Unknown item 1571 (3 occurrences)
+**** Unknown item 1572 (2 occurrences)
+**** Unknown item 1575 (2 occurrences)
+**** Unknown item 1577 (8 occurrences)
+**** Unknown item 1580 (1 occurrence)
+**** Unknown item 1581 (2 occurrences)
+**** Unknown item 1583 (3 occurrences)
+**** Unknown item 1584 (1 occurrence)
+**** Unknown item 1587 (1 occurrence)
+**** Unknown item 1588 (1 occurrence)
+**** Unknown item 1593 (1 occurrence)
+**** Unknown item 1602 (1 occurrence)
+**** Unknown item 1606 (2 occurrences)
+**** Unknown item 1607 (4 occurrences)
+**** Unknown item 1608 (6 occurrences)
+**** Unknown item 1610 (1 occurrence)
+**** Unknown item 1612 (1 occurrence)
+**** Unknown item 1622 (3 occurrences)
+**** Unknown item 1624 (3 occurrences)
+**** Unknown item 1626 (9 occurrences)
+**** Unknown item 1627 (2 occurrences)
+**** Unknown item 1660 (2 occurrences)
+**** Unknown item 1683 (7 occurrences)
+**** Unknown item 1693 (4 occurrences)
+**** Unknown item 1698 (1 occurrence)
+**** Unknown item 1706 (4 occurrences)
+**** Unknown item 1708 (8 occurrences)
+**** Unknown item 1712 (4 occurrences)
+**** Unknown item 1713 (2 occurrences)
+**** Unknown item 1714 (14 occurrences)
+**** Unknown item 1715 (1 occurrence)
+**** Unknown item 1720 (3 occurrences)
+**** Unknown item 1723 (1 occurrence)
+**** Unknown item 1725 (2 occurrences)
+**** Unknown item 1726 (2 occurrences)
+**** Unknown item 1727 (2 occurrences)
+**** Unknown item 1728 (9 occurrences)
+**** Unknown item 1729 (3 occurrences)
+**** Unknown item 1730 (1 occurrence)
+**** Unknown item 1731 (3 occurrences)
+**** Unknown item 1733 (4 occurrences)
+**** Unknown item 1735 (1 occurrence)
+**** Unknown item 1736 (12 occurrences)
+**** Unknown item 1738 (4 occurrences)
+**** Unknown item 1739 (7 occurrences)
+**** Unknown item 1741 (9 occurrences)
+**** Unknown item 1742 (1 occurrence)
+**** Unknown item 1743 (2 occurrences)
+**** Unknown item 1746 (1 occurrence)
+**** Unknown item 1747 (8 occurrences)
+**** Unknown item 175 (1 occurrence)
+**** Unknown item 1753 (9 occurrences)
+**** Unknown item 1754 (8 occurrences)
+**** Unknown item 1755 (2 occurrences)
+**** Unknown item 1756 (1 occurrence)
+**** Unknown item 1759 (12 occurrences)
+**** Unknown item 176 (2 occurrences)
+**** Unknown item 1761 (3 occurrences)
+**** Unknown item 1766 (2 occurrences)
+**** Unknown item 1768 (1 occurrence)
+**** Unknown item 177 (6 occurrences)
+**** Unknown item 1771 (7 occurrences)
+**** Unknown item 1774 (11 occurrences)
+**** Unknown item 1775 (11 occurrences)
+**** Unknown item 1776 (1 occurrence)
+**** Unknown item 1777 (9 occurrences)
+**** Unknown item 1779 (1 occurrence)
+**** Unknown item 1781 (16 occurrences)
+**** Unknown item 1784 (1 occurrence)
+**** Unknown item 1785 (1 occurrence)
+**** Unknown item 1787 (3 occurrences)
+**** Unknown item 1790 (2 occurrences)
+**** Unknown item 1792 (3 occurrences)
+**** Unknown item 1793 (8 occurrences)
+**** Unknown item 1797 (1 occurrence)
+**** Unknown item 1799 (2 occurrences)
+**** Unknown item 1801 (1 occurrence)
+**** Unknown item 1812 (2 occurrences)
+**** Unknown item 1814 (10 occurrences)
+**** Unknown item 1815 (4 occurrences)
+**** Unknown item 1816 (2 occurrences)
+**** Unknown item 1817 (11 occurrences)
+**** Unknown item 182 (7 occurrences)
+**** Unknown item 1821 (2 occurrences)
+**** Unknown item 1823 (1 occurrence)
+**** Unknown item 1824 (2 occurrences)
+**** Unknown item 1825 (8 occurrences)
+**** Unknown item 1826 (1 occurrence)
+**** Unknown item 1829 (2 occurrences)
+**** Unknown item 1830 (1 occurrence)
+**** Unknown item 1833 (2 occurrences)
+**** Unknown item 1834 (1 occurrence)
+**** Unknown item 1837 (2 occurrences)
+**** Unknown item 1838 (1 occurrence)
+**** Unknown item 184 (3 occurrences)
+**** Unknown item 1840 (2 occurrences)
+**** Unknown item 1842 (3 occurrences)
+**** Unknown item 1843 (4 occurrences)
+**** Unknown item 1845 (10 occurrences)
+**** Unknown item 1846 (4 occurrences)
+**** Unknown item 185 (3 occurrences)
+**** Unknown item 1853 (1 occurrence)
+**** Unknown item 1857 (3 occurrences)
+**** Unknown item 1858 (13 occurrences)
+**** Unknown item 1865 (3 occurrences)
+**** Unknown item 1867 (12 occurrences)
+**** Unknown item 187 (3 occurrences)
+**** Unknown item 188 (2 occurrences)
+**** Unknown item 1883 (2 occurrences)
+**** Unknown item 1894 (8 occurrences)
+**** Unknown item 1895 (2 occurrences)
+**** Unknown item 1896 (1 occurrence)
+**** Unknown item 190 (2 occurrences)
+**** Unknown item 1901 (8 occurrences)
+**** Unknown item 1902 (4 occurrences)
+**** Unknown item 1904 (1 occurrence)
+**** Unknown item 191 (1 occurrence)
+**** Unknown item 1916 (3 occurrences)
+**** Unknown item 1919 (11 occurrences)
+**** Unknown item 192 (1 occurrence)
+**** Unknown item 1922 (4 occurrences)
+**** Unknown item 1923 (5 occurrences)
+**** Unknown item 1924 (15 occurrences)
+**** Unknown item 1926 (1 occurrence)
+**** Unknown item 1928 (2 occurrences)
+**** Unknown item 193 (1 occurrence)
+**** Unknown item 1936 (1 occurrence)
+**** Unknown item 1937 (11 occurrences)
+**** Unknown item 1938 (1 occurrence)
+**** Unknown item 1939 (4 occurrences)
+**** Unknown item 1940 (1 occurrence)
+**** Unknown item 1941 (3 occurrences)
+**** Unknown item 1943 (1 occurrence)
+**** Unknown item 1946 (10 occurrences)
+**** Unknown item 1947 (3 occurrences)
+**** Unknown item 1948 (3 occurrences)
+**** Unknown item 1949 (10 occurrences)
+**** Unknown item 195 (1 occurrence)
+**** Unknown item 1950 (2 occurrences)
+**** Unknown item 1953 (6 occurrences)
+**** Unknown item 1954 (4 occurrences)
+**** Unknown item 1956 (4 occurrences)
+**** Unknown item 1957 (1 occurrence)
+**** Unknown item 1959 (2 occurrences)
+**** Unknown item 1960 (6 occurrences)
+**** Unknown item 1962 (9 occurrences)
+**** Unknown item 1963 (2 occurrences)
+**** Unknown item 1965 (3 occurrences)
+**** Unknown item 1968 (8 occurrences)
+**** Unknown item 1969 (6 occurrences)
+**** Unknown item 197 (2 occurrences)
+**** Unknown item 1972 (3 occurrences)
+**** Unknown item 1975 (1 occurrence)
+**** Unknown item 1976 (1 occurrence)
+**** Unknown item 1977 (17 occurrences)
+**** Unknown item 1979 (3 occurrences)
+**** Unknown item 1980 (11 occurrences)
+**** Unknown item 1982 (4 occurrences)
+**** Unknown item 1984 (3 occurrences)
+**** Unknown item 1985 (8 occurrences)
+**** Unknown item 1986 (2 occurrences)
+**** Unknown item 1987 (2 occurrences)
+**** Unknown item 1988 (2 occurrences)
+**** Unknown item 1989 (2 occurrences)
+**** Unknown item 1991 (9 occurrences)
+**** Unknown item 1992 (1 occurrence)
+**** Unknown item 1994 (4 occurrences)
+**** Unknown item 1995 (1 occurrence)
+**** Unknown item 1996 (1 occurrence)
+**** Unknown item 1997 (2 occurrences)
+**** Unknown item 1998 (1 occurrence)
+**** Unknown item 1999 (7 occurrences)
+**** Unknown item 2000 (1 occurrence)
+**** Unknown item 2001 (1 occurrence)
+**** Unknown item 2002 (3 occurrences)
+**** Unknown item 2008 (1 occurrence)
+**** Unknown item 2009 (8 occurrences)
+**** Unknown item 2010 (8 occurrences)
+**** Unknown item 2011 (11 occurrences)
+**** Unknown item 2012 (1 occurrence)
+**** Unknown item 2018 (1 occurrence)
+**** Unknown item 2027 (1 occurrence)
+**** Unknown item 2028 (2 occurrences)
+**** Unknown item 203 (8 occurrences)
+**** Unknown item 2030 (2 occurrences)
+**** Unknown item 2032 (14 occurrences)
+**** Unknown item 2033 (8 occurrences)
+**** Unknown item 2036 (2 occurrences)
+**** Unknown item 2037 (5 occurrences)
+**** Unknown item 2039 (3 occurrences)
+**** Unknown item 2040 (12 occurrences)
+**** Unknown item 2041 (7 occurrences)
+**** Unknown item 2044 (1 occurrence)
+**** Unknown item 2045 (1 occurrence)
+**** Unknown item 2047 (1 occurrence)
+**** Unknown item 2050 (2 occurrences)
+**** Unknown item 2051 (2 occurrences)
+**** Unknown item 2052 (2 occurrences)
+**** Unknown item 2053 (5 occurrences)
+**** Unknown item 2054 (11 occurrences)
+**** Unknown item 2055 (3 occurrences)
+**** Unknown item 2056 (1 occurrence)
+**** Unknown item 2057 (9 occurrences)
+**** Unknown item 2058 (11 occurrences)
+**** Unknown item 2059 (5 occurrences)
+**** Unknown item 2061 (3 occurrences)
+**** Unknown item 2063 (1 occurrence)
+**** Unknown item 2066 (2 occurrences)
+**** Unknown item 2067 (2 occurrences)
+**** Unknown item 2069 (4 occurrences)
+**** Unknown item 2072 (1 occurrence)
+**** Unknown item 2073 (1 occurrence)
+**** Unknown item 2076 (4 occurrences)
+**** Unknown item 2082 (2 occurrences)
+**** Unknown item 2083 (7 occurrences)
+**** Unknown item 2084 (2 occurrences)
+**** Unknown item 2086 (5 occurrences)
+**** Unknown item 2088 (9 occurrences)
+**** Unknown item 2090 (3 occurrences)
+**** Unknown item 2091 (5 occurrences)
+**** Unknown item 2092 (5 occurrences)
+**** Unknown item 2093 (10 occurrences)
+**** Unknown item 2094 (1 occurrence)
+**** Unknown item 210 (9 occurrences)
+**** Unknown item 2101 (7 occurrences)
+**** Unknown item 2105 (1 occurrence)
+**** Unknown item 2107 (6 occurrences)
+**** Unknown item 2114 (2 occurrences)
+**** Unknown item 2115 (3 occurrences)
+**** Unknown item 2116 (4 occurrences)
+**** Unknown item 2117 (1 occurrence)
+**** Unknown item 2119 (4 occurrences)
+**** Unknown item 212 (1 occurrence)
+**** Unknown item 2121 (9 occurrences)
+**** Unknown item 2122 (1 occurrence)
+**** Unknown item 2124 (3 occurrences)
+**** Unknown item 2125 (1 occurrence)
+**** Unknown item 219 (2 occurrences)
+**** Unknown item 221 (2 occurrences)
+**** Unknown item 227 (5 occurrences)
+**** Unknown item 228 (6 occurrences)
+**** Unknown item 229 (2 occurrences)
+**** Unknown item 230 (10 occurrences)
+**** Unknown item 232 (1 occurrence)
+**** Unknown item 233 (9 occurrences)
+**** Unknown item 234 (4 occurrences)
+**** Unknown item 235 (2 occurrences)
+**** Unknown item 237 (23 occurrences)
+**** Unknown item 238 (1 occurrence)
+**** Unknown item 243 (2 occurrences)
+**** Unknown item 254 (4 occurrences)
+**** Unknown item 255 (12 occurrences)
+**** Unknown item 258 (10 occurrences)
+**** Unknown item 259 (2 occurrences)
+**** Unknown item 260 (2 occurrences)
+**** Unknown item 261 (8 occurrences)
+**** Unknown item 270 (6 occurrences)
+**** Unknown item 271 (4 occurrences)
+**** Unknown item 272 (9 occurrences)
+**** Unknown item 273 (12 occurrences)
+**** Unknown item 274 (4 occurrences)
+**** Unknown item 275 (6 occurrences)
+**** Unknown item 276 (3 occurrences)
+**** Unknown item 277 (3 occurrences)
+**** Unknown item 278 (4 occurrences)
+**** Unknown item 279 (2 occurrences)
+**** Unknown item 280 (15 occurrences)
+**** Unknown item 283 (2 occurrences)
+**** Unknown item 284 (6 occurrences)
+**** Unknown item 285 (12 occurrences)
+**** Unknown item 286 (1 occurrence)
+**** Unknown item 287 (15 occurrences)
+**** Unknown item 288 (5 occurrences)
+**** Unknown item 289 (2 occurrences)
+**** Unknown item 291 (3 occurrences)
+**** Unknown item 294 (11 occurrences)
+**** Unknown item 295 (4 occurrences)
+**** Unknown item 296 (2 occurrences)
+**** Unknown item 300 (3 occurrences)
+**** Unknown item 318 (2 occurrences)
+**** Unknown item 319 (1 occurrence)
+**** Unknown item 320 (3 occurrences)
+**** Unknown item 321 (3 occurrences)
+**** Unknown item 322 (3 occurrences)
+**** Unknown item 323 (3 occurrences)
+**** Unknown item 324 (2 occurrences)
+**** Unknown item 325 (1 occurrence)
+**** Unknown item 332 (12 occurrences)
+**** Unknown item 333 (4 occurrences)
+**** Unknown item 334 (1 occurrence)
+**** Unknown item 338 (5 occurrences)
+**** Unknown item 339 (20 occurrences)
+**** Unknown item 34 (8 occurrences)
+**** Unknown item 341 (1 occurrence)
+**** Unknown item 342 (3 occurrences)
+**** Unknown item 343 (2 occurrences)
+**** Unknown item 344 (3 occurrences)
+**** Unknown item 347 (2 occurrences)
+**** Unknown item 348 (6 occurrences)
+**** Unknown item 350 (2 occurrences)
+**** Unknown item 351 (7 occurrences)
+**** Unknown item 352 (3 occurrences)
+**** Unknown item 355 (6 occurrences)
+**** Unknown item 357 (3 occurrences)
+**** Unknown item 358 (3 occurrences)
+**** Unknown item 359 (2 occurrences)
+**** Unknown item 360 (1 occurrence)
+**** Unknown item 361 (2 occurrences)
+**** Unknown item 364 (9 occurrences)
+**** Unknown item 365 (4 occurrences)
+**** Unknown item 366 (1 occurrence)
+**** Unknown item 367 (7 occurrences)
+**** Unknown item 368 (4 occurrences)
+**** Unknown item 380 (2 occurrences)
+**** Unknown item 386 (1 occurrence)
+**** Unknown item 388 (2 occurrences)
+**** Unknown item 390 (2 occurrences)
+**** Unknown item 392 (1 occurrence)
+**** Unknown item 398 (1 occurrence)
+**** Unknown item 429 (3 occurrences)
+**** Unknown item 430 (13 occurrences)
+**** Unknown item 431 (11 occurrences)
+**** Unknown item 434 (1 occurrence)
+**** Unknown item 435 (2 occurrences)
+**** Unknown item 441 (2 occurrences)
+**** Unknown item 443 (1 occurrence)
+**** Unknown item 446 (5 occurrences)
+**** Unknown item 447 (2 occurrences)
+**** Unknown item 448 (8 occurrences)
+**** Unknown item 453 (3 occurrences)
+**** Unknown item 454 (4 occurrences)
+**** Unknown item 455 (1 occurrence)
+**** Unknown item 458 (12 occurrences)
+**** Unknown item 466 (1 occurrence)
+**** Unknown item 470 (1 occurrence)
+**** Unknown item 473 (3 occurrences)
+**** Unknown item 478 (4 occurrences)
+**** Unknown item 479 (4 occurrences)
+**** Unknown item 480 (1 occurrence)
+**** Unknown item 482 (10 occurrences)
+**** Unknown item 483 (1 occurrence)
+**** Unknown item 484 (1 occurrence)
+**** Unknown item 485 (3 occurrences)
+**** Unknown item 486 (3 occurrences)
+**** Unknown item 490 (10 occurrences)
+**** Unknown item 491 (5 occurrences)
+**** Unknown item 492 (4 occurrences)
+**** Unknown item 493 (6 occurrences)
+**** Unknown item 495 (1 occurrence)
+**** Unknown item 496 (1 occurrence)
+**** Unknown item 498 (2 occurrences)
+**** Unknown item 502 (1 occurrence)
+**** Unknown item 505 (4 occurrences)
+**** Unknown item 522 (1 occurrence)
+**** Unknown item 523 (4 occurrences)
+**** Unknown item 524 (1 occurrence)
+**** Unknown item 526 (4 occurrences)
+**** Unknown item 527 (3 occurrences)
+**** Unknown item 528 (1 occurrence)
+**** Unknown item 529 (2 occurrences)
+**** Unknown item 530 (1 occurrence)
+**** Unknown item 533 (1 occurrence)
+**** Unknown item 535 (8 occurrences)
+**** Unknown item 536 (2 occurrences)
+**** Unknown item 537 (3 occurrences)
+**** Unknown item 538 (2 occurrences)
+**** Unknown item 539 (1 occurrence)
+**** Unknown item 541 (4 occurrences)
+**** Unknown item 542 (2 occurrences)
+**** Unknown item 557 (1 occurrence)
+**** Unknown item 559 (9 occurrences)
+**** Unknown item 560 (9 occurrences)
+**** Unknown item 57 (12 occurrences)
+**** Unknown item 575 (3 occurrences)
+**** Unknown item 576 (12 occurrences)
+**** Unknown item 577 (2 occurrences)
+**** Unknown item 578 (1 occurrence)
+**** Unknown item 58 (2 occurrences)
+**** Unknown item 580 (2 occurrences)
+**** Unknown item 583 (20 occurrences)
+**** Unknown item 586 (1 occurrence)
+**** Unknown item 587 (10 occurrences)
+**** Unknown item 589 (4 occurrences)
+**** Unknown item 59 (6 occurrences)
+**** Unknown item 591 (4 occurrences)
+**** Unknown item 592 (2 occurrences)
+**** Unknown item 593 (1 occurrence)
+**** Unknown item 594 (3 occurrences)
+**** Unknown item 595 (1 occurrence)
+**** Unknown item 596 (4 occurrences)
+**** Unknown item 597 (4 occurrences)
+**** Unknown item 598 (2 occurrences)
+**** Unknown item 599 (4 occurrences)
+**** Unknown item 60 (11 occurrences)
+**** Unknown item 601 (3 occurrences)
+**** Unknown item 605 (3 occurrences)
+**** Unknown item 606 (1 occurrence)
+**** Unknown item 607 (2 occurrences)
+**** Unknown item 609 (3 occurrences)
+**** Unknown item 610 (12 occurrences)
+**** Unknown item 613 (1 occurrence)
+**** Unknown item 615 (3 occurrences)
+**** Unknown item 616 (2 occurrences)
+**** Unknown item 620 (6 occurrences)
+**** Unknown item 621 (8 occurrences)
+**** Unknown item 622 (3 occurrences)
+**** Unknown item 623 (13 occurrences)
+**** Unknown item 624 (17 occurrences)
+**** Unknown item 625 (9 occurrences)
+**** Unknown item 627 (2 occurrences)
+**** Unknown item 631 (1 occurrence)
+**** Unknown item 632 (2 occurrences)
+**** Unknown item 644 (1 occurrence)
+**** Unknown item 645 (7 occurrences)
+**** Unknown item 646 (1 occurrence)
+**** Unknown item 647 (6 occurrences)
+**** Unknown item 648 (21 occurrences)
+**** Unknown item 649 (1 occurrence)
+**** Unknown item 650 (1 occurrence)
+**** Unknown item 652 (6 occurrences)
+**** Unknown item 654 (1 occurrence)
+**** Unknown item 656 (2 occurrences)
+**** Unknown item 657 (4 occurrences)
+**** Unknown item 659 (4 occurrences)
+**** Unknown item 660 (1 occurrence)
+**** Unknown item 661 (4 occurrences)
+**** Unknown item 663 (3 occurrences)
+**** Unknown item 664 (2 occurrences)
+**** Unknown item 666 (5 occurrences)
+**** Unknown item 671 (4 occurrences)
+**** Unknown item 75 (3 occurrences)
+**** Unknown item 78 (1 occurrence)
+**** Unknown item 79 (2 occurrences)
+**** Unknown item 81 (2 occurrences)
+**** Unknown item 822 (1 occurrence)
+**** Unknown item 823 (3 occurrences)
+**** Unknown item 824 (1 occurrence)
+**** Unknown item 825 (3 occurrences)
+**** Unknown item 826 (1 occurrence)
+**** Unknown item 84 (1 occurrence)
+**** Unknown item 848 (8 occurrences)
+**** Unknown item 851 (1 occurrence)
+**** Unknown item 854 (3 occurrences)
+**** Unknown item 857 (2 occurrences)
+**** Unknown item 860 (1 occurrence)
+**** Unknown item 863 (2 occurrences)
+**** Unknown item 868 (2 occurrences)
+**** Unknown item 869 (16 occurrences)
+**** Unknown item 870 (8 occurrences)
+**** Unknown item 871 (11 occurrences)
+**** Unknown item 872 (17 occurrences)
+**** Unknown item 873 (16 occurrences)
+**** Unknown item 874 (5 occurrences)
+**** Unknown item 875 (7 occurrences)
+**** Unknown item 876 (10 occurrences)
+**** Unknown item 877 (5 occurrences)
+**** Unknown item 878 (8 occurrences)
+**** Unknown item 879 (3 occurrences)
+**** Unknown item 88 (2 occurrences)
+**** Unknown item 881 (1 occurrence)
+**** Unknown item 882 (2 occurrences)
+**** Unknown item 883 (4 occurrences)
+**** Unknown item 886 (2 occurrences)
+**** Unknown item 887 (7 occurrences)
+**** Unknown item 889 (8 occurrences)
+**** Unknown item 891 (2 occurrences)
+**** Unknown item 895 (7 occurrences)
+**** Unknown item 899 (7 occurrences)
+**** Unknown item 900 (2 occurrences)
+**** Unknown item 901 (7 occurrences)
+**** Unknown item 902 (2 occurrences)
+**** Unknown item 905 (1 occurrence)
+**** Unknown item 906 (5 occurrences)
+**** Unknown item 912 (3 occurrences)
+**** Unknown item 92 (5 occurrences)
+**** Unknown item 925 (2 occurrences)
+**** Unknown item 929 (1 occurrence)
+**** Unknown item 943 (4 occurrences)
+**** Unknown item 944 (1 occurrence)
+**** Unknown item 947 (3 occurrences)
+**** Unknown item 948 (1 occurrence)
+**** Unknown item 949 (3 occurrences)
+**** Unknown item 956 (4 occurrences)
+**** Unknown item 960 (2 occurrences)
+**** Unknown item 962 (2 occurrences)
+**** Unknown item 964 (11 occurrences)
+**** Unknown item 966 (4 occurrences)
+**** Unknown item 969 (17 occurrences)
+**** Unknown item 970 (2 occurrences)
+**** Unknown item 972 (3 occurrences)
+**** Unknown item 973 (1 occurrence)
+**** Unknown item 974 (2 occurrences)
+**** Unknown item 975 (1 occurrence)
+**** Unknown item 977 (1 occurrence)
+**** Unknown item 978 (3 occurrences)
+**** Unknown item 98 (9 occurrences)
+**** Unknown item 99 (1 occurrence)
+
+TRADE LOOPS (37 total trades):
+
+(RUSTY3000) 653        receives (ATRAPANTHERA) 298
+(ATRAPANTHERA) 298     receives (YOORECK) 2097
+(YOORECK) 2097         receives (MISHIRE) 2007
+(MISHIRE) 2007         receives (FRAMZ_PL) 1008
+(FRAMZ_PL) 1008        receives (YOORECK) 248
+(YOORECK) 248          receives (BALD_MASTER) 264
+(BALD_MASTER) 264      receives (FEANOR_AB) 354
+(FEANOR_AB) 354        receives (MAJZOWNIK) 1051
+(MAJZOWNIK) 1051       receives (PANCOR) 778
+(PANCOR) 778           receives (TACHION) 23
+(TACHION) 23           receives (WINSTER) 1576
+(WINSTER) 1576         receives (ZAWATERNIOK) 226
+(ZAWATERNIOK) 226      receives (RUSTY3000) 653
+
+(GRIMCLASH) 965        receives (PROBBI) 585
+(PROBBI) 585           receives (LONYY) 1181
+(LONYY) 1181           receives (SWIROFF) 1749
+(SWIROFF) 1749         receives (FEANOR_AB) 940
+(FEANOR_AB) 940        receives (QRZY88) 1850
+(QRZY88) 1850          receives (DEGNIR) 1040
+(DEGNIR) 1040          receives (ZIEZIOR) 309
+(ZIEZIOR) 309          receives (GRIMCLASH) 965
+
+(ZIEZIOR) 308          receives (SVVITALEK) 980
+(SVVITALEK) 980        receives (EWELA_JAGODA) 256
+(EWELA_JAGODA) 256     receives (ZIEZIOR) 308
+
+(SYDONIAA) 1848        receives (KONRADSTPN) 141
+(KONRADSTPN) 141       receives (AKURCZAK) 1911
+(AKURCZAK) 1911        receives (CIUNIEK) 436
+(CIUNIEK) 436          receives (UNKNOWN0) 1530
+(UNKNOWN0) 1530        receives (AKURCZAK) 1912
+(AKURCZAK) 1912        receives (HELLOWEEN85) 427
+(HELLOWEEN85) 427      receives (TEDOKA) 222
+(TEDOKA) 222           receives (8RAMBO88) 1795
+(8RAMBO88) 1795        receives (SYDONIAA) 1848
+
+(SZUKASZ) 573          receives (PANCOR) 738
+(PANCOR) 738           receives (SZUKASZ) 573
+
+(TROGLODYTA) 829       receives (ZAWATERNIOK) 828
+(ZAWATERNIOK) 828      receives (TROGLODYTA) 829
+
+ITEM SUMMARY (37 total trades):
+
+(8RAMBO88) 1786                    does not trade
+(8RAMBO88) 1789                    does not trade
+(8RAMBO88) 1791                    does not trade
+(8RAMBO88) 1794                    does not trade
+(8RAMBO88) 1795        receives (SYDONIAA) 1848        and sends to (TEDOKA) 222
+(8RAMBO88) 1796                    does not trade
+(8RAMBO88) 1798                    does not trade
+(8RAMBO88) 1800                    does not trade
+(8RAMBO88) 1802                    does not trade
+(8RAMBO88) 1920                    does not trade
+(8RAMBO88) 1921                    does not trade
+(AKURCZAK) 1908                    does not trade
+(AKURCZAK) 1910                    does not trade
+(AKURCZAK) 1911        receives (CIUNIEK) 436          and sends to (KONRADSTPN) 141
+(AKURCZAK) 1912        receives (HELLOWEEN85) 427      and sends to (UNKNOWN0) 1530
+(AKURCZAK) 1927                    does not trade
+(AKURCZAK) 1932                    does not trade
+(AKURCZAK) 1951                    does not trade
+(AKURCZAK) 1983                    does not trade
+(AKWAMARYNOWY) 43                  does not trade
+(AKWAMARYNOWY) 45                  does not trade
+(AKWAMARYNOWY) 48                  does not trade
+(AKWAMARYNOWY) 50                  does not trade
+(APIEJH) 1633                      does not trade
+(APIEJH) 1634                      does not trade
+(APIEJH) 1637                      does not trade
+(APIEJH) 1643                      does not trade
+(APIEJH) 1650                      does not trade
+(ASPENNR) 1382                     does not trade
+(ASPENNR) 1383                     does not trade
+(ASPENNR) 1386                     does not trade
+(ASPENNR) 1388                     does not trade
+(ASPENNR) 1389                     does not trade
+(ASPENNR) 1391                     does not trade
+(ASPENNR) 1393                     does not trade
+(ASPENNR) 1396                     does not trade
+(ASPENNR) 1398                     does not trade
+(ASPENNR) 2123                     does not trade
+(ATOJEST) 265                      does not trade
+(ATOJEST) 809                      does not trade
+(ATRAPANTHERA) 297                 does not trade
+(ATRAPANTHERA) 298     receives (YOORECK) 2097         and sends to (RUSTY3000) 653
+(BADO666) 198                      does not trade
+(BADO666) 199                      does not trade
+(BADO666) 200                      does not trade
+(BADO666) 201                      does not trade
+(BADO666) 202                      does not trade
+(BADO666) 204                      does not trade
+(BADO666) 216                      does not trade
+(BALD_MASTER) 264      receives (FEANOR_AB) 354        and sends to (YOORECK) 248
+(BARTMAN71) 1032                   does not trade
+(BARTMAN71) 1033                   does not trade
+(BARTMAN71) 1034                   does not trade
+(BARTMAN71) 1035                   does not trade
+(BARTMAN71) 1036                   does not trade
+(BORRYS) 1187                      does not trade
+(BORRYS) 1188                      does not trade
+(BORRYS) 1189                      does not trade
+(BORRYS) 1190                      does not trade
+(BORRYS) 1191                      does not trade
+(BZDZIONG) 1803                    does not trade
+(BZDZIONG) 1805                    does not trade
+(BZDZIONG) 1806                    does not trade
+(BZDZIONG) 1807                    does not trade
+(BZDZIONG) 1809                    does not trade
+(BZDZIONG) 1810                    does not trade
+(BZDZIONG) 1811                    does not trade
+(CIUNIEK) 436          receives (UNKNOWN0) 1530        and sends to (AKURCZAK) 1911
+(CIUNIEK) 437                      does not trade
+(CIUNIEK) 438                      does not trade
+(CIUNIEK) 439                      does not trade
+(CIUNIEK) 440                      does not trade
+(CIUNIEK) 442                      does not trade
+(COOL_MAX) 2133                    does not trade
+(COOL_MAX) 2134                    does not trade
+(COOL_MAX) 562                     does not trade
+(COOL_MAX) 563                     does not trade
+(COOL_MAX) 564                     does not trade
+(COOL_MAX) 565                     does not trade
+(COOL_MAX) 566                     does not trade
+(COOL_MAX) 567                     does not trade
+(COOL_MAX) 568                     does not trade
+(COOL_MAX) 569                     does not trade
+(COOL_MAX) 570                     does not trade
+(COOL_MAX) 571                     does not trade
+(COOL_MAX) 572                     does not trade
+(CORQAN) 553                       does not trade
+(CORTUMPL) 892                     does not trade
+(CORTUMPL) 893                     does not trade
+(CORTUMPL) 894                     does not trade
+(DEGNIR) 1040          receives (ZIEZIOR) 309          and sends to (QRZY88) 1850
+(DEGNIR) 245                       does not trade
+(DEGNIR) 246                       does not trade
+(EATYOURSYSTEM) 1001               does not trade
+(EATYOURSYSTEM) 1006               does not trade
+(EATYOURSYSTEM) 1015               does not trade
+(EATYOURSYSTEM) 984                does not trade
+(EATYOURSYSTEM) 985                does not trade
+(EATYOURSYSTEM) 986                does not trade
+(EATYOURSYSTEM) 987                does not trade
+(EATYOURSYSTEM) 988                does not trade
+(EATYOURSYSTEM) 989                does not trade
+(EATYOURSYSTEM) 990                does not trade
+(EATYOURSYSTEM) 997                does not trade
+(EWELA_JAGODA) 256     receives (ZIEZIOR) 308          and sends to (SVVITALEK) 980
+(EWELA_JAGODA) 370                 does not trade
+(FEANOR_AB) 337                    does not trade
+(FEANOR_AB) 345                    does not trade
+(FEANOR_AB) 346                    does not trade
+(FEANOR_AB) 349                    does not trade
+(FEANOR_AB) 354        receives (MAJZOWNIK) 1051       and sends to (BALD_MASTER) 264
+(FEANOR_AB) 864                    does not trade
+(FEANOR_AB) 940        receives (QRZY88) 1850          and sends to (SWIROFF) 1749
+(FIZOLOF) 1335                     does not trade
+(FIZOLOF) 1336                     does not trade
+(FIZOLOF) 1337                     does not trade
+(FIZOLOF) 71                       does not trade
+(FIZOLOF) 72                       does not trade
+(FIZOLOF) 73                       does not trade
+(FIZOLOF) 74                       does not trade
+(FRAMZ_PL) 1000                    does not trade
+(FRAMZ_PL) 1002                    does not trade
+(FRAMZ_PL) 1003                    does not trade
+(FRAMZ_PL) 1004                    does not trade
+(FRAMZ_PL) 1005                    does not trade
+(FRAMZ_PL) 1007                    does not trade
+(FRAMZ_PL) 1008        receives (YOORECK) 248          and sends to (MISHIRE) 2007
+(FRAMZ_PL) 991                     does not trade
+(FRAMZ_PL) 992                     does not trade
+(FRAMZ_PL) 993                     does not trade
+(FRAMZ_PL) 994                     does not trade
+(FRAMZ_PL) 995                     does not trade
+(FRAMZ_PL) 996                     does not trade
+(FRAMZ_PL) 998                     does not trade
+(FRAMZ_PL) 999                     does not trade
+(GRIMCLASH) 1163                   does not trade
+(GRIMCLASH) 1164                   does not trade
+(GRIMCLASH) 1165                   does not trade
+(GRIMCLASH) 1166                   does not trade
+(GRIMCLASH) 961                    does not trade
+(GRIMCLASH) 963                    does not trade
+(GRIMCLASH) 965        receives (PROBBI) 585           and sends to (ZIEZIOR) 309
+(GRIMCLASH) 967                    does not trade
+(GRIMCLASH) 968                    does not trade
+(GRIMCLASH) 976                    does not trade
+(HELLOWEEN85) 423                  does not trade
+(HELLOWEEN85) 424                  does not trade
+(HELLOWEEN85) 425                  does not trade
+(HELLOWEEN85) 426                  does not trade
+(HELLOWEEN85) 427      receives (TEDOKA) 222           and sends to (AKURCZAK) 1912
+(HELLOWEEN85) 428                  does not trade
+(IRON84) 1041                      does not trade
+(IRON84) 1340                      does not trade
+(IRON84) 383                       does not trade
+(ITSTHISGUYAGAIN) 1361             does not trade
+(ITSTHISGUYAGAIN) 1362             does not trade
+(ITSTHISGUYAGAIN) 1364             does not trade
+(ITSTHISGUYAGAIN) 1367             does not trade
+(ITSTHISGUYAGAIN) 1370             does not trade
+(ITSTHISGUYAGAIN) 1373             does not trade
+(ITURI) 1507                       does not trade
+(ITURI) 1513                       does not trade
+(ITURI) 1518                       does not trade
+(ITURI) 1813                       does not trade
+(JAJKOS) 1037                      does not trade
+(JAJKOS) 1038                      does not trade
+(JAJKOS) 1039                      does not trade
+(JAJKOS) 118                       does not trade
+(JAJKOS) 250                       does not trade
+(JAJKOS) 251                       does not trade
+(JAJKOS) 252                       does not trade
+(JAJKOS) 253                       does not trade
+(KAFASEQ) 1470                     does not trade
+(KAFASEQ) 1472                     does not trade
+(KAFASEQ) 1475                     does not trade
+(KAFASEQ) 1476                     does not trade
+(KAFASEQ) 1477                     does not trade
+(KAFASEQ) 1478                     does not trade
+(KAFASEQ) 1479                     does not trade
+(KALAY) 119                        does not trade
+(KALAY) 120                        does not trade
+(KALAY) 121                        does not trade
+(KALAY) 174                        does not trade
+(KALAY) 1890                       does not trade
+(KBIZON) 608                       does not trade
+(KBIZON) 611                       does not trade
+(KBIZON) 636                       does not trade
+(KBIZON) 637                       does not trade
+(KDSZ) 326                         does not trade
+(KDSZ) 327                         does not trade
+(KDSZ) 328                         does not trade
+(KONRADSTPN) 131                   does not trade
+(KONRADSTPN) 132                   does not trade
+(KONRADSTPN) 133                   does not trade
+(KONRADSTPN) 134                   does not trade
+(KONRADSTPN) 135                   does not trade
+(KONRADSTPN) 136                   does not trade
+(KONRADSTPN) 137                   does not trade
+(KONRADSTPN) 138                   does not trade
+(KONRADSTPN) 139                   does not trade
+(KONRADSTPN) 140                   does not trade
+(KONRADSTPN) 141       receives (AKURCZAK) 1911        and sends to (SYDONIAA) 1848
+(KONRADSTPN) 142                   does not trade
+(KONRADSTPN) 143                   does not trade
+(KONRADSTPN) 144                   does not trade
+(KONRADSTPN) 145                   does not trade
+(KONRADSTPN) 146                   does not trade
+(KONRADSTPN) 147                   does not trade
+(KONRADSTPN) 148                   does not trade
+(KONRADSTPN) 149                   does not trade
+(KONRADSTPN) 150                   does not trade
+(KONRADSTPN) 151                   does not trade
+(KONRADSTPN) 152                   does not trade
+(KONRADSTPN) 153                   does not trade
+(KONRADSTPN) 154                   does not trade
+(KONRADSTPN) 155                   does not trade
+(KONRADSTPN) 156                   does not trade
+(KONRADSTPN) 157                   does not trade
+(KONRADSTPN) 158                   does not trade
+(KONRADSTPN) 159                   does not trade
+(KONRADSTPN) 160                   does not trade
+(KONRADSTPN) 161                   does not trade
+(KONRADSTPN) 162                   does not trade
+(KONRADSTPN) 163                   does not trade
+(KONRADSTPN) 164                   does not trade
+(KONRADSTPN) 165                   does not trade
+(KONRADSTPN) 166                   does not trade
+(KONRADSTPN) 167                   does not trade
+(KONRADSTPN) 168                   does not trade
+(KONRADSTPN) 169                   does not trade
+(KONRADSTPN) 170                   does not trade
+(KONRADSTPN) 171                   does not trade
+(KONRADSTPN) 172                   does not trade
+(KONRADSTPN) 173                   does not trade
+(KONRADSTPN) 2127                  does not trade
+(KONRADSTPN) 2128                  does not trade
+(KONRADSTPN) 2129                  does not trade
+(KONRADSTPN) 2130                  does not trade
+(KONRADSTPN) 2131                  does not trade
+(KONRADSTPN) 2132                  does not trade
+(LONYY) 1181           receives (SWIROFF) 1749         and sends to (PROBBI) 585
+(LONYY) 1183                       does not trade
+(LONYY) 1184                       does not trade
+(LONYY) 1491                       does not trade
+(LUKASHI) 1149                     does not trade
+(LUKASHI) 1150                     does not trade
+(LUKASHI) 1151                     does not trade
+(LUKASHI) 1152                     does not trade
+(LUKASHI) 1154                     does not trade
+(MAJZOWNIK) 1047                   does not trade
+(MAJZOWNIK) 1048                   does not trade
+(MAJZOWNIK) 1049                   does not trade
+(MAJZOWNIK) 1050                   does not trade
+(MAJZOWNIK) 1051       receives (PANCOR) 778           and sends to (FEANOR_AB) 354
+(MAJZOWNIK) 1052                   does not trade
+(MAJZOWNIK) 1053                   does not trade
+(MAJZOWNIK) 1054                   does not trade
+(MAJZOWNIK) 1055                   does not trade
+(MAJZOWNIK) 1056                   does not trade
+(MAJZOWNIK) 1057                   does not trade
+(MAJZOWNIK) 1058                   does not trade
+(MAJZOWNIK) 1059                   does not trade
+(MAJZOWNIK) 1060                   does not trade
+(MAJZOWNIK) 1061                   does not trade
+(MAJZOWNIK) 1062                   does not trade
+(MAJZOWNIK) 1063                   does not trade
+(MAJZOWNIK) 1064                   does not trade
+(MAJZOWNIK) 1065                   does not trade
+(MAJZOWNIK) 1066                   does not trade
+(MAJZOWNIK) 1067                   does not trade
+(MAJZOWNIK) 1068                   does not trade
+(MAJZOWNIK) 1069                   does not trade
+(MAJZOWNIK) 1070                   does not trade
+(MAJZOWNIK) 1071                   does not trade
+(MAJZOWNIK) 1072                   does not trade
+(MAJZOWNIK) 1073                   does not trade
+(MAJZOWNIK) 1088                   does not trade
+(MAJZOWNIK) 1642                   does not trade
+(MAJZOWNIK) 1966                   does not trade
+(MARBEL) 1481                      does not trade
+(MARBEL) 1818                      does not trade
+(MARBEL) 1819                      does not trade
+(MARBEL) 1820                      does not trade
+(MARCIE118) 545                    does not trade
+(MARCIE118) 546                    does not trade
+(MARCIE118) 547                    does not trade
+(MARCIE118) 548                    does not trade
+(MARCIE118) 549                    does not trade
+(MISHIRE) 2007         receives (FRAMZ_PL) 1008        and sends to (YOORECK) 2097
+(MOR7) 196                         does not trade
+(MOR7) 257                         does not trade
+(MOR7) 62                          does not trade
+(MOR7) 63                          does not trade
+(MOR7) 64                          does not trade
+(MOR7) 65                          does not trade
+(MOR7) 66                          does not trade
+(MOR7) 67                          does not trade
+(MOR7) 68                          does not trade
+(MOR7) 69                          does not trade
+(MOR7) 70                          does not trade
+(MS103) 817                        does not trade
+(MS103) 818                        does not trade
+(MS103) 819                        does not trade
+(MS103) 820                        does not trade
+(MS103) 821                        does not trade
+(MUDIABC) 638                      does not trade
+(MUDIABC) 639                      does not trade
+(MUDIABC) 640                      does not trade
+(MUDIABC) 641                      does not trade
+(MUDIABC) 642                      does not trade
+(MZEPTER) 1171                     does not trade
+(MZEPTER) 1172                     does not trade
+(MZEPTER) 1173                     does not trade
+(MZEPTER) 1174                     does not trade
+(MZEPTER) 1175                     does not trade
+(MZEPTER) 1176                     does not trade
+(MZEPTER) 1177                     does not trade
+(MZEPTER) 1178                     does not trade
+(MZEPTER) 1360                     does not trade
+(NEDENO) 543                       does not trade
+(NEDENO) 544                       does not trade
+(NIDHOG) 1167                      does not trade
+(NIDHOG) 1168                      does not trade
+(NIDHOG) 1169                      does not trade
+(NIDHOG) 1186                      does not trade
+(NIDHOG) 1199                      does not trade
+(NIDHOG) 679                       does not trade
+(NIDHOG) 680                       does not trade
+(NIDHOG) 681                       does not trade
+(NIDHOG) 682                       does not trade
+(NIDHOG) 683                       does not trade
+(NIDHOG) 684                       does not trade
+(NIDHOG) 685                       does not trade
+(NIDHOG) 686                       does not trade
+(NIDHOG) 687                       does not trade
+(NIDHOG) 688                       does not trade
+(NIDHOG) 689                       does not trade
+(NIDHOG) 690                       does not trade
+(NIDHOG) 691                       does not trade
+(NIDHOG) 692                       does not trade
+(NIDHOG) 693                       does not trade
+(NIDHOG) 694                       does not trade
+(NIDHOG) 695                       does not trade
+(NIDHOG) 696                       does not trade
+(NIDHOG) 697                       does not trade
+(NIDHOG) 698                       does not trade
+(NIDHOG) 699                       does not trade
+(NIDHOG) 700                       does not trade
+(NIDHOG) 701                       does not trade
+(NIDHOG) 702                       does not trade
+(NIDHOG) 703                       does not trade
+(NIDHOG) 704                       does not trade
+(NIDHOG) 705                       does not trade
+(NIDHOG) 706                       does not trade
+(NIDHOG) 707                       does not trade
+(NIDHOG) 708                       does not trade
+(NIDHOG) 709                       does not trade
+(NIDHOG) 710                       does not trade
+(NIDHOG) 711                       does not trade
+(NIDHOG) 712                       does not trade
+(NIDHOG) 713                       does not trade
+(NIDHOG) 714                       does not trade
+(NIDHOG) 715                       does not trade
+(NIDHOG) 865                       does not trade
+(NIDHOG) 866                       does not trade
+(PANCOR) 1614                      does not trade
+(PANCOR) 1615                      does not trade
+(PANCOR) 1616                      does not trade
+(PANCOR) 1618                      does not trade
+(PANCOR) 1619                      does not trade
+(PANCOR) 1620                      does not trade
+(PANCOR) 1621                      does not trade
+(PANCOR) 1623                      does not trade
+(PANCOR) 1628                      does not trade
+(PANCOR) 1629                      does not trade
+(PANCOR) 1630                      does not trade
+(PANCOR) 1631                      does not trade
+(PANCOR) 1632                      does not trade
+(PANCOR) 1636                      does not trade
+(PANCOR) 1638                      does not trade
+(PANCOR) 1639                      does not trade
+(PANCOR) 1640                      does not trade
+(PANCOR) 1641                      does not trade
+(PANCOR) 1644                      does not trade
+(PANCOR) 1645                      does not trade
+(PANCOR) 1646                      does not trade
+(PANCOR) 1647                      does not trade
+(PANCOR) 1648                      does not trade
+(PANCOR) 1651                      does not trade
+(PANCOR) 1652                      does not trade
+(PANCOR) 1653                      does not trade
+(PANCOR) 1654                      does not trade
+(PANCOR) 1655                      does not trade
+(PANCOR) 1656                      does not trade
+(PANCOR) 1657                      does not trade
+(PANCOR) 1658                      does not trade
+(PANCOR) 1659                      does not trade
+(PANCOR) 1661                      does not trade
+(PANCOR) 1662                      does not trade
+(PANCOR) 1663                      does not trade
+(PANCOR) 1665                      does not trade
+(PANCOR) 1666                      does not trade
+(PANCOR) 1667                      does not trade
+(PANCOR) 1668                      does not trade
+(PANCOR) 1669                      does not trade
+(PANCOR) 1670                      does not trade
+(PANCOR) 1671                      does not trade
+(PANCOR) 1672                      does not trade
+(PANCOR) 1673                      does not trade
+(PANCOR) 1674                      does not trade
+(PANCOR) 1675                      does not trade
+(PANCOR) 1676                      does not trade
+(PANCOR) 1677                      does not trade
+(PANCOR) 1678                      does not trade
+(PANCOR) 1679                      does not trade
+(PANCOR) 1680                      does not trade
+(PANCOR) 1681                      does not trade
+(PANCOR) 1682                      does not trade
+(PANCOR) 1684                      does not trade
+(PANCOR) 1685                      does not trade
+(PANCOR) 1686                      does not trade
+(PANCOR) 1687                      does not trade
+(PANCOR) 1944                      does not trade
+(PANCOR) 1945                      does not trade
+(PANCOR) 1952                      does not trade
+(PANCOR) 1955                      does not trade
+(PANCOR) 1958                      does not trade
+(PANCOR) 2108                      does not trade
+(PANCOR) 2109                      does not trade
+(PANCOR) 2110                      does not trade
+(PANCOR) 2113                      does not trade
+(PANCOR) 2126                      does not trade
+(PANCOR) 716                       does not trade
+(PANCOR) 717                       does not trade
+(PANCOR) 718                       does not trade
+(PANCOR) 719                       does not trade
+(PANCOR) 720                       does not trade
+(PANCOR) 721                       does not trade
+(PANCOR) 722                       does not trade
+(PANCOR) 723                       does not trade
+(PANCOR) 724                       does not trade
+(PANCOR) 725                       does not trade
+(PANCOR) 726                       does not trade
+(PANCOR) 727                       does not trade
+(PANCOR) 728                       does not trade
+(PANCOR) 729                       does not trade
+(PANCOR) 730                       does not trade
+(PANCOR) 731                       does not trade
+(PANCOR) 732                       does not trade
+(PANCOR) 733                       does not trade
+(PANCOR) 734                       does not trade
+(PANCOR) 735                       does not trade
+(PANCOR) 736                       does not trade
+(PANCOR) 737                       does not trade
+(PANCOR) 738           receives (SZUKASZ) 573          and sends to (SZUKASZ) 573
+(PANCOR) 739                       does not trade
+(PANCOR) 740                       does not trade
+(PANCOR) 741                       does not trade
+(PANCOR) 742                       does not trade
+(PANCOR) 743                       does not trade
+(PANCOR) 744                       does not trade
+(PANCOR) 745                       does not trade
+(PANCOR) 746                       does not trade
+(PANCOR) 747                       does not trade
+(PANCOR) 748                       does not trade
+(PANCOR) 749                       does not trade
+(PANCOR) 750                       does not trade
+(PANCOR) 751                       does not trade
+(PANCOR) 752                       does not trade
+(PANCOR) 753                       does not trade
+(PANCOR) 754                       does not trade
+(PANCOR) 755                       does not trade
+(PANCOR) 756                       does not trade
+(PANCOR) 757                       does not trade
+(PANCOR) 758                       does not trade
+(PANCOR) 759                       does not trade
+(PANCOR) 760                       does not trade
+(PANCOR) 761                       does not trade
+(PANCOR) 762                       does not trade
+(PANCOR) 763                       does not trade
+(PANCOR) 764                       does not trade
+(PANCOR) 765                       does not trade
+(PANCOR) 766                       does not trade
+(PANCOR) 767                       does not trade
+(PANCOR) 768                       does not trade
+(PANCOR) 769                       does not trade
+(PANCOR) 770                       does not trade
+(PANCOR) 771                       does not trade
+(PANCOR) 772                       does not trade
+(PANCOR) 773                       does not trade
+(PANCOR) 774                       does not trade
+(PANCOR) 775                       does not trade
+(PANCOR) 776                       does not trade
+(PANCOR) 777                       does not trade
+(PANCOR) 778           receives (TACHION) 23           and sends to (MAJZOWNIK) 1051
+(PANCOR) 779                       does not trade
+(PANCOR) 780                       does not trade
+(PANCOR) 781                       does not trade
+(PANCOR) 782                       does not trade
+(PANCOR) 783                       does not trade
+(PANCOR) 784                       does not trade
+(PANCOR) 785                       does not trade
+(PANCOR) 786                       does not trade
+(PANCOR) 787                       does not trade
+(PANCOR) 788                       does not trade
+(PANCOR) 789                       does not trade
+(PANCOR) 790                       does not trade
+(PANCOR) 791                       does not trade
+(PANCOR) 792                       does not trade
+(PANCOR) 793                       does not trade
+(PANCOR) 794                       does not trade
+(PANCOR) 795                       does not trade
+(PANCOR) 796                       does not trade
+(PANCOR) 797                       does not trade
+(PANCOR) 798                       does not trade
+(PANCOR) 799                       does not trade
+(PANCOR) 800                       does not trade
+(PANCOR) 801                       does not trade
+(PANCOR) 802                       does not trade
+(PANCOR) 803                       does not trade
+(PANCOR) 804                       does not trade
+(PANCOR) 805                       does not trade
+(PANCOR) 806                       does not trade
+(PANCOR) 807                       does not trade
+(PANCOR) 808                       does not trade
+(PATRYKGALKA) 1170                 does not trade
+(PATRYKGALKA) 1494                 does not trade
+(PATRYKGALKA) 15                   does not trade
+(PATRYKGALKA) 16                   does not trade
+(PATRYKGALKA) 17                   does not trade
+(PATRYKGALKA) 18                   does not trade
+(PATRYKGALKA) 19                   does not trade
+(PATRYKGALKA) 20                   does not trade
+(PATRYKGALKA) 21                   does not trade
+(PATRYKGALKA) 22                   does not trade
+(PATRYKGALKA) 24                   does not trade
+(PATRYKGALKA) 26                   does not trade
+(PATRYKGALKA) 29                   does not trade
+(PATRYKGALKA) 30                   does not trade
+(PATRYKGALKA) 31                   does not trade
+(PATRYKGALKA) 32                   does not trade
+(PATRYKGALKA) 35                   does not trade
+(PATRYKGALKA) 36                   does not trade
+(PATRYKGALKA) 37                   does not trade
+(PATRYKGALKA) 38                   does not trade
+(PATRYKGALKA) 39                   does not trade
+(PATRYKGALKA) 40                   does not trade
+(PATRYKGALKA) 41                   does not trade
+(PATRYKGALKA) 42                   does not trade
+(PATRYKGALKA) 44                   does not trade
+(PATRYKGALKA) 46                   does not trade
+(PATRYKGALKA) 47                   does not trade
+(PATRYKGALKA) 49                   does not trade
+(PATRYKGALKA) 51                   does not trade
+(PATRYKGALKA) 52                   does not trade
+(PATRYKGALKA) 53                   does not trade
+(PATRYKGALKA) 54                   does not trade
+(PATRYKGALKA) 55                   does not trade
+(PATRYKGALKA) 61                   does not trade
+(PIOTR1) 831                       does not trade
+(PIOTR1) 832                       does not trade
+(PIOTR1) 833                       does not trade
+(PIOTR1) 834                       does not trade
+(PIOTR1) 835                       does not trade
+(PIOTR1) 836                       does not trade
+(POLO15) 412                       does not trade
+(POLO15) 413                       does not trade
+(POLO15) 415                       does not trade
+(POLO15) 416                       does not trade
+(POLO15) 417                       does not trade
+(POLO15) 418                       does not trade
+(POLO15) 419                       does not trade
+(POLO15) 420                       does not trade
+(POLO15) 421                       does not trade
+(POLO15) 422                       does not trade
+(PROBBI) 585           receives (LONYY) 1181           and sends to (GRIMCLASH) 965
+(PROBBI) 588                       does not trade
+(PROBBI) 590                       does not trade
+(PROPI) 810                        does not trade
+(PROPI) 811                        does not trade
+(PROPI) 812                        does not trade
+(PROPI) 813                        does not trade
+(PROPI) 815                        does not trade
+(QRZY88) 1832                      does not trade
+(QRZY88) 1844                      does not trade
+(QRZY88) 1850          receives (DEGNIR) 1040          and sends to (FEANOR_AB) 940
+(QRZY88) 1851                      does not trade
+(QRZY88) 1854                      does not trade
+(RAFMIX) 369                       does not trade
+(RAFMIX) 371                       does not trade
+(RAFMIX) 372                       does not trade
+(RAFMIX) 373                       does not trade
+(RAFMIX) 374                       does not trade
+(RAFMIX) 375                       does not trade
+(RAFMIX) 376                       does not trade
+(RAFMIX) 377                       does not trade
+(RAFMIX) 378                       does not trade
+(RAFMIX) 379                       does not trade
+(RAGGEN) 205                       does not trade
+(RAGGEN) 206                       does not trade
+(RAGGEN) 207                       does not trade
+(RAGGEN) 208                       does not trade
+(RAPHAELL7) 1                      does not trade
+(RAPHAELL7) 10                     does not trade
+(RAPHAELL7) 11                     does not trade
+(RAPHAELL7) 12                     does not trade
+(RAPHAELL7) 2                      does not trade
+(RAPHAELL7) 3                      does not trade
+(RAPHAELL7) 4                      does not trade
+(RAPHAELL7) 5                      does not trade
+(RAPHAELL7) 6                      does not trade
+(RAPHAELL7) 7                      does not trade
+(RAPHAELL7) 8                      does not trade
+(RAPHAELL7) 9                      does not trade
+(RENEG8D) 672                      does not trade
+(RENEG8D) 673                      does not trade
+(RENEG8D) 674                      does not trade
+(RENEG8D) 675                      does not trade
+(RENEG8D) 676                      does not trade
+(RENEG8D) 677                      does not trade
+(RENEG8D) 678                      does not trade
+(RODAN77) 951                      does not trade
+(RODAN77) 952                      does not trade
+(RODAN77) 953                      does not trade
+(RUDOWLOSA) 1773                   does not trade
+(RUDOWLOSA) 329                    does not trade
+(RUDOWLOSA) 330                    does not trade
+(RUDOWLOSA) 331                    does not trade
+(RUSTY3000) 653        receives (ATRAPANTHERA) 298     and sends to (ZAWATERNIOK) 226
+(SATINO4) 106                      does not trade
+(SATINO4) 107                      does not trade
+(SATINO4) 108                      does not trade
+(SATINO4) 109                      does not trade
+(SATINO4) 110                      does not trade
+(SATINO4) 111                      does not trade
+(SATINO4) 112                      does not trade
+(SATINO4) 113                      does not trade
+(SATINO4) 117                      does not trade
+(SPRYSIALDO) 178                   does not trade
+(SPRYSIALDO) 179                   does not trade
+(SPRYSIALDO) 180                   does not trade
+(SPRYSIALDO) 181                   does not trade
+(SPRYSIALDO) 552                   does not trade
+(STACHUSTACH187) 2075              does not trade
+(STACHUSTACH187) 2077              does not trade
+(STACHUSTACH187) 550               does not trade
+(STACHUSTACH187) 551               does not trade
+(STACHUSTACH187) 816               does not trade
+(STASZEK) 1295                     does not trade
+(STASZEK) 1296                     does not trade
+(STASZEK) 25                       does not trade
+(STASZEK) 28                       does not trade
+(SUSHIEEZ) 618                     does not trade
+(SUSHIEEZ) 619                     does not trade
+(SVVITALEK) 1332                   does not trade
+(SVVITALEK) 1333                   does not trade
+(SVVITALEK) 1334                   does not trade
+(SVVITALEK) 980        receives (EWELA_JAGODA) 256     and sends to (ZIEZIOR) 308
+(SVVITALEK) 981                    does not trade
+(SVVITALEK) 982                    does not trade
+(SWIROFF) 1635                     does not trade
+(SWIROFF) 1649                     does not trade
+(SWIROFF) 1707                     does not trade
+(SWIROFF) 1709                     does not trade
+(SWIROFF) 1748                     does not trade
+(SWIROFF) 1749         receives (FEANOR_AB) 940        and sends to (LONYY) 1181
+(SWIROFF) 1750                     does not trade
+(SWIROFF) 1751                     does not trade
+(SWIROFF) 1769                     does not trade
+(SWIROFF) 402                      does not trade
+(SWIROFF) 404                      does not trade
+(SWIROFF) 405                      does not trade
+(SWIROFF) 406                      does not trade
+(SWIROFF) 407                      does not trade
+(SWIROFF) 408                      does not trade
+(SWIROFF) 409                      does not trade
+(SWIROFF) 410                      does not trade
+(SWIROFF) 411                      does not trade
+(SWIROFF) 414                      does not trade
+(SYDONIAA) 1822                    does not trade
+(SYDONIAA) 1828                    does not trade
+(SYDONIAA) 1836                    does not trade
+(SYDONIAA) 1841                    does not trade
+(SYDONIAA) 1847                    does not trade
+(SYDONIAA) 1848        receives (KONRADSTPN) 141       and sends to (8RAMBO88) 1795
+(SYDONIAA) 1849                    does not trade
+(SYDONIAA) 1856                    does not trade
+(SYDONIAA) 1862                    does not trade
+(SYDONIAA) 1873                    does not trade
+(SYDONIAA) 1876                    does not trade
+(SYDONIAA) 1885                    does not trade
+(SYDONIAA) 1891                    does not trade
+(SYDONIAA) 1903                    does not trade
+(SYDONIAA) 1905                    does not trade
+(SYDONIAA) 1906                    does not trade
+(SYDONIAA) 1907                    does not trade
+(SYDONIAA) 1909                    does not trade
+(SYDONIAA) 1913                    does not trade
+(SYDONIAA) 1914                    does not trade
+(SYDONIAA) 1915                    does not trade
+(SYDONIAA) 1917                    does not trade
+(SYDONIAA) 1930                    does not trade
+(SZAFARCZYK5) 504                  does not trade
+(SZAFARCZYK5) 506                  does not trade
+(SZAFARCZYK5) 507                  does not trade
+(SZAFARCZYK5) 509                  does not trade
+(SZAFARCZYK5) 510                  does not trade
+(SZAFARCZYK5) 511                  does not trade
+(SZAFARCZYK5) 514                  does not trade
+(SZAFARCZYK5) 515                  does not trade
+(SZAFARCZYK5) 516                  does not trade
+(SZAFARCZYK5) 518                  does not trade
+(SZAFARCZYK5) 519                  does not trade
+(SZAFARCZYK5) 520                  does not trade
+(SZAFARCZYK5) 521                  does not trade
+(SZCZEPAN89) 186                   does not trade
+(SZCZEPAN89) 189                   does not trade
+(SZCZEPAN89) 292                   does not trade
+(SZCZEPAN89) 582                   does not trade
+(SZUKASZ) 573          receives (PANCOR) 738           and sends to (PANCOR) 738
+(TACHION) 13                       does not trade
+(TACHION) 14                       does not trade
+(TACHION) 23           receives (WINSTER) 1576         and sends to (PANCOR) 778
+(TACHION) 27                       does not trade
+(TACHION) 33                       does not trade
+(TAJKOON) 1931                     does not trade
+(TAJKOON) 209                      does not trade
+(TAJKOON) 211                      does not trade
+(TAJKOON) 213                      does not trade
+(TAJKOON) 214                      does not trade
+(TAJKOON) 215                      does not trade
+(TAJKOON) 217                      does not trade
+(TAJKOON) 218                      does not trade
+(TEDOKA) 220                       does not trade
+(TEDOKA) 222           receives (8RAMBO88) 1795        and sends to (HELLOWEEN85) 427
+(TEDOKA) 223                       does not trade
+(TEDOKA) 224                       does not trade
+(TEDOKA) 225                       does not trade
+(TROGLODYTA) 827                   does not trade
+(TROGLODYTA) 829       receives (ZAWATERNIOK) 828      and sends to (ZAWATERNIOK) 828
+(TROGLODYTA) 830                   does not trade
+(ULTAN1990) 281                    does not trade
+(UNKNOWN0) 1490                    does not trade
+(UNKNOWN0) 1492                    does not trade
+(UNKNOWN0) 1493                    does not trade
+(UNKNOWN0) 1495                    does not trade
+(UNKNOWN0) 1496                    does not trade
+(UNKNOWN0) 1497                    does not trade
+(UNKNOWN0) 1498                    does not trade
+(UNKNOWN0) 1501                    does not trade
+(UNKNOWN0) 1530        receives (AKURCZAK) 1912        and sends to (CIUNIEK) 436
+(UNKNOWN0) 1535                    does not trade
+(UNKNOWN0) 1548                    does not trade
+(UNKNOWN0) 1565                    does not trade
+(UNKNOWN0) 1609                    does not trade
+(VOUTECH83) 1194                   does not trade
+(VOUTECH83) 1297                   does not trade
+(VOUTECH83) 1298                   does not trade
+(VOUTECH83) 1808                   does not trade
+(VOUTECH83) 930                    does not trade
+(VOUTECH83) 931                    does not trade
+(VOUTECH83) 932                    does not trade
+(VOUTECH83) 933                    does not trade
+(VOUTECH83) 934                    does not trade
+(VOUTECH83) 935                    does not trade
+(VOUTECH83) 936                    does not trade
+(VOUTECH83) 937                    does not trade
+(VOUTECH83) 938                    does not trade
+(VOUTECH83) 939                    does not trade
+(WARENHARI) 1098                   does not trade
+(WARENHARI) 1099                   does not trade
+(WARENHARI) 1101                   does not trade
+(WARENHARI) 1103                   does not trade
+(WARENHARI) 1105                   does not trade
+(WARENHARI) 1106                   does not trade
+(WARENHARI) 1107                   does not trade
+(WARENHARI) 1109                   does not trade
+(WARENHARI) 1110                   does not trade
+(WARRTAIN) 301                     does not trade
+(WARRTAIN) 302                     does not trade
+(WARRTAIN) 303                     does not trade
+(WARRTAIN) 304                     does not trade
+(WARRTAIN) 305                     does not trade
+(WARRTAIN) 306                     does not trade
+(WARRTAIN) 307                     does not trade
+(WINSTER) 1574                     does not trade
+(WINSTER) 1576         receives (ZAWATERNIOK) 226      and sends to (TACHION) 23
+(WINSTER) 1597                     does not trade
+(WINSTER) 1599                     does not trade
+(WINSTER) 1601                     does not trade
+(WINSTER) 1929                     does not trade
+(YOORECK) 1147                     does not trade
+(YOORECK) 2097         receives (MISHIRE) 2007         and sends to (ATRAPANTHERA) 298
+(YOORECK) 247                      does not trade
+(YOORECK) 248          receives (BALD_MASTER) 264      and sends to (FRAMZ_PL) 1008
+(YOORECK) 249                      does not trade
+(ZAWATERNIOK) 226      receives (RUSTY3000) 653        and sends to (WINSTER) 1576
+(ZAWATERNIOK) 231                  does not trade
+(ZAWATERNIOK) 239                  does not trade
+(ZAWATERNIOK) 282                  does not trade
+(ZAWATERNIOK) 828      receives (TROGLODYTA) 829       and sends to (TROGLODYTA) 829
+(ZAWATERNIOK) 867                  does not trade
+(ZIEZIOR) 308          receives (SVVITALEK) 980        and sends to (EWELA_JAGODA) 256
+(ZIEZIOR) 309          receives (GRIMCLASH) 965        and sends to (DEGNIR) 1040
+(ZIEZIOR) 310                      does not trade
+(ZIEZIOR) 311                      does not trade
+(ZIEZIOR) 312                      does not trade
+(ZIEZIOR) 313                      does not trade
+(ZIEZIOR) 314                      does not trade
+(ZIEZIOR) 315                      does not trade
+(ZIEZIOR) 316                      does not trade
+(ZIEZIOR) 983                      does not trade
+
+Num trades  = 37 of 812 items (4.6%)
+Total cost  = 45 (avg 1.22)
+Num groups  = 6
+Group sizes = 13 9 8 3 2 2
+Sum squares = 331
